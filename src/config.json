@@ -1,9 +1,9 @@
 {
-  "hostname": "selo.pona.la",
-  "title": "pona.la: a starter for Toki Pona sites",
-  "description": "Start modifying this page to your needs!",
-  "url_goatcounter": "https://selo-pona-la.goatcounter.com",
-  "url_github": "https://github.com/pona-la/selo.pona.la/",
+  "hostname": "kemeka.pona.la",
+  "title": "lipu Kemeka: a WIP data collection project",
+  "description": "",
+  "url_goatcounter": "https://kemeka-pona-la.goatcounter.com",
+  "url_github": "https://github.com/pona-la/kemeka.pona.la/",
 
   "use_navbar": false,
   "use_language_toggle": false

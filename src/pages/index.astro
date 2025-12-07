@@ -1,0 +1,16 @@
+---
+import "selo-components/common.css"; // has to be above site-specific css
+
+import "@/global.css";
+import { Layout } from "selo-components";
+import { config } from "selo-components/config";
+import WordForm from "@/components/WordForm.svelte";
+---
+
+<Layout title={config.title} description={config.description}>
+  <WordForm client:only="svelte" />
+  <p>
+    <b>Warning!</b> This is a prototype and currently <i>does not</i> send your translations
+    anywhere.
+  </p>
+</Layout>
