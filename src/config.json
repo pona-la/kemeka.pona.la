@@ -1,0 +1,10 @@
+{
+  "hostname": "selo.pona.la",
+  "title": "pona.la: a starter for Toki Pona sites",
+  "description": "Start modifying this page to your needs!",
+  "url_goatcounter": "https://selo-pona-la.goatcounter.com",
+  "url_github": "https://github.com/pona-la/selo.pona.la/",
+
+  "use_navbar": false,
+  "use_language_toggle": false
+}
