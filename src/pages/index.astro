@@ -1,16 +1,32 @@
 ---
 import "selo-components/common.css"; // has to be above site-specific css
 
+import DictPage from "@/components/DictPage.astro";
 import "@/global.css";
+import { getCollection } from "astro:content";
 import { Layout } from "selo-components";
 import { config } from "selo-components/config";
-import WordForm from "@/components/WordForm.svelte";
 ---
 
 <Layout title={config.title} description={config.description}>
-  <WordForm client:only="svelte" />
-  <p>
-    <b>Warning!</b> This is a prototype and currently <i>does not</i> send your translations
-    anywhere.
-  </p>
+  <script is:inline defer src="/alpine.min.js" slot="head"></script>
+  <main x-data="{search: ''}">
+    <search>
+      <input
+        type="search"
+        id="search"
+        x-model="search"
+        x-on:input="window.history.replaceState(search, '', '/' + (search ? '?q=' + search : ''))"
+        x-init="let params = new URLSearchParams(window.location.search); search = params.get('q') || ''"
+      />
+    </search>
+    {
+      (await getCollection("content")).map((post) => (
+        <section x-show={`'${post.data.title}'.includes(search)`}>
+          <h2>{post.data.title}</h2>
+          <DictPage post={post} />
+        </section>
+      ))
+    }
+  </main>
 </Layout>

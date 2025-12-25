@@ -6,3 +6,44 @@
     --accent: #dc8add;
     --accent-1: #f1b3f2;
 }
+/*
+ol {
+    padding-left: 20px;
+}
+ul {
+    padding-left: 0px;
+    border-left: 2px dotted var(--grey);
+    margin: 7px 0px;
+    display: flex;
+    flex-direction: column;
+}
+ul > li {
+    list-style-type: none;
+    padding: 5px 15px;
+}
+ul > li:nth-child(odd) {
+    background-color: var(--bg-1);
+}*/
+
+ol {
+    padding-left: 30px;
+}
+ul {
+    padding-left: 20px;
+    list-style-type: none;
+}
+ol > li {
+    margin-bottom: 20px;
+}
+ul > li {
+    margin-bottom: 10px;
+}
+/*}*/
+
+#search {
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    font-size: 120%;
+}

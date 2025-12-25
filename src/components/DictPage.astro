@@ -1,0 +1,34 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { marked } from "marked";
+
+interface Props {
+  post: CollectionEntry<"content">;
+}
+
+const { post } = Astro.props;
+const md = (text: string) => marked.parse(text).replaceAll(/\<\/?p\>/g, "");
+---
+
+{
+  post.data.definitions && (
+    <ol>
+      {post.data.definitions.map((definition) => (
+        <li>
+          {definition.eng} — <b>{definition.tok}</b>
+          {definition.examples && (
+            <ul>
+              {definition.examples.map((example) => (
+                <li>
+                  <i set:html={md(example.tok)} />
+                  <br />
+                  <span set:html={md(example.eng)} />
+                </li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))}
+    </ol>
+  )
+}

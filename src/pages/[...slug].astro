@@ -1,0 +1,19 @@
+---
+import "selo-components/common.css"; // has to be above site-specific css
+
+import DictPage from "@/components/DictPage.astro";
+import "@/global.css";
+import { getCollection } from "astro:content";
+import { Layout } from "selo-components";
+export const getStaticPaths = async () =>
+  (await getCollection("content")).map((post) => ({
+    params: { slug: post.id },
+    props: post,
+  }));
+
+const post = Astro.props.data;
+---
+
+<Layout title={post.title} description="">
+  <DictPage post={Astro.props} />
+</Layout>
