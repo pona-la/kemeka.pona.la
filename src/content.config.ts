@@ -32,7 +32,7 @@ export const collections = {
   content: defineCollection({
     loader: async () => {
       const data = processCsv();
-      console.log(data);
+      console.log(data.length);
       return data.map((row) => ({
         id: row.keyword,
         title: row.keyword,

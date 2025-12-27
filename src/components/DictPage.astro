@@ -32,3 +32,57 @@ const md = (text: string) => marked.parse(text).replaceAll(/\<\/?p\>/g, "");
     </ol>
   )
 }
+
+<!-- Implementation of a design by mute ante, more or less --><!-- <style>
+  .keyword {
+    color: #1d6bca;
+    font-weight: 800;
+    padding-inline-end: 5px;
+  }
+  p {
+    padding-bottom: 15px;
+  }
+  .examples {
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
+</style>
+<p>
+  {
+    !post.data.definitions ? (
+      <p class="keyword">{post.data.title}</p>
+    ) : (
+      post.data.definitions.map((definition, index) => (
+        <>
+          <span>
+            {!index && <span class="keyword">{post.data.title}</span>}
+            {post.data.definitions!.length > 1 && (
+              <span class="keyword">{index + 1}</span>
+            )}
+            <span>
+              <b>
+                {post.data.definitions!.length > 1 && definition.eng}
+                {" — "}
+                {definition.tok}.
+              </b>
+            </span>
+            {definition.examples && (
+              <span class="examples">
+                {"["}
+                {definition.examples.map((example) => (
+                  <>
+                    <i set:html={md(example.tok)} />
+                    <span> </span>
+                    <span set:html={md(example.eng)} />
+                  </>
+                ))}
+                {"]"}
+              </span>
+            )}
+          </span>
+          <br />
+        </>
+      ))
+    )
+  }
+</p> -->
