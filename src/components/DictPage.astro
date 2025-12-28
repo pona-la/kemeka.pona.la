@@ -7,7 +7,13 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const md = (text: string) => marked.parse(text).replaceAll(/\<\/?p\>/g, "");
+async function md(text: string) {
+  const link_replacer = (_: any, text: string) =>
+    `[${text}](?q=${text.replaceAll(" ", "_")})`;
+  const linked_text = text.replaceAll(/\[(.+?)\](?!\()/g, link_replacer);
+  const html_string = await marked.parse(linked_text);
+  return html_string.replaceAll(/\<\/?p\>/g, "");
+}
 ---
 
 {
@@ -15,7 +21,9 @@ const md = (text: string) => marked.parse(text).replaceAll(/\<\/?p\>/g, "");
     <ol>
       {post.data.definitions.map((definition) => (
         <li>
-          {definition.eng} — <b>{definition.tok}</b>
+          <span set:html={md(definition.eng)} />
+          <span> — </span>
+          <b set:html={md(definition.tok)} />
           {definition.examples && (
             <ul>
               {definition.examples.map((example) => (

@@ -27,11 +27,11 @@ The injured person **asked** for a glass of water. | jan pakala li **wile** e te
 12,kala Asi,ask,v,,o,a polite command,**o** weka. | I kindly **ask** you to leave.
 6,lipamanka,at,prep,,lon,in or near a place or time,mi **lon** tomo awen pi ilo tawa. | I'm **at** the bus stop.
 6,kala Asi,at,prep,,tawa,in the direction of,o pana ala wawa e kiwen **tawa** jan. | Don't throw rocks **at** people.
-6,mute ante,autism,,,"ante lawa, lawa (li) ante, nasa","a type of neurodivergency characterized by divergence in social situations, among many other symptoms",**lawa** mi li **ante**. | I am **autistic**.
+6,mute ante,autism,,,"ante lawa, lawa (li) ante, nasa lawa, lawa (li) nasa","a type of neurodivergency characterized by divergence in social situations, among many other symptoms",**lawa** mi li **ante**. | I am **autistic**.
 0,lipamanka,base (on),v,,"tan, pali tan ","to design with something as a prototype (based ""on"") ",mi **pali** e ilo ni **tan** sitelen pi jan Pensiman. | I **based** this tool **on** Benjamin's designs.
 7,lipamanka,based,adj,,pona,to be politically aligned with the speaker (originally from 4chan) ,
-0,,bath,,,,,
-0,,bathe,,,,,
+0,lipamanka,bath,,,"poki telo, poki kala","a receptical for cleaning one's body, typically while reclined","mi lon **poki telo** la mi ken ala toki uta tan nasa. | I'm in the **bath,** so I won't join voice chat because that would be weird. "
+0,lipamanka,bathe,,,"telo e, kala",to clean one's body while reclined,"mi **kala** la kon mi li pona tawa nena. | When I bathe, I smell good. "
 6,kala Asi,be,v,1,∅,linking verb (copula),"mi wile moku. | I **am** hungry.
 sina o sina. | Just **be** yourself. "
 6,kala Asi,be,v,2,lon,exist,"mi pilin la mi **lon**. | I think, therefore I **am**."
@@ -69,11 +69,15 @@ kulupu mama mi li jo e **soweli tomo** tu. | My family has two **cats**."
 6,,chair,,,,,
 16,,cheese,,,,,
 6,,chess,,,musi supa pi jan tu,a board game with two players,"**musi supa pi jan tu** la sona pi jan Alesanta li suli tawa sona mi. | In **chess**, Alexandra's knowledge is greater than mine."
-9,,chicken,,,,,
+9,mun Nanseki,chicken,n,1,waso,bird,**waso** li pana e sike; sike ni li ken moku | **Chickens** lay eggs that can be eaten.
+9,,chicken,n,1a,,,
+9,,chicken,adj,2,,"cowardly, scared",
 8,poni Kita,child,,,"jan lili, jan sin","small person, person who is new (to life)",**jan sin** mute li tawa li musi lon ma kasi. | Many **children** are running around and playing in the park.
 8,poni Kita,child,,,"jan lili (mi), jan kili","person who is a ""fruit"" (of another), progeny",**jan kili** mi li kama suli li kama kin e **jan kili**. | My **child** grew up and also had a **child**.
-14,lipamanka,choose,,,"toki e wile, pana e wile",to designate one option of many as the desired option,mi **toki e wile** mi a! | I've **made my choice**!
-14,kala Asi,choose,,,sona e pona,to know which is best,mi **sona** ala e ni: nasin seme li **pona**? | I don't know which path to **choose**.
+14,"lipamanka, kala Asi, waso Keli",choose,,,"toki e wile, pana e wile, sona e pona, sona e wile, wile, etc","to designate one option of many as the desired option, to know which option is best","mi **toki e wile** mi a! | I've **made my choice**!
+mi **sona** ala e ni: nasin seme li **pona**? | I don't know which path to **choose**.
+mi **wile** e suwi loje. | i **choose** the red candy."
+14,kala Asi,choose,,,,,
 12,mun Nanseki,christmas,n,1a,"(tenpo) suno pana, tenpo pana",day or time of giving,mi kama jo e seme lon **suno pana**... | What will I receive for **Christmas**...
 12,lipamanka,christmas,n,1b,tenpo pi weka pali,winter break (from work) ,mi **weka** tan **pali** la mi musi lon kulupu mi. | During **Christmas** break I enjoy time with my family.
 12,mun Nanseki,christmas,n,1c,(tenpo) suno pi jan Santa,Santa day,
@@ -88,7 +92,7 @@ kulupu mama mi li jo e **soweli tomo** tu. | My family has two **cats**."
 7,,conlang,,,,,
 15,,context,,,,,
 8,jan Lakuse,cringe,,,pilin nasa ike (pi wile weka),disgust and aversion to a stimuli,"mi kama lukin e sijelo pini mi pi ilo Jutu la mi **pilin nasa ike** li **wile weka** tan lukin. | When I come upon my old Youtube account, I **cringe**. "
-23,,day,,,,,
+23,mun Nanseki,day,,,(tenpo) suno,"sun-related time; daytime, period of 24hr",
 6,kala Asi,different,,,sama ala,not the same,pipi en kala li **sama ala**. | Bugs are **different** from fish.
 6,kala Asi,different,,,ante,other,mi o lape lon tenpo **ante**. | I should go to bed at a **different** time.
 18,kala Asi,difficult,,,wile e pali mute,requires a lot of effort,toki Sonko li **wile e pali mute**. | Chinese is a **difficult** language.
@@ -126,7 +130,8 @@ tenpo kama **weka** la ken la sijelo jan li pakala ala e pilin ona. | In the **f
 39,,for,,,,,
 7,,forget,,,,,
 7,,free,,,,,
-13,,friend,,,,,
+13,kala Asi,friend,,,"(jan) poka, (jan) pona",someone physically and emotionally close and enjoyable,"jan Sankin li pona tawa mi. ike la mi tu li **poka** ala. | I like John Green, but unfortunately we are not **friends**.
+ona li pona e mi lon tenpo utala. mi tu li awen **pona**. | He helped me out during the war, and we've remained **friends** since."
 9,"lipamanka, kala Asi",from,prep,1,tan,"originating in/at, because of","mi kama **tan** ma Mewika. | I came **from** America.
 jan mute li moli **tan** ike sijelo. | Many people die **from** disease."
 9,kala Asi,from,prep,2,"en, ∅",indicating differentiation,"pilin mi **en** pilin sina li sama ala. | You opinions differ **from** mine.
@@ -221,7 +226,7 @@ jan olin li **luka olin** e mi li mu suwi. | My partner **hugged** me and made a
 suno pi toki pona la mi **kalama musi!** | On Toki Pona day, I will perform **music**!"
 7,,next,,,,,
 6,kala Asi,night,n,,tenpo pimeja,time when the sun is below horizon,soweli mute li lape lon **tenpo pimeja**. | Many animals sleep at **night**.
-6,kala Asi,night,interj,,,short for [good night],
+6,kala Asi,night,interj,,"mi weka, o lape pona",short for [good night](?q=good night),
 24,kala Asi,no,,,"ala, (ijo) ala","answer to a negative question, not any","— sina sona ala sona toki Tosi? — **sona ala**. | — Do you know how to speak German? — **No**, I don't.
 lipu **ala** li ken toki e ijo ale. | **No** book can cover every topic."
 7,kala Asi,north,,,ma lete,polar (in relation to the Northern hemisphere),**ma** Amelika **lete** | **North** America
@@ -344,14 +349,19 @@ mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower*
 7,kala Asi,stop,,,"ma awen, tomo awen",place where people await vehicles,**tomo** ni **awen** li wile e supa sewi. | This bus **stop** needs a roof.
 19,kala Asi,story,,,toki,narrative,mi o pana e **toki**. | Let me tell you a **story**.
 9,mun Nanseki,straight,,,olin e {meli/mije},loves {women/men},
-9,,straight,,,?,straight (as a line),
-32,,stuff,,,,,
-12,,take,,,,,
-6,,teacher,,,,,
-6,,test,,,,,
+9,lipamanka,straight,,,sama palisa,straight (as a line or object),luka ona li **sama palisa.** | Her arms were **straight.**
+32,lipamanka,stuff,,,ijo,a mass of one or more objects or materials,"**ijo** mute li lon tomo mi la o kama ala. | There's a lot of **stuff** in my apartment, so don't come over. "
+12,lipamanka,take,v,1,kama (jo) e,to acquire sth.,mi **kama jo** e pan tan mama. | I'll **take** some of my father's bread.
+12,lipamanka,take,v,1a,weka e,"to acquire sth., and remove it from somewhere (take away)",mi **weka e** ken sina pi pali pan. | I've **taken** away your baking privileges.
+12,lipamanka,take,v,1b,sin e,"to acquire sth., copying it",mi **sin** e pilin sina lon mi. | I'm gonna **take** that opinion as my own. 
+12,lipamanka,take,n,,"pilin, toki",an opinion,"**pilin** mi la jan ale o weka tan tomo lon tenpo suno. | My **take** is that everyone should leave the house when the sun is out. 
+mi toki tawa jan San. **toki** nasa ona li utala e mi. | I talked to John and his hot **takes** disturbed me. "
+6,lipamanka,teacher,,,jan pi pana sona,"one who teaches, one who gives knowledge","**jan pi pana sona** li pali ala la ona li awen lon tomo sona anu seme... | When **teachers** aren't working, do they stay at school..."
+6,lipamanka,test,n,,"lipu, utala",an exam in an academic setting,jan **Pola** li lukin e lipu ona li pilin ike. | Flora looked down at her **test** and felt terrible. 
+6,lipamanka,test,v,,alasa,to judge character or ability,sewi li **alasa** e pona pi jan Awajan. | God **tested** Abraham. 
 41,,thank you,,,,,
 14,,then,,,,,
-33,,think,,,,,
+33,lipamanka,think,,,toki (insa),to perform a conscious mental task,"jan Teka li **toki insa** e ni: mi **toki** la mi lon. | Descarts **thought,** ""I **think,** therefore I am."" "
 8,,thought,,,,,
 9,kala Asi,time,,,tenpo,"duration, period","pali ni li wile e **tenpo** suli. | This job takes a long **time** to do.
 **tenpo** seme la sina ken kama? | At what **time** can you come?"
@@ -365,7 +375,8 @@ mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower*
 10,mun Nanseki,translate,v,1a,ante e toki,change the language,lipu ni li **ante e toki** pi nimi mute. | This page **translates** many phrases. 
 10,mun Nanseki,translate,v,1b,toki {language},make into {language},mi **toki Epelanto** e lipu ni. | I've **translated** that document **into Esperanto**.
 9,,triangle,n,,kiki,shape with three sides,
-7,,try,,,,,
+7,lipamanka,try,,,"alasa, lukin (as preverbs)","attempt, make an effort to do something, regardless of success","mi **lukin** seli e pan, taso pilin mi la seli li lili ike | I'm **trying** to bake this bread, but I feel like heat may be too low.
+jan mute li **alasa** kama sona e toki Kanse, li kama sona pona! | A lot of people try to learn French and succeed. "
 6,jan Niwe,two,,,tu,two,jan **tu** li lon tomo ni. | **Two** people are in that building.
 8,,until,,,,,
 12,kala Asi,very,,,mute,to a great extent,kala ni li suli **mute**. | The whale is a **very** large animal.
@@ -376,7 +387,7 @@ mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower*
 7,kala Asi,website,n,2,ilo,"online page with high interactivity, web app","**ilo** Siko | (the **website** called) Discord
 **ilo** Kuko | (the **website** called) Google"
 8,kala Asi,week,,,"tenpo esun, (tenpo) suno luka tu",seven-day cycle,**suno luka tu** la mi pali lon suno luka. | I work five days of the **week**.
-11,,welcome,,,,,
+11,lipamanka,welcome,,,"kama pona, kama sina o pona, kama a ",interjection said upon someone's arrival,**kama pona** lon ma ike pi jan ike! | **Welcome** to the evil place with the evil people!
 14,kala Asi,when,,,lon tenpo seme,at what time,**tenpo seme** la soweli lili li kama lon? | **When** were the kittens born?
 14,kala Asi,when,,,la,"in the situation that, if",sina tawa lon nasin **la** o awen lukin pona e ale. | Be careful **when** crossing the street.
 12,kala Asi,where,,,"lon seme, lon (ijo) seme",at what place,nena li **lon seme**? | **Where** is the button?

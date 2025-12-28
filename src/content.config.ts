@@ -33,6 +33,7 @@ export const collections = {
     loader: async () => {
       const data = processCsv();
       console.log(data.length);
+      // console.log("['" + data.map((row) => row.keyword).join("', '") + "']");
       return data.map((row) => ({
         id: row.keyword,
         title: row.keyword,

@@ -16,8 +16,8 @@ import { config } from "selo-components/config";
         type="search"
         id="search"
         x-model="search"
-        x-on:input="window.history.replaceState(search, '', '/' + (search ? '?q=' + search : ''))"
-        x-init="let params = new URLSearchParams(window.location.search); search = params.get('q') || ''"
+        x-on:input="window.history.replaceState(search, '', '/' + (search ? '?q=' + search.replaceAll(' ', '_') : ''))"
+        x-init="let params = new URLSearchParams(window.location.search); search = params.get('q').replaceAll('_', ' ') || ''"
       />
     </search>
     {
