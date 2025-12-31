@@ -33,7 +33,8 @@ export const collections = {
   content: defineCollection({
     loader: async () => {
       const data = processCsv();
-      console.log(data.find((row) => row.keyword == "chess"));
+      console.log(data.length);
+      // console.log(data.find((row) => row.keyword == "chess"));
       // console.log("['" + data.map((row) => row.keyword).join("', '") + "']");
       return data.map((row) => ({
         id: row.keyword,
