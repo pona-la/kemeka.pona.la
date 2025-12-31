@@ -1,12 +1,20 @@
 import { parse } from "csv-parse/sync";
 import fs from "fs";
 
-interface CsvRow {
+interface CsvDefs {
+  "times asked": string;
   submitted: string;
   keyword: string;
+  pos: string;
+  enumeration: string;
   tok: string;
   eng: string;
   examples: string;
+}
+interface CsvNotes {
+  submitted: string;
+  keyword: string;
+  notes: string;
 }
 
 interface Output {
@@ -19,31 +27,36 @@ interface Output {
       eng: string;
     }[];
   }[];
+  notes?: string;
 }
 
-export function processCsv() {
-  // Read CSV file
-  const fileContent = fs.readFileSync("data/definitions.csv", "utf-8");
-
-  // Parse CSV into objects
-  const records: CsvRow[] = parse(fileContent, {
+const fromCsv = <T>(path: string) =>
+  parse<T>(fs.readFileSync(path, "utf-8"), {
     columns: true,
     skip_empty_lines: true,
     trim: true,
   });
 
-  const filtered = records.filter((row) => row.tok !== "" && row.eng !== "");
-  const grouped = new Map<string, Output>();
+export function processCsv() {
+  // Parse CSV
+  let notes = fromCsv<CsvNotes>("data/notes.csv");
+  let defs = fromCsv<CsvDefs>("data/definitions.csv");
+  defs = defs.filter((row) => row.tok !== "" && row.eng !== "");
 
-  for (const row of filtered) {
-    if (!grouped.has(row.keyword)) {
-      grouped.set(row.keyword, {
+  const entries = new Map<string, Output>();
+
+  for (const row of defs) {
+    // Initialise dictionary entry
+    if (!entries.has(row.keyword)) {
+      entries.set(row.keyword, {
         keyword: row.keyword,
         definitions: [],
+        notes: notes.find((note) => note.keyword == row.keyword)?.notes,
       });
     }
 
-    grouped.get(row.keyword)!.definitions.push({
+    // Add row to dictionary entry
+    entries.get(row.keyword)!.definitions.push({
       tok: row.tok,
       eng: row.eng,
       examples: !row.examples
@@ -56,5 +69,5 @@ export function processCsv() {
   }
 
   // Convert map to array
-  return Array.from(grouped.values());
+  return Array.from(entries.values());
 }

@@ -19,6 +19,7 @@ const contentSchema = z.object({
       }),
     )
     .optional(),
+  notes: z.string().optional(),
 });
 
 // export const collections = {
@@ -32,12 +33,13 @@ export const collections = {
   content: defineCollection({
     loader: async () => {
       const data = processCsv();
-      console.log(data.length);
+      console.log(data.find((row) => row.keyword == "chess"));
       // console.log("['" + data.map((row) => row.keyword).join("', '") + "']");
       return data.map((row) => ({
         id: row.keyword,
         title: row.keyword,
         definitions: row.definitions,
+        notes: row.notes,
       }));
     },
     schema: contentSchema,

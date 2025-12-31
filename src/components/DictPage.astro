@@ -12,35 +12,56 @@ async function md(text: string) {
     `[${text}](?q=${text.replaceAll(" ", "_")})`;
   const linked_text = text.replaceAll(/\[(.+?)\](?!\()/g, link_replacer);
   const html_string = await marked.parse(linked_text);
-  return html_string.replaceAll(/\<\/?p\>/g, "");
+  const unembedded_string = html_string
+    .trim()
+    .replaceAll(/^\<p\>/g, "")
+    .replaceAll(/\<\/p\>$/g, "");
+  return unembedded_string;
 }
 ---
 
-{
-  post.data.definitions && (
-    <ol>
-      {post.data.definitions.map((definition) => (
-        <li>
-          <span set:html={md(definition.eng)} />
-          <span> — </span>
-          <b set:html={md(definition.tok)} />
-          {definition.examples && (
-            <ul>
-              {definition.examples.map((example) => (
-                <li>
-                  <i set:html={md(example.tok)} />
-                  <br />
-                  <span set:html={md(example.eng)} />
-                </li>
-              ))}
-            </ul>
-          )}
-        </li>
-      ))}
-    </ol>
-  )
-}
-
+<style>
+  ol {
+    padding-left: 30px;
+  }
+  ul {
+    padding-left: 20px;
+    list-style-type: none;
+  }
+  ol > li {
+    margin-bottom: 20px;
+  }
+  ul > li {
+    margin-bottom: 10px;
+  }
+</style>
+<>
+  {
+    post.data.definitions && (
+      <ol>
+        {post.data.definitions.map((definition) => (
+          <li>
+            <span set:html={md(definition.eng)} />
+            <span> — </span>
+            <b set:html={md(definition.tok)} />
+            {definition.examples && (
+              <ul>
+                {definition.examples.map((example) => (
+                  <li>
+                    <i set:html={md(example.tok)} />
+                    <br />
+                    <span set:html={md(example.eng)} />
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))}
+      </ol>
+    )
+  }
+  {post.data.notes && <p set:html={md(post.data.notes)} />}
+</>
 <!-- Implementation of a design by mute ante, more or less --><!-- <style>
   .keyword {
     color: #1d6bca;
