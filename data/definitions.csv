@@ -106,7 +106,8 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 23,mun Nanseki,day,,,(tenpo) suno,"sun-related time; daytime, period of 24hr",
 6,kala Asi,different,,,sama ala,not the same,pipi en kala li **sama ala**. | Bugs are **different** from fish.
 6,kala Asi,different,,,ante,other,mi o lape lon tenpo **ante**. | I should go to bed at a **different** time.
-18,kala Asi,difficult,,,wile e pali mute,requires a lot of effort,mi wile sona toki Sonko la ni li **wile e pali mute**. | Chinese is a **difficult** language for me to learn.
+18,kala Asi,difficult,,,"wile e pali mute, pali suli",requires a lot of effort,"mi wile sona toki Sonko la ni li **wile e pali mute**. | Chinese is a **difficult** language for me to learn.
+ni li **pali suli** ala, li pali nasa. | This is not **difficult**, just confusing."
 19,kala Asi,do,,,∅,placeholder verb,"sina seme? | What are you **doing**?
 kon li pona e mi. | The fresh air **did** me some good.
 o pali! | **Do** your job!"
@@ -120,12 +121,15 @@ o pali! | **Do** your job!"
 8,kala Asi,each,,,ale,every,jan **ale** o open e lipu ona. | **Each** person should open their books.
 6,kala Asi,earth,,,ma,land (as opposed to sky or sea),"jan li lawa e **ma** la sewi li lawa e sewi. | Whereas mortals rule the **Earth**, the divine rules over heaven."
 6,kala Asi,earth,,,(ko) ma,"dirt, soil",**ko** ni **ma** li pona tawa kasi. | This **earth** is good for agriculture.
-14,ilo Tani,easy,,,"wile e wawa lili, wile e pali lili",requiring little effort,pali nanpa wan li **wile e wawa lili**. pali nanpa pini li wile e wawa mute e tenpo mute. | The first task was **easy**. The final task was difficult and required a lot of time.
+14,ilo Tani,easy,,,"wile e wawa lili, wile e pali lili",requiring little effort,pali nanpa wan li **wile e wawa lili**. pali nanpa pini li wile e wawa mute e tenpo mute. | The first task was **easy**. The final task was [difficult] and required a lot of time.
 16,kala Asi,egg,,,"sike waso, sike mama","the ball produced by a parent, often a bird","sina pali seme kepeken ko jelo pi **sike waso**? | What did you make with the **egg** yolk?
-seme li kama lon open: mama sike anu **sike mama**? | What came first, the chicken or the **egg**?"
+seme li kama lon open: mama sike anu **sike mama**? | What came first, the [chicken] or the **egg**?"
 6,,example,,,,,
 7,kala Asi,face,,,sinpin,"the front part, especially of a human head",jan li utala e sina la sina kama ala kama sona e **sinpin** ona? | Did you remember the **face** of the person who attacked you?
 7,ijo vivi,face,,,"pilin, kulupu","reputation, public image",mi wile ala kama ike tawa jan ale! | I don't want to lose face before everyone!
+0,kala Asi,fact,,,"sona, lon",something grounded in truth,"o pini e toki pilin. o open e toki pi **sona lon**. | Let's move on from opinions and consider the **facts**.
+pilin sina la ona li jo e mani mute. taso **lon** la ona li jo e mani ala. | You thought he's rich, but **in fact** he's penniless."
+0,kala Asi,fact,,,"∅, ni","""the fact that ..."" -- a relative clause cliché",toki Lusi li kepeken sitelen Kililisa. **ni** li ike e ken sona mi. | **The fact that** Russian uses Cyrillic makes it hard for me to read.
 7,kala Asi,fall,,,tawa anpa,move downwards,lipu kasi li **tawa anpa**. | The leaves are **falling**.
 7,kala Asi,fall,,,kama,become,mi lukin e ona li **kama** olin. | I saw them and **fell** in love.
 7,kala Asi,fall,,,"pini, moli",come to an end,"ma Loma nanpa tu li **pini** tan kulupu Tuki. | The second Rome **fell** to the Turks.
@@ -133,7 +137,7 @@ jan mute pona li **moli** lon ma utala. | Many good men **fell** in battle."
 7,kala Asi,fall,,,"tenpo pan, tenpo pi moli lipu","autumn, season marked by falling leaves and harvest","**lipu kasi li moli la tenpo** ni li kama: sin la mi o tawa tomo sona. | As **fall** is upon us, once again I have to go to school.
 lipu mun la **tenpo pan** li tenpo suli nanpa TW li kama lon mun nanpa LTT. | Going by the calendar, **fall** is the third season and starts in September."
 7,kala Asi,family,,,kulupu (mama),group of people based on kinship,"**kulupu mama** mi li wile tawa lon telo. taso mi wile ala. | My **family** want to travel by boat, but I don't want to join them."
-6,kala Asi,far,,,weka,remote in space or time,"ona li tawa ma weka. | She travelled to a **far** land.
+6,kala Asi,far,,,weka,remote in space or time,"ona li tawa ma **weka**. | She travelled to a **far** land.
 tenpo kama **weka** la ken la sijelo jan li pakala ala e pilin ona. | In the **far** future, perhaps, diseases do not cause suffering."
 6,kala Asi,far,,,"a, mute","emphatic, very much",mi kama sona e ni: ona li jo e mani mute **a**. | He turned out to be **far** richer than I'd thought.
 28,mute ante,fast,,1,(kepeken) tenpo lili,using little time,mi moku **kepeken tenpo lili**. | I am a **fast** eater.
@@ -141,13 +145,16 @@ tenpo kama **weka** la ken la sijelo jan li pakala ala e pilin ona. | In the **f
 6,mute ante,femboy,,,(jan) mije (pi sama) meli,man who expresses/dresses themself femininely ,
 11,lipamanka,find,,,"kama lukin e, kama kute e, etc",to come across something after searching for it,"mi alasa mute e soweli la mi **kama lukin** e ona. | After searching for the beast, I finally **found** it. "
 11,lipamanka,find,,,pilin e ni:,"to opine, often based on past experiences",mi **pilin e ni:** jan li wile a utala. mi sona e ni tan pali mi. | I've **found** that people actually WANT to fight. I know this because of my job. 
-39,tawa,for,,,tawa,to the benefit of,mi pali e pan suwi **tawa** sina. | I made cookies **for** you.
+39,"?, kala Asi",for,,,tawa,"to the benefit of, towards","mi pali e pan suwi **tawa** sina. | I made cookies **for** you.
+o **tawa** nena ma! | Run **for** the hills!"
+39,kala Asi,for,,,tan,[because of],ona li pona tawa mi **tan** ijo mute. | I like her **for** lots of reasons.
+39,kala Asi,for,,,pona,in favour,"jan luka la **pona**. jan tu la pona ala. | Ten people [vote]d **for**, two against."
 0,lipamanka,forever,,,"lon tenpo ale (kama), tawa tenpo ale (kama)",persisting through all future moments,o moku e pan **lon tenpo ale kama.** | Eat bread **forever.**
 7,jan Lakuse,forget,v,1a,"weka, weka sona, (kama) sona ala ",to lose knowledge of something,"mi **weka e sona** mute pi tenpo ni: mi jan lili. | I **forget** a lot of my childhood. 
 sina **weka** ala **weka** e ilo sina lon poka pi poki telo suli? | Did you **forget** your phone at the poolside? 
 mi **kama sona ala** e ni: mi lon ni tan seme. | I **forgot** why I came here. 
-tenpo pini la jan Nansi li sona pali e moku ante mute. tenpo ni la ona li **sona ala**. | Previously, Nancy knew how to prepare many different dishes. Now, she has forgot. "
-7,jan Lakuse,forget,,2,kama ala (pali),neglecting to do something,mi **kama ala** pana e namako tawa kala. | I forgot to add salt to the fish. 
+tenpo pini la jan Nansi li sona pali e moku ante mute. tenpo ni la ona li **sona ala**. | Previously, Nancy knew how to prepare many different dishes. Now, she has **forgotten**."
+7,jan Lakuse,forget,,2,kama ala (pali),neglecting to do something,mi **kama ala** pana e namako tawa kala. | I **forgot** to add salt to the fish. 
 7,,free,v,1,,give freedom to,
 7,,free,adj,1,,"unrestrained, with freedom",
 7,ilo Tani,free,adj,2,wile ala e mani,"costing nothing, free of charge","sijelo jan li kama pakala la ma Kanata la ni li **wile ala e mani**: jan li tawa tomo sijelo la jan sona li pona e sijelo ona. | If you're injured in Canada, it's **free** to go to a hospital and be treated by a doctor."
@@ -164,7 +171,8 @@ ona li sona **e** ike **e** pona. | He knows right **from** wrong."
 6,kala Asi,funny,adj,2,nasa,unusual,telo li pana e kon pi jaki **nasa**. | The milk smelt **funny**.
 6,lipamanka,furry,,,"jan soweli, soweli",,
 12,mun Nanseki,gay,,,olin e {meli/mije},loves {women/men} (cf '[straight]'),
-16,mute ante,gender,,,(mije en meli la) poki,"social category of man, woman and non-binary",**mije en meli la** mi **poki** ala | I don't fit into the **gender binary**.
+16,mute ante,gender,,,(mije en meli la) poki,"social category of man, woman and non-binary","**mije en meli la** mi **poki** ala | I don't fit into the **gender binary**.
+**mije la meli la tonsi la** ale o kama e mani sama. | People deserve the same welfare regardless of **gender**."
 7,kala Asi,get,v,1,kama jo,become in possession of,mi en jan olin mi li **kama jo** e soweli lili suwi a! | Me and my partner **got** a pet!
 7,kala Asi,get,v,2,jo,be in possession of,sina **jo** ala **jo** e lipu ken? | Have you **got** a ticket?
 7,kala Asi,get,v,3,kama e (ijo),fetch,o **kama** e supa tan tomo ante. jan kama li wile e ona. | Please **get** a chair from the other room for our guest.
@@ -235,7 +243,7 @@ jan olin li **luka olin** e mi li mu suwi. | My partner **hugged** me and made a
 15,kala Asi,interesting,,,"musi, suli",capable of holding one's attention,"tenpo ale la ijo **musi** li lon ilo. | There's an infinite stream of **interesting** content on the internet.
 o kama sona e ni: seme li **suli** tawa jan esun sina? | Figure out what's **interesting** to your trade partners."
 10,ilo Tani,internet,,1a,ilo,the global network of computers used around the world,sona. mi toki e ni tawa ona lon **ilo**. | Understood. I'll message him over the **internet**.
-10,ijo vivi,internet,,1b,"ken {lukin, toki, ...}",access to the Internet,ilo li pakala la mi ken ala toki tawa sina. | I can't talk to you because I don't have internet.
+10,ijo vivi,internet,,1b,"ken {lukin, toki, ...}",access to the Internet,ilo li pakala la mi ken ala toki tawa sina. | I can't talk to you because I don't have **internet**.
 4,lipamanka,island,,,nena,a landmass surrounded on all sides by water,kulupu pi toki pona li kama lon **nena** Manatan lon mun nanpa luka wan! | The toki pona community is meeting up on the **island** Manhattan in June!
 8,lipamanka,jump,,,tawa sewi,to use one's legs to propell themselves upwards ,jan lili li **tawa sewi** lon sike. | The children **jumped** periodically. 
 8,jan Tekinowi,kiss,,,uta,to apply one's mouth to something (often another person's mouth),mi wile **uta** e lawa soweli | I want to **kiss** the cats head.  
@@ -270,7 +278,7 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 24,kala Asi,maybe,,,ken,"possibly, perhaps","**ken** la mi sitelen nasa e ni. | **Maybe** I wrote this weirdly.
 — ni li tomo anu seme? — **ken** a! | — Does this count as a *tomo*? — **Maybe**!"
 7,ijo vivi,meaning,,,"toki, sona","information expressed by a word, phrase, or text",nimi 'kala' li **toki e** seme? | What does the word 'kala' **mean**?
-8,ijo vivi,meat,,,"moku; {soweli, waso, ...}; sijelo",flesh of an animal used as food,**soweli** li lon moku ale pi esun ni. mi o moku lon ona ala. | All this restaurant's dishes have **beef** in them. Let's eat somewhere else.
+8,ijo vivi,meat,,,"{soweli, waso, ...}; moku; sijelo",flesh of an animal used as food,**soweli** li lon moku ale pi esun ni. mi o moku lon ona ala. | All this restaurant's dishes have **beef** in them. Let's eat somewhere else.
 6,ijo vivi,memory,,,sona (tenpo),mental recollection of an event,mi **awen sona** pona e tenpo ni: mi en olin mi li uta lon tenpo nanpa wan. | I still **remember** the first time I kissed my partner well.
 6,ijo vivi,memory,,,ken awen (sona),ability to recall past events,lawa mi li **ken ala awen sona** e tenpo. | I have a bad **memory**.
 7,,milk,n,,telo mama,,
@@ -292,7 +300,7 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 suno pi toki pona la mi **kalama musi!** | On Toki Pona day, I will perform **music**!"
 7,lipamanka,next,,,(nanpa) kama,the following event or object in a sequence,o lukin e kili **nanpa kama.** ona li loje li suli. | Take a look at the **next** apple. It's red and big.
 6,kala Asi,night,n,,tenpo pimeja,time when the sun is below horizon,soweli mute li lape lon **tenpo pimeja**. | Many animals sleep at **night**.
-6,kala Asi,night,interj,,"mi weka, o lape pona",short for [good night](?q=good night),
+6,kala Asi,night,interj,,"mi weka, o lape pona",short for [good night],
 24,kala Asi,no,,,"ala, (ijo) ala","answer to a negative question, not any","— sina sona ala sona toki Tosi? — **sona ala**. | — Do you know how to speak German? — **No**, I don't.
 lipu **ala** li ken toki e ijo ale. | **No** book can cover every topic."
 7,kala Asi,north,,,ma lete,polar (in relation to the Northern hemisphere),**ma** Amelika **lete** | **North** America
@@ -332,7 +340,7 @@ mi tu li kama wan lon tenpo suno pini. | We got married yesterday."
 14,kala Asi,one,,,nanpa wan,first,World War **1** | utala suli **nanpa wan**
 14,kala Asi,one,,,jan,"anyone, (generic) you",pali suli ala la **jan** li ken ala kama lon ma ike. | **One** does not simply walk into Mordor.
 6,jan Niwe,onion,,,kili,fruit,selo mute li lon **kili** ni. | There are many layers on this **onion**.
-8,jan Lakuse,opposite,adj,1,ante (ale) ,completely different ,ma Oselija en ma Kanata li kama lete lon tenpo pi ante ale. | Australia and Canada get colder at opposite times. 
+8,jan Lakuse,opposite,adj,1,ante (ale) ,completely different ,ma Oselija en ma Kanata li kama lete lon tenpo pi **ante ale**. | Australia and Canada get colder at **opposite** times. 
 8,jan Lakuse,opposite,adj,2,poka ante,located across from ,"soweli li lukin e tomo tawa ala la ona li tawa **poka ante** pi nasin suli. | When the deer saw no cars, it went to the **opposite** side of the street.  "
 8,jan Lakuse,opposite,prep,,lon poka,alongside,sitelen tawa suli 'utala moli musi pi wile moku' la jan So Atuson li musi **lon poka** pi jan Senipa Lowen. | In 'The Hunger Games' Josh Hutcherson played **opposite** Jennifer Lawrence.
 13,kala Asi,or,,,anu,forming a question of two or more options,suwi **anu** namako la moku seme li pona tawa sina? | Do you prefer sweet **or** spicy food?
@@ -356,9 +364,9 @@ mi tu li kama wan lon tenpo suno pini. | We got married yesterday."
 ,ni Salo,place,n,1,tomo,a location (that is a building),"esun moku Asi? a, mi sona e **tomo** ni! | The grocery store Aldi's? Yeah, i know that **place**!"
 6,ni Salo,place,v,1,pana,put,ona li **pana** e ilo tawa supa. | It **placed** the hammer on the counter.
 6,ijo vivi,plastic,,,"selo, kiwen",,
-22,mun Nanseki,please,interj,1,(o) ∅,(forms polite requests),
+22,"mun Nanseki, kala Asi",please,interj,1,(o) ∅,(forms polite requests),tawa la luka sina en noka sina o awen lon insa tomo lon tenpo ale. | **Please** keep your arms and legs inside the vehicle at all times.
 22,ijo vivi,please,v,1,pona e (pilin),make happy,ale la mi sona ala **pona e pilin** sina. | I never really know how to **please** you.
-6,kala Asi,potato,n,1,"kili ma, kili pan, pan",edible starchy tuber of a potato plant,jan li kama jo e **kili** tan insa **ma**. | People dig up potatoes.
+6,kala Asi,potato,n,1,"kili ma, kili pan, pan",edible starchy tuber of a potato plant,jan li kama jo e **kili** tan insa **ma**. | People dig up **potatoes**.
 6,kala Asi,potato,n,2,kasi,plant that produces potatoes,"mi pana e **kasi** tawa ma pona. tenpo kama la ona o pana e kili. | I have replanted the **potato** to better soil, it should grow potatoes eventually."
 8,ijo vivi,practice,v,,(kama) (ken) wawa,work towards improving one's skill,mi **wawa e ken** mi utala. | I'm **practicing** boxing.
 6,ni Salo,probably,,,ken,,ona li **ken** wile e len sin. | They **probably** want new clothes.
@@ -404,9 +412,9 @@ tenpo pini la mi **kama sona lon tomo** lon poka pi jan lili ante. | In the past
 7,kala Asi,show,v,2,"sona, ken lukin",be apparent,"sina nasa. jan ale li **sona** e ni. | You're out of touch, and it **shows**."
 7,kala Asi,show,n,1,"sitelen, musi","entertaining performance, seen in person or broadcast","tenpo lon la **sitelen** musi li lon ala lon ilo pana? | Are there any good **shows** on TV these days?
 jan mute li kama li lukin e **musi**. | A lots of people attended the **show**."
-6,lipamanka,shower,v,,"telo e selo, kama kala","to clean one's body with water, usually while standing or sitting. water typically flows continuously from above (cf ""bathe"")","jan Pasi li **telo e selo** ona. | Patty **showered**.
+6,lipamanka,shower,v,,"telo e selo, kama kala","to clean one's body with water, usually while standing or sitting. water typically flows continuously from above (cf [bathe])","jan Pasi li **telo e selo** ona. | Patty **showered**.
 mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower** real quick, but after that's done I'll come back."
-6,lipamanka,shower,n,,"poki telo, poki kala","a receptacle for cleaning one's body (cf ""bath"")",mi lon **poki telo**. | I'm in the **shower**.
+6,lipamanka,shower,n,,"poki telo, poki kala",a receptacle for cleaning one's body (cf [bath]),mi lon **poki telo**. | I'm in the **shower**.
 8,lipamanka,sibling,,,"jan sama, jan poka, pata","someone who shares at least one parent, usually two",**jan sama** mi li sona e toki Epanja. | My sibling knows Spanish.
 8,lipamanka,sibling,,,"tonsi sama, tonsi poka","someone who shares at least one parent, usually two, but is specified to be nonbinary",mi olin e **tonsi sama** mi. | I love my **nonbinary sibling**.
 7,lipamanka,sister,,,"meli sama, meli poka","someone who shares at least one parent, usually two, but is specified to be female",jan Pita en **meli sama** ona li kama li jo e len mani. | Peter and his **sister** arrived clad in expensive attire.
