@@ -36,7 +36,9 @@ jan pakala li **wile** e telo. | The injured person **asked** for a glass of wat
 6,mute ante,autism,,,"ante lawa, lawa (li) ante, nasa lawa, lawa (li) nasa","a type of neurodivergency characterized by divergence in social situations, among many other symptoms",**lawa** mi li **ante**. | I am **autistic**.
 4,,awake,,,,,
 3,,back,,,,,
-4,,bad,,,,,
+4,kala Asi,bad,,,ike,"not good, negative, evil, unpleasant",tenpo ale la jan **ike** li kama lawa e ma. | It is always **bad** people who get to rule.
+4,kala Asi,bad,,,jaki,"spoiled, rotten, foul",tenpo li weka la moku li kama **jaki**. | Given enough time food goes **bad**.
+4,kala Asi,bad,,,"wawa, a",as an intensifier,ona li wile **a** utala lon poka. | He **badly** wanted to join the fight.
 0,lipamanka,base (on),v,,"tan, pali tan ","to design with something as a prototype (based ""on"") ",mi **pali** e ilo ni **tan** sitelen pi jan Pensiman. | I **based** this tool **on** Benjamin's designs.
 7,lipamanka,based,adj,,pona,to be politically aligned with the speaker (originally from 4chan) ,
 0,lipamanka,bath,,,"poki telo, poki kala","a receptical for cleaning one's body, typically while reclined","mi lon **poki telo** la mi ken ala toki uta tan nasa. | I'm in the **bath,** so I won't join voice chat because that would be weird. "
@@ -187,7 +189,8 @@ tenpo kama **weka** la ken la sijelo jan li pakala ala e pilin ona. | In the **f
 5,,flower,,,,,
 4,,fly,,,,,
 4,,fold,,,,,
-3,,food,,,,,
+3,kala Asi,food,,,moku,consumable sustenance,sijelo ale li wile e **moku**. | All organisms need **food** to survive.
+3,kala Asi,food,,,"pan, ko, kili, soweli, ...",a particular foodstuff,sitelen la **kili** en **kasi** mute li lon. | The picture showed various vegetarian **foods**.
 3,,foot,,,,,
 39,"ijo vivi, kala Asi",for,,,tawa,"to the benefit of, towards","mi pali e pan suwi **tawa** sina. | I made cookies **for** you.
 o **tawa** nena ma! | Run **for** the hills!"
@@ -380,9 +383,11 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 suno pi toki pona la mi **kalama musi!** | On Toki Pona day, I will perform **music**!"
 3,,name,,,,,
 5,,nature,,,,,
-4,,near,,,,,
+4,kala Asi,near,,,(lon) poka,close in space or time,"tenpo ale la o awen **lon poka**. | Stay **near** at all times.
+pini li kama **poka**. | The end is **near**."
 4,,need,,,,,
-3,,new,,,,,
+3,kala Asi,new,,,sin,"recent, additional","tomo mi pini li lili ike. tomo mi **sin** li pona. | My **new** house is just the right size, unlike the old one which was too small.
+kulupu li **sin** e nasin ona. | The company pursued a **new** policy."
 7,lipamanka,next,,,(nanpa) kama,the following event or object in a sequence,o lukin e kili **nanpa kama.** ona li loje li suli. | Take a look at the **next** apple. It's red and big.
 6,kala Asi,night,n,,tenpo pimeja,time when the sun is below horizon,soweli mute li lape lon **tenpo pimeja**. | Many animals sleep at **night**.
 6,kala Asi,night,interj,,"mi weka, o lape pona",short for [good night],
