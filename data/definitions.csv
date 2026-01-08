@@ -7,7 +7,7 @@ lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about*
 6,kala Asi,afternoon,,,(insa pi) tenpo suno,part of the day after morning but before evening,"mi la **insa pi tenpo suno** li pona tawa telo suwi. open suno en tenpo pi kama pimeja la, tenpo pi pona ala. | In my opinion, the **afternoon** is a good time to take sweet drinks. Mornings and evenings, not so much."
 19,kala Asi,again,,,sin,"anew, once more, back","mi weka lili li kama **sin**. | I went away for a little bit and came back **again**.
 **sin** la mi wile toki e ni: mi utala ala. mi wile sona taso. | Once **again**, I'd like to make it clear I'm not picking a fight, I just want to understand."
-3,,agree,,,,,
+3,kala Asi,agree,,,pilin sama,share the same opinion,mi ale li **pilin sama**. pini li pini. | I think we **agree**: the past is over.
 13,mute ante,all,,,ale,all,"ilo **ale** li wile e wawa. | **All** implements require some kind of energy.
 mi **ale** li pilin pona tan sitelen musi. | We **all** enjoyed the movie."
 7,jan Suko,almost,,,poka,"close to, but not quite","**tenpo poka kama la**, ona tu li awen wan lon sike tu wan. | They've been together for **almost** three years."
@@ -123,6 +123,7 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 13,kon Okisen,computer,,,ilo sona,a knowledge related tool,
 7,poni Kita,conlang,,,"toki pali, toki sin",a language deliberately created by a person,jan li wile kama sona e **toki pali** tan seme? | What makes people want to learn **conlangs**?
 15,lipamanka,context,,,"ijo poka, poka, ale poka",,
+0,kala Asi,cover,,,len,"conceal, usually with fabric",ona li **len** e jan lili. | He **covered** the baby with a blanket.
 3,,cow,,,,,
 0,"ijo vivi, jan Tekinowi",creative,,,"{ken, wile} pali (e ijo sin)",able or willing to create new things,lawa mi li wile pali e ijo sin lon tenpo mute. | I have a very **creative** mind.
 8,jan Lakuse,cringe,,,pilin nasa ike (pi wile weka),disgust and aversion to a stimulus,"mi kama lukin e sijelo pini mi pi ilo Jutu la mi **pilin nasa ike** li **wile weka** tan lukin. | When I come upon my old Youtube account, I **cringe**. "
@@ -464,7 +465,11 @@ poki **kiwen** ni li jo e ko kule ale mi! | This **plastic** container holds all
 mi **sike** lon ilo kalama kon. | I'm **practicing** the flute."
 6,ni Salo,probably,,,"ken, ken (suli) la",with considerable likelyhood,"ona li **ken** wile e len sin. | They **probably** want new clothes.
 **ken suli la**, ni li ike tawa jan lawa. | The queen **probably** won't like that."
-3,,put,,,,,
+3,kala Asi,put,,,pana,place,"o **pana** e len tawa poki. | **Put** the clothes in the drawer.
+kulupu lawa li **pana** e ona tawa tomo awen. | The government **put** him in jail."
+3,kala Asi,put,,,∅,perform an action,"ona li wan e kiwen lili. | She **put** the shards back together.
+o pona e tomo! | **Put** your house in order!
+jan li moli e soweli la pakala ona li pini. | They **put** the animal to death to end their suffering."
 26,kala Asi,question,,,wile sona,a need for information,mi **wile sona** e ijo mute. | I have a lot of **questions**.
 4,,quick,,,,,
 10,"jan Niwe, lipamanka",raccoon,,,"kijetesantakalu, soweli",an animal in the procyonid family known for stealing garbage from humans.,"**kijetesantakalu** li wile moku. | The **raccoon** wants to eat.
@@ -654,6 +659,8 @@ ilo li pana e **sitelen** e kalama. | The device is transmitting **video** and a
 3,,voice,,,,,
 3,,wait,,,,,
 3,,water,,,,,
+4,kala Asi,wear,,,len,[cover] one's body with,"suno ni la ona li **len** meli e sijelo ona. | Today she decided to **wear** a dress.
+o **len** e lawa sina tan wawa suno. | You should **wear** a headdress under such intense sunlight."
 7,kala Asi,website,n,1,lipu,"online page, particularly involving reading","**lipu** Wesi | (the **website** called) Reddit
 **lipu** Wikipesija | (the **website** called) Wikipedia"
 7,kala Asi,website,n,2,ilo,"online page with high interactivity, web app","**ilo** Siko | (the **website** called) Discord
