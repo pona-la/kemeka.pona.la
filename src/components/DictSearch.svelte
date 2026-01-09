@@ -38,7 +38,7 @@
         { name: "data.definitions.eng", weight: 0.4 },
         { name: "data.definitions.examples.tok", weight: 0.15 },
         { name: "data.definitions.examples.eng", weight: 0.15 },
-        { name: "notes", weight: 0.15 },
+        { name: "data.notes", weight: 0.15 },
       ],
       ignoreLocation: true,
       threshold: 0.15,
