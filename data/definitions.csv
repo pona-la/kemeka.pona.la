@@ -227,7 +227,7 @@ tenpo ni la jan o moku ala e soweli e waso. taso ona li awen ken moku e **kala**
 o **tawa** nena ma! | Run **for** the hills!"
 39,kala Asi,for,,,tan,[because of],ona li pona tawa mi **tan** ijo mute. | I like her **for** lots of reasons.
 39,kala Asi,for,,,pona,in favour,"jan luka la **pona**. jan tu la pona ala. | Ten people voted **for**, two against."
-5,,for example,,,sama ni,,
+5,ilo Tani,for example,,,sama ni,providing an instance demonstrating a pattern or rule,"sina wile toki e ken la, nimi 'sama' li ken pona, sama ni: ""nimi 'sama' li ken pona, sama ni."" | If you want to discuss possibilities, the word 'sama' may be effective; for example, ""nimi 'sama' li ken pona, sama ni."""
 0,lipamanka,forever,,,"lon tenpo ale (kama), tawa tenpo ale (kama)",persisting through all future moments,o moku e pan **lon tenpo ale kama.** | Eat bread **forever.**
 7,jan Lakuse,forget,v,1a,"weka, weka sona, (kama) sona ala ",to lose knowledge of something,"mi **weka e sona** mute pi tenpo ni: mi jan lili. | I **forget** a lot of my childhood. 
 sina **weka** ala **weka** e ilo sina lon poka pi poki telo suli? | Did you **forget** your phone at the poolside? 
@@ -276,8 +276,10 @@ mi **tawa**. | I'm **going**."
 7,kala Asi,god,n,1,sewi,the divine,open la **sewi** li lon e sewi e ma. | In the beginning **God** created the heavens and the earth.
 7,kala Asi,god,n,2,jan sewi,the divine characterised in terms of personhood,ma Elena pi tenpo weka la jan li toki mute e **jan sewi** ona. | Ancient Greek texts share lots of stories about their **gods**.
 7,kala Asi,god,interj,1,a,expression of emotions ,"pona **a** la mi kama ken lape! | Oh my **god**, finally I can sleep!"
-2,,gold,,,,,
-54,,good,,,,,
+2,kala Asi,gold,,,"kiwen mani, kiwen jelo",an expensive yellow metal,"mi lon ma nena la mi kama jo e **kiwen mani**. | We found a chunk of **gold** during our hike in the mountains.
+kiwen walo li kama mani lili la **kiwen jelo** li awen mani suli. | While the price of silver dropped, the price of **gold** stayed high."
+2,kala Asi,gold,,,jelo,"the colour resembling gold, gilded",lipu kule pi ma Wenesa la soweli **jelo** li lon. | The flag of Venice features a **gold** lion.
+54,kala Asi,good,,,pona,"ethically moral, pleasant, effective, proper, reasonable, etc.",o **pona** tawa jan. jan o **pona** tawa sina. | Do **good** to others and others will do **good** to you.
 6,kon Okisen,good night,,,mi weka,i'm leaving (the conversation),a! pimeja li kama suli! **mi weka**. | Ah! It's gotten late! **Good night**!
 6,kon Okisen,good night,,,o lape pona,sleep well,"**o lape pona**, jan lili suwi o. | **Good night**, kiddo."
 36,mun Nanseki,goodbye,interj,1,"mi tawa, mi weka",i'm leaving (the conversation),
