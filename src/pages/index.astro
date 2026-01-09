@@ -1,7 +1,7 @@
 ---
 import "selo-components/common.css"; // has to be above site-specific css
 
-import DictPage from "@/components/DictPage.astro";
+import DictSearch from "@/components/DictSearch.svelte";
 import "@/global.css";
 import { getCollection } from "astro:content";
 import { Layout } from "selo-components";
@@ -9,24 +9,7 @@ import { config } from "selo-components/config";
 ---
 
 <Layout title={config.title} description={config.description}>
-  <script is:inline defer src="/alpine.min.js" slot="head"></script>
-  <main x-data="{search: ''}">
-    <search>
-      <input
-        type="search"
-        id="search"
-        x-model="search"
-        x-on:input="window.history.replaceState(search, '', '/' + (search ? '?q=' + search.replaceAll(' ', '_') : ''))"
-        x-init="let params = new URLSearchParams(window.location.search); search = params.get('q').replaceAll('_', ' ') || ''"
-      />
-    </search>
-    {
-      (await getCollection("content")).map((post) => (
-        <section x-show={`'${post.data.title}'.includes(search)`}>
-          <h2>{post.data.title}</h2>
-          <DictPage post={post} />
-        </section>
-      ))
-    }
+  <main>
+    <DictSearch posts={await getCollection("content")} client:load />
   </main>
 </Layout>
