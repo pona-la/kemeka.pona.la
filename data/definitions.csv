@@ -8,7 +8,9 @@ lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about*
 19,kala Asi,again,,,sin,"anew, once more, back","mi weka lili li kama **sin**. | I went away for a little bit and came back **again**.
 **sin** la mi wile toki e ni: mi utala ala. mi wile sona taso. | Once **again**, I'd like to make it clear I'm not picking a fight, I just want to understand."
 3,kala Asi,agree,,,pilin sama,share the same opinion,mi ale li **pilin sama**. pini li pini. | I think we **agree**: the past is over.
-0,,air,,,,,
+0,kala Asi,air,,,kon,gas of the atmosphere,"tenpo mute la mi pilin ala e ni lon insa: **kon** en telo li jaki ala lon ma mi. | We often take for granted the clean **air** and water in our city.
+kulupu waso li open e tawa **kon** ona. | The flock of birds took to the **air**."
+0,kala Asi,air,,,pilin,"feeling, sense",**pilin** la ona li wawa tan sijelo suli ona. | His broad shoulders gave him an **air** of strength and reliability.
 13,mute ante,all,,,ale,all,"ilo **ale** li wile e wawa. | **All** implements require some kind of energy.
 mi **ale** li pilin pona tan sitelen musi. | We **all** enjoyed the movie."
 7,jan Suko,almost,,,poka,"close to, but not quite","**tenpo poka kama la**, ona tu li awen wan lon sike tu wan. | They've been together for **almost** three years."
@@ -60,15 +62,16 @@ o luka ala e soweli suli. | Don't touch the bear."
 3,jan Lakuse,bear,v,1,"jo, lon, awen","To carry or withstand, literally","jan Santa li jo e ilo musi mute. | Santa bears many presents.
 jan lili tu wan li lon insa pi jan mama. | The expecting parent is bearing triplets."
 3,jan Lakuse,bear,v,2,"jo, lon, awen","To carry or withstand, figuratively",noka ona li awen e linja kipisi pi tenpo ike pakala ona. | Her legs bear the scars of her trauma.
-3,,beautiful,,,,,
-0,,beauty,,,,,
+3,kala Asi,beautiful,,,pona (tawa) lukin,pleasant to one's eyes,nasin linja la mi kama lon ma kasi pi **pona lukin**. | The bending road led us through a **beautiful** valley of flowers.
+3,kala Asi,beautiful,,,"pona (tawa) {kute, pilin, ...}",pleasant to one's other senses,mi kute e kalama pi jan Petopen. ona li **pona** a **tawa kute** mi. | I listened to Beethoven's most **beautiful** sonata.
 8,kala Asi,because,conj,1,"tan ni, ni la",for the reason that,"mi o esun e ilo telo sin **tan ni**: ike la ilo mi li pana lili e telo lon tenpo ale. | I need to purchase a new kitchen tap, **because** mine leaks constantly."
 0,kala Asi,because of,prep,1,tan,"on account of, for the purpose of",mi tawa tomo mama mi **tan** moku. | I'm visiting my parents **because of** food.
 27,"ijo vivi, (via sona pona)",before,prep,,… la (ijo) li awen kama ala,occuring when something else hasn't happened yet,mi kama la jan **li awen pali ala**. | I arrived **before** people started working.
-5,,believe,,,,,
+5,kala Asi,believe,,,pilin,"to opine, reckon, accept as true, have faith in","jan mute li **pilin** e ni: kulupu la ante nasin li kama. | Many **believe** the tide of change in society is coming. 
+mi kute ala e jan ante. **pilin** mi a la ken mi li wawa. | No matter what others say, I **believe** in my abilities."
 10,lipamanka,best,,,"nanpa wan, sewi",of the highest quality,"ni li nasin **nanpa wan** pi pali tomo. | This is the **best** way to build a house. 
 sona sina li **sewi.** | You know **best.**"
-2,,bird,,,,,
+2,kala Asi,bird,,,waso,"warm-blooded animal, usually having wings and feathers",mi tawa lon ma kasi la mi kama lukin e **waso** nasa. | I witnessed a rare **bird** today while walking in the park. 
 3,,birth,,,,,
 22,ijo vivi,birthday,n,,"tenpo (suli) {mi, sina, pi jan ...}",date and celebration centered on the birth of a particular person,"♪ **tenpo sina** li lon, **tenpo sina** li lon! ♪ | ♪ Happy birthday to you, happy birthday to you! ♪
 tenpo poka la mi kama e kulupu musi suli tawa mi! sina wile ala wile kama? | Soon, I'm throwing a big party for my birthday! Do you want to come?"
@@ -115,7 +118,6 @@ kulupu mama mi li jo e **soweli tomo** tu. | My family has two **cats**."
 14,"lipamanka, kala Asi, waso Keli",choose,,,"toki e wile, pana e wile, sona e pona, sona e wile, wile, etc","to designate one option of many as the desired option, to know which option is best","mi **toki e wile** mi a! | I've **made my choice**!
 mi **sona** ala e ni: nasin seme li **pona**? | I don't know which path to **choose**.
 mi **wile** e suwi loje. | I **choose** the red candy."
-14,kala Asi,choose,,,,,
 12,mun Nanseki,christmas,n,1a,"(tenpo) suno pana, tenpo pana",day or time of giving,mi kama jo e seme lon **suno pana**... | What will I receive for **Christmas**...
 12,lipamanka,christmas,n,1b,tenpo pi weka pali,winter break (from work) ,mi **weka** tan **pali** la mi musi lon kulupu mi. | During **Christmas** break I enjoy time with my family.
 12,mun Nanseki,christmas,n,1c,(tenpo) suno pi jan Santa,Santa day,
@@ -123,8 +125,9 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 4,,clean,,,,,
 0,lipamanka,cleavage,,,"lupa pi insa nena, insa nena",the cavity between two breasts,len meli li lili la mi ken lukin e **lupa pi insa nena**. | The woman's clothes were so small that I could see her cleavage.
 0,"lipamanka, inwin",cleave,,,"tu, tu wawa, kipisi e","cut in half, in a single powerful motion",mi **tu wawa** e kiwen kasi. | I **cleaved** the piece of wood right in half.
-0,,clock,,,,,
-2,,clothes,,,,,
+0,kala Asi,clock,n,,ilo tenpo,a device for time,**ilo tenpo** li pana sike e mu lili lon tenpo ale suno. | The **clock** ticked quietly all day long.
+0,kala Asi,clock,v,,(lukin la) sona,identify,mi **lukin** e nasa sitelen ona la mi **sona** e ni: ona li tan kulupu Lusi. | I **clocked** him as a Russian based on his writing quirks.
+2,kala Asi,clothes,,,len,a cover for body parts,o jo e len ni: suli ona li pona tawa sijelo sina. | Make sure to pick appropriately sized **clothes**.
 3,ilo Tani,cloud,,,"kon sewi, kon walo",a mass of water vapor suspended in the air,o lukin e **sewi**! **kon** ni li sama sina tawa lukin. | Look at the sky! That **cloud** looks like you.
 7,ijo vivi,coffee,,,"telo, telo pi weka lape, telo pimeja, telo seli",hot black beverage that prevents tiredness,
 4,ilo Tani,come,,,kama,to arrive,tenpo seme la sina **kama**? | When did you **come**?
@@ -150,7 +153,7 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 18,kala Asi,difficult,,,"wile e pali mute, pali suli",requires a lot of effort,"mi wile sona toki Sonko la ni li **wile e pali mute**. | Chinese is a **difficult** language for me to learn.
 ni li **pali suli** ala, li pali nasa. | This is not **difficult**, just confusing."
 3,kala Asi,distance,,,weka,measure of remoteness,ma Lanten en ma Paki li **weka** seme? | How large is the **distance** between London and Paris?
-0,,distant,,,,,
+0,kala Asi,distant,,,weka,"remote, far",mi kute e kalama tan **weka**. | We heard a **distant** rumbling.
 19,kala Asi,do,,,∅,placeholder verb,"sina seme? | What are you **doing**?
 kon li pona e mi. | The fresh air **did** me some good.
 o pali! | **Do** your job!"
