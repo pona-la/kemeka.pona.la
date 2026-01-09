@@ -8,12 +8,17 @@
 
   const { post }: Props = $props();
 
-  function md(text: string) {
+  function replace_md_links(text: string) {
     const link_replacer = (_: any, text: string) =>
       `[${text}](?q=${text.replaceAll(" ", "_")})`;
-    const linked_text = text.replaceAll(/\[(.+?)\](?!\()/g, link_replacer);
-    const html_string = marked.parseInline(linked_text, { async: false });
-    return html_string;
+    return text.replaceAll(/\[(.+?)\](?!\()/g, link_replacer);
+  }
+
+  function md_inline(text: string) {
+    return marked.parseInline(replace_md_links(text), { async: false });
+  }
+  function md_block(text: string) {
+    return marked.parse(replace_md_links(text), { async: false });
   }
 </script>
 
@@ -44,9 +49,9 @@
           <ul>
             {#each definition.examples as example}
               <li>
-                <i>{@html md(example.tok)}</i>
+                <i>{@html md_inline(example.tok)}</i>
                 <br />
-                <span>{@html md(example.eng)}</span>
+                {@html md_inline(example.eng)}
               </li>
             {/each}
           </ul>
@@ -57,9 +62,7 @@
 {/if}
 
 {#if post.data.notes}
-  <p>
-    {@html post.data.notes}
-  </p>
+  {@html md_block(post.data.notes)}
 {/if}
 
 <!-- Implementation of a design by mute ante, more or less -->
