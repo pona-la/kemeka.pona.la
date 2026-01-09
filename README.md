@@ -1,6 +1,4 @@
-# selo.pona.la
-
-A starter for Toki Pona sites.
+# lipu Kemeka, a context-aware dictionary
 
 ## Local development
 
