@@ -369,12 +369,16 @@ mi musi mute ala lon **tenpo** poka. | My **life**'s been pretty boring lately.
 musi la tomo li **suli lon nasin sinpin monsi** li lili lon poka. | It's funny how the car is **long towards the back** and really narrow on the sides."
 7,ijo vivi,long,adj,,suli (tenpo),taking a lot of time,"ona li toki lon tenpo **suli** a! | He was talking for so **long**!
 tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
+0,ilo Tani,look,v,1,lukin,"to see, to direct one's vision towards",o **lukin** e mun! | **Look** at the stars!
+0,ilo Tani,look,v,2,tawa lukin,"to seem, to appear","ilo wan li pona tawa pilin, taso ilo ante li pona **tawa lukin**. | One device feels nice, but the other **looks** nice."
+0,,look,,,,,
 8,jan Tekinowi,love,v,1,olin,"to enjoy somebody's company platonically, romantically, sexually, etc.",mi **olin** e mije mi. | I **love** my husband.
 8,lipamanka,love,v,2,"pona ... (tawa X) , X la ... pona",to enjoy something or somebody,"pan ni li **pona tawa mi.** | **I love** this bread.
 **mama mi la** utala li **pona** ala | **My mom** doesn't **love** fighting."
 9,ijo vivi,magic,,1,,"communication with the divine, often to obtain some benefit; a ritual that enables this communication",
 9,"ijo vivi, (via lipamanka)",magic,,2,"ken (nasa), wawa (sewi)",a supernatural ability or force,mi utala e jan ike kepeken **wawa** suno mi. | I fight bad guys with my light **magic**.
 5,,make,,,,,
+3,ilo Tani,marry,,,kama wan,to enter in marriage with one another,mun pini nanpa tu la ona tu li **kama wan**. | They got **married** two months ago.
 3,,marry,,,,,
 3,,mass,,,,,
 3,,material,,,,,
@@ -385,7 +389,8 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 6,ijo vivi,memory,,,sona (tenpo),mental recollection of an event,mi **awen sona** pona e tenpo ni: mi en olin mi li uta lon tenpo nanpa wan. | I still **remember** the first time I kissed my partner well.
 6,ijo vivi,memory,,,ken awen (sona),ability to recall past events,lawa mi li **ken ala awen sona** e tenpo. | I have a bad **memory**.
 5,,metal,,,,,
-4,,middle,,,,,
+4,ilo Tani,middle,,,insa,"a center, midpoint",
+4,ilo Tani,middle,,,insa,a point in time between the beginning and end,tenpo pimeja pini la lape mi li pakala lon **insa**. | I woke up in the **middle** of the night last night.
 7,,milk,n,,telo mama,,
 5,ilo Tani,minute,,,"tenpo, tenpo suli, tenpo lili","a unit of time, 60 of which make up an [hour]","o pana e pan linja tawa ilo seli o seli e ona lon **tenpo suli** tu lon tenpo lili mute luka luka. | Place the noodles in the microwave and heat for two minutes and 30 seconds.
 tomo moku la sina ken awen lon tenpo suli wan lon **tenpo lili** mute luka luka. | You may stay at the buffet for one hour and thirty **minutes**."
@@ -408,9 +413,9 @@ tomo moku la sina ken awen lon tenpo suli wan lon **tenpo lili** mute luka luka.
 6,,multiple,n,,,a number that can be divided by another number,
 8,kala Asi,music,,,"kalama, kalama musi",artistically arranged sound,"mi wile **musi** e **kalama** ni. | I want to remix these sounds into **music**.
 suno pi toki pona la mi **kalama musi!** | On Toki Pona day, I will perform **music**!"
-3,,name,n,,nimi,,
-3,,name,v,1,pana e nimi,,
-3,,name,v,2,toki,,
+3,,name,n,,nimi,a word or phrase someone or something is called,
+3,,name,v,1,"nimi, pana e nimi",to give a name,
+3,,name,v,2,toki,to specify,
 5,,nature,,,,,
 4,kala Asi,near,,,(lon) poka,close in space or time,"tenpo ale la o awen **lon poka**. | Stay **near** at all times.
 pini li kama **poka**. | The end is **near**."
