@@ -1,10 +1,10 @@
 :root {
-    --accent: #1d6bca;
-    --accent-1: #124a8e;
+    --accent: #508e00;
+    --accent-1: #375300;
 }
 .dark {
-    --accent: #f6d32d;
-    --accent-1: #f3e089;
+    --accent: #87c200;
+    --accent-1: #b7e178;
 }
 
 /*
@@ -34,4 +34,6 @@ ul > li:nth-child(odd) {
     margin: auto;
     padding: 10px;
     font-size: 120%;
+    background-color: #0000;
+    border: 2px solid var(--grey-1);
 }
