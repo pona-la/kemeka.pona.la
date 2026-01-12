@@ -10,6 +10,9 @@
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="favicon.svg"
    xml:space="preserve"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="319.9928"
+   inkscape:export-ydpi="319.9928"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -207,7 +210,7 @@
        apply_with_weight="true"
        only_selected="false"
        uniform="false" /></defs><rect
-     style="fill:#85bf00;fill-opacity:1;stroke-width:0.0131261"
+     style="fill:#508e00;fill-opacity:1;stroke-width:0.0131261"
      id="rect1"
      width="79.376785"
      height="79.376785"
