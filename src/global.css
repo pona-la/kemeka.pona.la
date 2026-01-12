@@ -38,3 +38,6 @@ ul > li:nth-child(odd) {
     color: unset;
     border: 2px solid var(--grey-1);
 }
+h2 {
+    color: var(--accent);
+}
