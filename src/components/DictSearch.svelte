@@ -23,7 +23,7 @@
       window.history.replaceState(
         search,
         "",
-        "/?q=" + search.replaceAll(" ", "_")
+        "/?q=" + search.replaceAll(" ", "_"),
       );
     } else {
       window.history.replaceState(search, "", "/");
@@ -42,14 +42,22 @@
       ],
       ignoreLocation: true,
       threshold: 0.15,
-    })
+    }),
   );
   const filteredPosts = $derived(
-    !search.trim() ? posts : fuse.search(search).map((result) => result.item)
+    !search.trim() ? posts : fuse.search(search).map((result) => result.item),
   );
 </script>
 
 <input type="search" id="search" bind:value={search} />
+
+<center>
+  Showing <b
+    >{filteredPosts.length === posts.length
+      ? `${posts.length}`
+      : `${filteredPosts.length}/${posts.length}`}</b
+  > words
+</center>
 
 {#each filteredPosts as post (post.id)}
   <section>
