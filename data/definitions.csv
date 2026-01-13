@@ -204,7 +204,11 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 0,,daughter,,,,,
 23,ilo Tani,day,,,(tenpo) suno,a unit of time made up of 24 hours,"**suno** tu wan la mi awen, taso ona li awen toki ala tawa mi. | I've waiting for three days, but she still hasn't spoken to me."
 23,mun Nanseki,day,,,,sun-related time; daytime,
-2,,dead,,,,,
+2,ijo vivi,dead,,,moli,no longer living,
+2,ijo vivi,dead,,,"lape; jan ala li {toki, musi, ...}","of a space: currently inactive, not busy","a, sin la **jan ala li toki** lon kulupu ni. | Great, chat's **dead** again."
+2,ijo vivi,dead,,,pakala,"broken, inoperable",sinpin pi ilo mi li **pakala**. mi o esun e ona sin. | My monitor is **dead**. Guess I'll have to buy a new one.
+2,ijo vivi,dead,,,"lape, pini, pi {wawa, sona, ...} ala",of a machine: inactive,**sitelen ala** li kama lon linja. ilo li pana ala pana tawa ona? | Looks like the video cable's **dead**. Can you check it's connected properly?
+0,ijo vivi,deadname,,,"nimi weka, nimi moli",former name of someone who changed their name,
 2,,decide,,,,,
 0,jan Lisente,deck,n,1,"lipu, kulupu lipu",a pack of playing cards,o pana e **kulupu lipu** la mi ken musi! | Get the **deck** out so we can play!
 0,jan Lisente,deck,n,2,supa noka,"the topmost walking surface of a ship, the raised surface in front of a house",telo li kama lon **supa noka** tan wawa pi telo suli. | Water came onto the **deck** because of the ocean's strength.
@@ -520,7 +524,8 @@ tenpo li **kama** e **sona**. | You live and **learn**."
 3,kulupu Ewiki,letter,n,1,sitelen,a symbol in an alphabet,toki ni li jo e **sitelen** mute luka luka. | This sentence has thirty **letters**.
 3,kulupu Ewiki,letter,n,2,lipu,written communication,"mama mi li lon ma weka la mi toki tawa ona kepeken **lipu**. | My parents live far away, so I write **letters** to them."
 2,,level,,,,,
-0,ijo vivi,lie,v,1,(toki pi) lon ala,to say untrue things,mi **toki** e ni **pi lon ala**: suno li laso. | I **lied** and said that the sun was blue.
+0,ijo vivi,lie,v,1,(toki pi) lon ala,to say untrue things,"mi **toki** e ni **pi lon ala**: suno li laso. | I **lied** and said that the sun was blue. 
+mi **toki pi lon ala ** e ni: ilo li pakala. | I **lied** that the machine was broken."
 1,ijo vivi,lie,v,2,"lape, lon supa",to rest in a horizontal position,ale suno la mi **lape** lon supa mi li lukin e ilo. mi ike a! | I've been **lying** in bed and looking at my phone all day. I'm so useless!
 28,ijo vivi,life,,,"ale, tenpo, nasin",the totality of one's experiences,"olin mi li pona e **ale** mi. | My partners bring joy into my **life**.
 mi musi mute ala lon **tenpo** poka. | My **life**'s been pretty boring lately.
@@ -929,7 +934,8 @@ o esun e **ko pona** sin lon tenpo poka. | Purchase more **soap** soon.  "
 2,,state,,,,,
 0,,steam,,,,,
 3,,step,,,,,
-5,,still,,,,,
+5,ilo Tani,still,,,awen,continuing past an expected endpoint,sina **awen** a pali anu seme? | Are you **still** working?
+5,ilo Tani,still,,,tawa ala,unmoving,"anpa nena la sike li kama **tawa ala**. | At the bottom of the hill, the ball became **still**."
 0,,stone,,,,,
 7,kala Asi,stop,,,kama tawa ala,cease moving,"ilo li pana e suno loje la o **kama tawa ala**. | If the traffic light is red, **stop**."
 7,kala Asi,stop,,,pini,to no longer continue,telo sewi li **pini**. | The rain **stopped**.
