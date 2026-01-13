@@ -64,8 +64,8 @@ jan pakala li **wile** e telo. | The injured person **asked** for a glass of wat
 0,lipamanka,base (on),v,,"tan, pali tan ","to design with something as a prototype (based ""on"") ",mi **pali** e ilo ni **tan** sitelen pi jan Pensiman. | I **based** this tool **on** Benjamin's designs.
 7,lipamanka,based,adj,,pona,to be politically aligned with the speaker (originally from 4chan) ,
 0,,bat,,,,,
-0,lipamanka,bath,,,"poki telo, poki kala","a receptical for cleaning one's body, typically while reclined","mi lon **poki telo** la mi ken ala toki uta tan nasa. | I'm in the **bath,** so I won't join voice chat because that would be weird. "
-0,lipamanka,bathe,,,"telo e, kala",to clean one's body while reclined,"mi **kala** la kon mi li pona tawa nena. | When I **bathe**, I smell good."
+0,lipamanka,bath,,,poki telo,"a receptical for cleaning one's body, typically while reclined","mi lon **poki telo** la mi ken ala toki uta tan nasa. | I'm in the **bath,** so I won't join voice chat because that would be weird. "
+0,"lipamanka, ijo vivi",bathe,,,telo e,to [clean] one's body while reclined,"mi **telo e mi** la kon mi li pona tawa nena. | When I **bathe**, I smell good."
 6,kala Asi,be,v,1,∅,linking verb (copula),"mi wile moku. | I **am** hungry.
 sina o sina. | Just **be** yourself. "
 6,"kala Asi, lipamanka",be,v,2,lon,exist (at a location),"mi pilin la mi **lon**. | I think, therefore I **am**.
@@ -217,8 +217,9 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 2,kala Asi,die,n,1,leko (musi),"a cube with numbers, used in games",**leko** li kama tawa. | The **die** is cast.
 6,kala Asi,different,,,sama ala,not the same,pipi en kala li **sama ala**. | Bugs are **different** from fish.
 6,kala Asi,different,,,ante,other,mi o lape lon tenpo **ante**. | I should go to bed at a **different** time.
-18,kala Asi,difficult,,,"wile e pali mute, pali suli",requires a lot of effort,"mi wile sona toki Sonko la ni li **wile e pali mute**. | Chinese is a **difficult** language for me to learn.
+18,kala Asi,difficult,,,"wile e {pali, wawa} mute, pali suli",requires a lot of effort,"mi wile sona toki Sonko la ni li **wile e pali mute**. | Chinese is a **difficult** language for me to learn.
 ni li **pali suli** ala, li pali nasa. | This is not **difficult**, just confusing."
+18,,difficult,,,,"""difficult person"": uncooperative, troublesome",
 0,,discuss,,,,,
 0,,disease,,,,,
 3,kala Asi,distance,,,weka,measure of remoteness,ma Lanten en ma Paki li **weka** seme? | How large is the **distance** between London and Paris?
@@ -335,7 +336,7 @@ tenpo pini la jan Nansi li sona pali e moku ante mute. tenpo ni la ona li **sona
 0,,forward,,,,,
 7,,free,v,1a,weka tan poki (awen),release from a prison,
 7,,free,v,1b,"ken e, pana e ken",give freedom or rights to,kulupu Palasina o **ken ale**! | **Free** Palestine!
-7,ijo vivi,free,adj,1,"ken, pi ken ale, ala li weka e ken mi","unrestrained, with freedom",
+7,ijo vivi,free,adj,1,"ken, ken ale, ala li weka e ken mi","unrestrained, with freedom",
 7,ilo Tani,free,adj,2,wile ala e mani,"costing nothing, free of charge","sijelo jan li kama pakala la ma Kanata la ni li **wile ala e mani**: jan li tawa tomo sijelo la jan sona li pona e sijelo ona. | If you're injured in Canada, it's **free** to go to a hospital and be treated by a doctor."
 13,kala Asi,friend,,,"(jan) poka, (jan) pona",someone physically and emotionally close and enjoyable,"jan Sankin li pona tawa mi. ike la mi tu li **poka** ala. | I like John Green, but unfortunately we are not **friends**.
 ona li pona e mi lon tenpo utala. mi tu li awen **pona**. | He helped me out during the war, and we've remained **friends** since."
@@ -403,7 +404,7 @@ kiwen walo li kama mani lili la **kiwen jelo** li awen mani suli. | While the pr
 18,,happy,,,,,
 6,ijo vivi,happy birthday,interj,,suno sina o pona; cf [birthday],(stock phrase said to someone whose birthday it is),
 9,kala Asi,hard,adj,1,kiwen,solid and brittle,"pan ni li kama **kiwen** la mi wile ala moku e ona. | This bread has gone **hard**, so I don't want to have it."
-9,kala Asi,hard,adj,2,wile e pali mute,"[difficult], requiring a lot of effort","utala sona li **wile e pali** sona **mute** a. | One had to study **hard** for the exams.
+9,kala Asi,hard,adj,2,"wile e {pali, wawa} mute","[difficult], requiring a lot of effort","utala sona li **wile e pali** sona **mute** a. | One had to study **hard** for the exams.
 mi tawa e kiwen la ni li **pali** pi **suli** ike a. | Moving rocks around is too **hard**."
 9,kala Asi,hard,adj,3,wawa,strongly intoxicating,"o moku ala e kasi nasa **wawa**. ona li ken moli e sina. | Stay away from **hard** drugs, they are deadly."
 9,,hard,adj,4,wile unpa,sexually aroused,
@@ -519,6 +520,8 @@ tenpo li **kama** e **sona**. | You live and **learn**."
 3,kulupu Ewiki,letter,n,1,sitelen,a symbol in an alphabet,toki ni li jo e **sitelen** mute luka luka. | This sentence has thirty **letters**.
 3,kulupu Ewiki,letter,n,2,lipu,written communication,"mama mi li lon ma weka la mi toki tawa ona kepeken **lipu**. | My parents live far away, so I write **letters** to them."
 2,,level,,,,,
+0,ijo vivi,lie,v,2,(toki pi) lon ala,to say untrue things,mi **toki** e ni **pi lon ala**: suno li laso. | I **lied** and said that the sun was blue.
+1,,lie,v,1,,to rest in a horizontal position,
 28,ijo vivi,life,,,"ale, tenpo, nasin",the totality of one's experiences,"olin mi li pona e **ale** mi. | My partners bring joy into my **life**.
 mi musi mute ala lon **tenpo** poka. | My **life**'s been pretty boring lately.
 **nasin** tonsi mi li pona tawa mi. | I enjoy **life** as a nonbinary person."
