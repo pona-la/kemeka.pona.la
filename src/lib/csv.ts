@@ -61,10 +61,13 @@ export function processCsv() {
       eng: row.eng,
       examples: !row.examples
         ? undefined
-        : row.examples.split("\n").map((def) => ({
-            tok: def.split(" | ")[0],
-            eng: def.split(" | ")[1],
-          })),
+        : row.examples
+            .trim()
+            .split("\n")
+            .map((def) => ({
+              tok: def.split(" | ")[0],
+              eng: def.split(" | ")[1],
+            })),
     });
   }
 
