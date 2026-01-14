@@ -42,8 +42,8 @@
   <ol>
     {#each post.data.definitions as definition, i (i)}
       <li>
-        {@html definition.eng} —
-        <b>{@html definition.tok}</b>
+        {@html md_inline(definition.eng)} —
+        <b>{@html md_inline(definition.tok)}</b>
 
         {#if definition.examples}
           <ul>
