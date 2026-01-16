@@ -954,7 +954,7 @@ mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower*
 o esun e **ko pona** sin lon tenpo poka. | Purchase more **soap** soon.  "
 0,,society,,,,,
 5,,soft,,,,,
-0,jan Lisente,soldier,,,jan utala,someone who fights a war on the ground,**jan utala** mute li moli tan utala pi wile ala. Many **soldiers** die in unwanted wars.
+0,jan Lisente,soldier,,,jan utala,someone who fights a war on the ground,**jan utala** mute li moli tan utala pi wile ala. | Many **soldiers** die in unwanted wars.
 13,ilo Tani,some,,,∅,an unspecified amount,sina wile ala wile e telo? | Would you like **some** water?
 397,lipamanka,something,,,ijo,an unspecified object,mi wile e **ijo** ni: ona li pona tawa soweli mi. | I want **something** that'll please my pet.
 22,lipamanka,sometimes,,,tenpo,at multiple periods or instances with low to moderate frequency ,"**tenpo** la mi moku e kala. taso ona li pona pi suli ala tawa mi. | **Sometimes** I eat fish, but it's not amazing."
@@ -1136,7 +1136,7 @@ jan mute li **alasa** kama sona e toki Kanse, li kama sona pona! | A lot of peop
 o awen tawa wawa e ko pi sike waso **tawa ni:** jelo en walo li wan a. | Keep whisking the egg **until** the yolk and white are completely combined. "
 3,,up,,,,,
 3,,up,,,,,
-3,jan Lakuse,update,v,,sin,to publish a revision,jan pali li **sin** ala e ilo lon tenpo suli.| The creator has not **updated** the software in a long time. 
+3,jan Lakuse,update,v,,sin,to publish a revision,jan pali li **sin** ala e ilo lon tenpo suli. | The creator has not **updated** the software in a long time. 
 0,kala Asi,use,v,,kepeken,"apply, utilise",mi **kepeken** lipu Wikipesija. | I **use** Wikipedia.
 0,kala Asi,use,n,,pona,"usefulness, benefit",jan ala li kute e lawa la **pona** lawa li seme? | What's the **use** of a law that nobody follows?
 0,kala Asi,used to,,,tenpo pini la,formerly,**tenpo pini** la ma ni li suli li kasi. tenpo ni la ni li esun taso. | There **used to** be open fields here. Now it's a shopping mall.
