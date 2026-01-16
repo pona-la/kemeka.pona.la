@@ -1,7 +1,8 @@
+import { glob } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
 import { processCsv } from "./lib/csv";
 
-const contentSchema = z.object({
+const dictionarySchema = z.object({
   title: z.string(),
   definitions: z
     .array(
@@ -29,8 +30,13 @@ const contentSchema = z.object({
 //   }),
 // };
 
+export const aboutSchema = z.object({
+  title: z.string(),
+  description: z.string(),
+});
+
 export const collections = {
-  content: defineCollection({
+  dictionary: defineCollection({
     loader: async () => {
       const data = processCsv();
       console.log(data.length);
@@ -43,6 +49,10 @@ export const collections = {
         notes: row.notes,
       }));
     },
-    schema: contentSchema,
+    schema: dictionarySchema,
+  }),
+  content: defineCollection({
+    loader: glob({ base: "./content/", pattern: "**/*.{md,mdx}" }),
+    schema: aboutSchema,
   }),
 };

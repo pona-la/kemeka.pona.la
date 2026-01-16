@@ -6,7 +6,7 @@
   import DictPage from "./DictPage.svelte";
 
   interface Props {
-    posts: CollectionEntry<"content">[];
+    posts: CollectionEntry<"dictionary">[];
   }
 
   const { posts }: Props = $props();

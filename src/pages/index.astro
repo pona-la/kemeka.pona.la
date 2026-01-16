@@ -15,6 +15,6 @@ import { config } from "selo-components/config";
       dictionary made by the Toki Pona community. See how translating to Toki
       Pona depends on what English words mean in context.
     </p>
-    <DictSearch posts={await getCollection("content")} client:load />
+    <DictSearch posts={await getCollection("dictionary")} client:load />
   </main>
 </Layout>
