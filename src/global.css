@@ -41,3 +41,6 @@ ul > li:nth-child(odd) {
 h2 {
     color: var(--accent);
 }
+section {
+    border-bottom: 2px dotted var(--accent);
+}

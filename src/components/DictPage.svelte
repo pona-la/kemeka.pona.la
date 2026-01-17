@@ -23,9 +23,15 @@
 </script>
 
 {#if post.data.definitions}
-  <ol>
+  <ol class={post.data.definitions.length == 1 ? "only" : ""}>
     {#each post.data.definitions as definition, i (i)}
-      <li>
+      <li class={definition.enumeration.match(/[a-z]/) ? "sub" : ""}>
+        {#if post.data.definitions.length > 1}
+          <span class="marker">{definition.enumeration || i + 1}. </span>
+        {/if}
+        <!-- {#if definition.pos}
+          <span class="pos">{definition.pos}</span>
+        {/if} -->
         {@html md_inline(definition.eng)} —
         <b>{@html md_inline(definition.tok)}</b>
 
@@ -117,5 +123,32 @@
   }
   ul > li {
     margin-bottom: 10px;
+    margin-left: 15px;
   }
+  li {
+    list-style-type: none;
+    position: relative;
+  }
+  .marker {
+    position: absolute;
+    left: -45px;
+    width: 40px;
+    text-align: right;
+    user-select: none;
+  }
+  /*.only {
+    padding-left: 0;
+  }*/
+  .sub {
+    margin-left: 50px;
+  }
+  /*.pos {
+    font-weight: bold;
+    font-style: italic;*/
+  /*padding: 0px 5px;*/
+  /*margin: 0px 5px;*/
+  /*font-variant: small-caps;*/
+  /*border: 1px solid var(--grey-1);*/
+  /*border-radius: 5px;*/
+  /*}*/
 </style>
