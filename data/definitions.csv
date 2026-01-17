@@ -42,9 +42,9 @@ len ni li pona **lon** seli **lon** lete kin. | This outfit is suitable both for
 3,,answer,,,,,
 14,lipamanka,any,,,ale,"of a set, all possibilities are acceptable",jan **ale** li ken ni. | **Any**one can do that. 
 23,lipamanka,anything,,,ijo ale,"of a set of objects, all possibilities are acceptable",**ijo ale** li moku pona tawa mi. | I'll eat **anything.**
-4,,apple,,,,,
+4,lipamanka,apple,,,kili,"a very sweet, crisp, and crunchy fruit with a berry-like aroma","jan Saja li jo e **kili** tu wan. jan Awan li jo e **kili** luka tu. ona li wan e **kili** ale, la **kili** pi mute seme li lon? | Sarai has three **apples.** Abram has seven **apples.** If they combine all their **apples, how many **apples** are there? "
 0,ilo Tani,argue,,,utala (toki),to debate in disagreement,
-2,,arm,,,,,
+2,lipamanka,arm,,,luka,,
 0,,art,,,,,
 2,pakala Mapuju,as,,1,la,in comparison to,tomo mi **la** ona li suli ala. | It's not **as** large **as** my house.
 2,pakala Mapuju,as,,2,∅,from the position of,"mi sona mama e toki Inli li pilin e ni: nasin toki ni li nasa. | **As** a native English speaker, I find that an odd way to say it."
@@ -424,7 +424,7 @@ ona li sona **e** ike **e** pona. | He knows right **from** wrong."
 6,lipamanka,furry,,,"jan soweli, soweli",member of the furry fandom,
 5,ilo Tani,future,n,,tenpo kama,a time yet to be experienced,"**tenpo kama** la mi wile kama sona e toki mute. | In the **future**, I want to learn many languages."
 5,ilo Tani,future,adj,,"kama, tenpo kama",occurring in the future,pali pi jan lon li weka e ken pi jan pi **tenpo kama**. | The actions of people of the present are harming the opportunities of **future** generations.
-12,mun Nanseki,gay,,,olin e {meli/mije},loves {women/men} (cf '[straight]'),
+12,mun Nanseki,gay,,,olin e {meli/mije},attracted to one's own gender (cf '[straight]'),
 16,mute ante,gender,,,(mije en meli la) poki,"social category of man, woman and non-binary","**mije en meli la** mi **poki** ala | I don't fit into the **gender binary**.
 **mije la meli la tonsi la** ale o kama e mani sama. | People deserve the same welfare regardless of **gender**."
 0,ijo vivi,general,adj,,"kulupu, mute, ale, ∅",involving many or all members of a group,nasin sin li pona e jan **mute**. | The new policy improved **general** quality of life.
@@ -1047,7 +1047,9 @@ o esun e **ko pona** sin lon tenpo poka. | Purchase more **soap** soon.  "
 8,jan Lakuse,specific,adj,1b,toki mute,elaborated description,"mi sona ala. o **toki mute** e ona. | I don't understand, be more **specific**. "
 0,ijo vivi,spell,v,,"sitelen, pana e sitelen",(of a word) write or say the letters of,jan li **sitelen** seme e nimi 'kijetesantakalu'? | How do you **spell** 'kijetesantakalu'?
 0,,spell,n,,,a magical action,
-3,,spring,,,,,
+3,lipamanka,spring,n,,"telo, nasin telo, telo lili",a small stream of water,jan lili li lape lon poka pi **nasin telo lili.** mi kama lukin e ni lon sinpin sina: ona li moku mute e telo. | The child slept next to the **spring.** I saw all over their face that that they had drank a lot of the water. 
+3,lipamanka,spring,n,,"tenpo pi kama kasi, tenpo pi kama seli, tenpo kasi",the time of year when warmth causes plants to sprout from the earth,"tenpo lete li kama pini la **tenpo kasi** li kama a! | When the winter ends, the **spring** begins! "
+3,lipamanka,spring,n,,(ilo) sike,"a component used to hold and release energy, used in all sorts of contraptions","ilo sitelen mi li jo e **sike** lon insa. mi luka e sewi ilo la *sike* li esun e ni: ilo li ken ala ken sitelen? | My pen has a **spring** in it. When I press the top of the pen, the **spring** swaps out the pen's ability to write. "
 5,mun Nanseki,square,n,1,leko,four-sided regular polygon,
 5,mun Nanseki,square,adj,1,leko,in the shape of a square,
 0,,stage,,,,,
@@ -1075,7 +1077,7 @@ jan ilo li lukin e sina la ona li weka e **nasin** lape li kama lon **nasin** ut
 2,,store,,,,,
 19,kala Asi,story,,,toki,narrative,mi o pana e **toki**. | Let me tell you a **story**.
 9,lipamanka,straight,,1,sama palisa,"straight (as a line or object), without curves or other turns",luka ona li **sama palisa.** | Her arms were **straight.**
-9,mun Nanseki,straight,,2,olin e {meli/mije},loves {women/men} (cf '[gay]'),mi **mije** li **olin e meli**. | I am a **straight** man.
+9,mun Nanseki,straight,,2,olin e meli/mije,attracted to the gender opposite one's own (cf '[gay]'),mi **mije** li **olin e meli**. | I am a **straight** man.
 0,,street,,,nasin,,
 0,ijo vivi,string,,1,linja,"long and flexible object, often used to make clothes",
 0,ijo vivi,string,,2,"toki, sitelen, nimi",data type in programming,
@@ -1161,7 +1163,7 @@ mi tawa ma Minken la mi **kama lon** ma Panpu **li weka sin**. | Traveling to Mu
 14,kala Asi,today,,,tenpo lon,nowadays,**tenpo lon** la jan lili ale li lukin e ilo ona. | Kids **today** are always on their phones.
 4,,together,,,,,
 9,kala Asi,tomorrow,,,(tenpo) suno kama,the coming day,"ike la mi ken ala toki uta. taso **suno kama** la ken. | Unfortunately I cannot join the voice chat, but maybe **tomorrow**."
-4,ijo vivi,tongue,,,uta,organ in the mouth,
+4,"ijo vivi, lipamanka",tongue,,,"uta, palisa uta",organ in the mouth,**palisa pi uta mi** li suli nanpa wan lon nasin ni pi tomo jan. | I have the longest **tongue** on this residential block. 
 8,kala Asi,too,,,kin,"likewise, [also]","mi kama lukin e lipu pona. sina **kin** o lukin. | I've found this cool book, you should check it out **too**."
 8,kala Asi,too,,,(mute) ike,to an excessive degree,"sina suli **ike** la sina ken ala tawa insa pi tomo ni. | You cannot enter this vehicle if you are **too** tall.
 mi ken ala moku e telo ni. ona li suwi pi **mute ike**. | I can't drink this tea, it's **too** sweet."
@@ -1181,7 +1183,7 @@ mi **luka** e soweli la ona li pilin ike li utala e mi. | When I **touch** the c
 tenpo ale la mi meli lon pilin. ni la mi ante e sijelo mi li **kama meli** lon sijelo kin. | I've always felt like a woman. Because of this, I'm changing my body to **become a woman** in body as well."
 10,mun Nanseki,translate,,,"ante e toki, toki {language}","to alter a word, sentence, paragraph, or longer text such that it is presented in a new language, but maintains the meaning","lipu ni li **ante e toki** pi nimi mute. | This page **translates** many phrases. 
 mi **toki Epelanto** e lipu ni. | I've **translated** that document **into Esperanto**."
-4,lipamanka,tree,,,kasi (suli),a large plant with a trunk and leaves,
+4,lipamanka,tree,,,kasi (suli),a large plant with a trunk and leaves,"mi lili la mi en jan poka mi li tawa lon **kasi suli** li alasa e ni: jan seme li ken kama sewi nanpa wan? | When I was young, my friends and I would climb **trees** and try to find out who could get the highest. "
 9,ilo Tani,triangle,n,1,"selo pi linja tu wan, sijelo pi palisa tu wan",a shape with three sides,"o sitelen e **selo pi linja tu wan**. linja ale o suli sama. | Draw a **triangle** in which all the sides have the same length.
 nasin ni li wawa li ken awen lon sewi telo tan ni: jan li pali e noka ona kepeken sijelo mute pi palisa tu wan. | This bridge is strong and able to stay above the river because its foundation was made of triangles."
 9,ijo vivi,triangle,,2,kulupu (pi ijo tu wan),a system with three interrelated objects or forces,**kulupu** ni: jan tu li olin e jan nanpa tu wan li olin ala e ona ante | love **triangle**
