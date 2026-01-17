@@ -51,14 +51,28 @@
 
 <input type="search" id="search" bind:value={search} />
 
-<center>
-  Showing <b
-    >{filteredPosts.length === posts.length
-      ? `${posts.length}`
-      : `${filteredPosts.length}/${posts.length}`}</b
-  > words
-</center>
+{#if filteredPosts.length}
+  <center>
+    Showing <b
+      >{filteredPosts.length === posts.length
+        ? `${posts.length}`
+        : `${filteredPosts.length}/${posts.length}`}</b
+    > words
+  </center>
+{:else}
+  <center> Nothing found! You can request this word to be added:</center>
+  <iframe
+    title="Google Form"
+    src="https://docs.google.com/forms/d/e/1FAIpQLSclWsDweTAcnVr6rN4SVehxKqDtrvrEMC-IWT4vC29N22hl5g/viewform?usp=pp_url&entry.17243220={search}&embedded=true"
+    width="700"
+    height="700"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0">Loading…</iframe
+  >
+{/if}
 
+<!-- {#if filteredPosts} -->
 {#each filteredPosts as post (post.id)}
   <section>
     <h2>{post.data.title}</h2>
