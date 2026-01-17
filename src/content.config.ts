@@ -9,6 +9,8 @@ const dictionarySchema = z.object({
       z.object({
         tok: z.string(),
         eng: z.string(),
+        pos: z.string(),
+        enumeration: z.string(),
         examples: z
           .array(
             z.object({

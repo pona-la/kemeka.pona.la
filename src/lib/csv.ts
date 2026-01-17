@@ -22,6 +22,8 @@ interface Output {
   definitions: {
     tok: string;
     eng: string;
+    pos: string;
+    enumeration: string;
     examples?: {
       tok: string;
       eng: string;
@@ -59,6 +61,8 @@ export function processCsv() {
     entries.get(row.keyword)!.definitions.push({
       tok: row.tok,
       eng: row.eng,
+      pos: row.pos,
+      enumeration: row.enumeration,
       examples: !row.examples
         ? undefined
         : row.examples

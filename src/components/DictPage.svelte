@@ -3,7 +3,7 @@
   import { marked } from "marked";
 
   interface Props {
-    post: CollectionEntry<"content">;
+    post: CollectionEntry<"dictionary">;
   }
 
   const { post }: Props = $props();
@@ -21,22 +21,6 @@
     return marked.parse(replace_md_links(text), { async: false });
   }
 </script>
-
-<style>
-  ol {
-    padding-left: 30px;
-  }
-  ul {
-    padding-left: 20px;
-    list-style-type: none;
-  }
-  ol > li {
-    margin-bottom: 20px;
-  }
-  ul > li {
-    margin-bottom: 10px;
-  }
-</style>
 
 {#if post.data.definitions}
   <ol>
@@ -119,3 +103,19 @@
     )
   }
 </p> -->
+
+<style>
+  ol {
+    padding-left: 30px;
+  }
+  ul {
+    padding-left: 20px;
+    list-style-type: none;
+  }
+  ol > li {
+    margin-bottom: 20px;
+  }
+  ul > li {
+    margin-bottom: 10px;
+  }
+</style>
