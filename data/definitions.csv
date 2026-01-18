@@ -5,7 +5,7 @@ mi **toki lon** kili **lon** nasin moku ona. | I'm presenting **about** fruits a
 mi pilin ike tawa kama ni. | I'm mad **about** this occurrence."
 29,kala Asi,about,adv,,"anu poka, sama (lili)","or so, nearly, approximately","mi kute e ona tan sike nanpa 2006 **anu poka**. | I've been listening to it since **about** 2006.
 lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about** as cold as it was last winter."
-0,,across,,,,,
+0,ilo Tani,across,,,tawa poka ante,through to the other side of,"nasin telo ni li suli a la ni li wile e wawa mute: jan li **tawa poka ante** ona. | Because this river is so wide, it's very difficult for people to go **across**."
 0,,act,,,,,
 1,ijo vivi,actually,,,lon (la),in reality,toki ona li sama ala pali ona **lon**. | What he said is different from what he **actually** did.
 0,jan Tene,add,v,,pana e,"to put a thing with another, increasing the amount, or improving the whole",o **pana e** telo mama tawa pan. | **Add** milk to the cereal.
@@ -75,8 +75,8 @@ jan li toki ike e tonsi la mi **utala** e ona. | If someone says something trans
 7,lipamanka,based,adj,,pona,politically aligned with the speaker (originally from 4chan) ,
 0,lipamanka,bat,n,1,waso,a flying mammal,"**waso** li mu, la ona li ken lukin kute. | When **bats** make noises, they can see with their ears. "
 0,lipamanka,bat,n,2,palisa,a large stick used for baseball and as a weapon,mi utala **palisa** e sina lon tenpo ni: sina toki jaki e mije mi. | I'll hit you with my **bat** the moment you talk shit about my husband. 
-0,lipamanka,bat (away) ,v,1,luka,to push something away with the hand in quick motions,mi **luka** e sina tan ni: mi wile weka e sina. | I'm **batting** you away because I want you to go away. 
 0,lipamanka,bat,v,2,pini (sike) e lukin,(of an eye) to close (often repeatedly),"meli lili li **pini sike e lukin** ona la o sona e ni: ona li ken ala pali ike. | When a young girl **bats** her eyes at you, you know that she can do no wrong. "
+0,lipamanka,bat (away) ,v,1,luka,to push something away with the hand in quick motions,mi **luka** e sina tan ni: mi wile weka e sina. | I'm **batting** you away because I want you to go away. 
 0,lipamanka,bath,,,poki telo,"a receptacle for cleaning one's body, typically while reclined","mi lon **poki telo** la mi ken ala toki uta tan nasa. | I'm in the **bath,** so I won't join voice chat because that would be weird. "
 0,"lipamanka, ijo vivi",bathe,,,telo e,to [clean] one's body while reclined,"mi **telo e mi** la kon mi li pona tawa nena. | When I **bathe**, I smell good."
 6,kala Asi,be,v,1,∅,linking verb (copula),"mi wile moku. | I **am** hungry.
@@ -119,7 +119,7 @@ tenpo poka la mi kama e kulupu musi suli tawa mi! sina wile ala wile kama? | Soo
 6,kala Asi,blue,adj,1b,"laso sewi, laso telo",a shade of turquoise/grue as opposed to [green],"nasa la kasi ni li **laso sewi**. | Strangely, this plant has a **blue** tint."
 6,kala Asi,blue,adj,2,pilin ike,"melancholic, sad",sina **pilin ike** tawa seme? | What's the point of feeling **blue**?
 0,lipamanka,blues,,,nasin kalama Pu; nasin kalama pi pilin ike,"a style of music originating in black communities in the South of the United States that has inherited qualities from spirituals, work songs, etc. (often called ""the blues"")",sina wawa nanpa wan lon **nasin kalama Pu.** | You're the best **blues** player ever. 
-0,,board,,,,,
+0,ilo Tani,board,,,sinpin,"a tall, wide, but thin piece of material, often wood",o sitelen e toki sina lon **sinpin**. | Write your answer up on the **board**.
 4,poni Kita,boat,n,,"ilo (tawa) telo, poki (tawa) telo, tomo (tawa) telo",water vehicle,"mi wile toki e wawa pi linja wan ni la mi tu e **ilo telo** ni! | To show you the power of this tape, I sawed this boat in half!"
 0,jan Tene,body,n,1,sijelo,the physical structure of a living organism or inanimate object,taso kon toki pi jan Jesu li ni: tomo sewi li **sijelo** ona. | But Jesus was speaking of the temple of his **body**.
 0,jan Tene,body,n,2,insa,something's main or most important part,**insa** sitelen li toki e pilin ona pi suli nanpa wan. | The text's **body** states its most important ideas.
@@ -206,8 +206,8 @@ mi **wile** e suwi loje. | I **choose** the red candy."
 0,jan Tene,church,n,1,tomo (pi nasin) sewi,A building for religious services (especially in Christianity),**tomo sewi** pi kulupu mi li pona tawa lukin. | Our community's **church** is beautiful.
 0,jan Tene,church,n,2,kulupu pi nasin sewi,A community of religious believers,ona li weka tan **kulupu pi nasin sewi**. | She left the **church**.
 4,ilo Tani,clean,v,,weka e jaki,to remove dirt from an object,suno ni la o **weka e jaki** tan lupa suno. | Could you **clean** the windows today?
-4,,clean,v,,pona e nasin,to tidy up,
-4,ijo vivi,clean,adj,,"jaki ala, sin",free of dirtiness,
+4,ilo Tani,clean,v,,pona e nasin,to tidy up,"tenpo pini la mi ken ala sona e ni: tomo moku la ijo seme li lon seme. ni la mi **pona e nasin** pi ijo insa. | Previously, it was really difficult for me to pinpoint where anything was in the pantry, so I **cleaned** it up."
+4,"ijo vivi, ilo Tani",clean,adj,,"jaki ala, sin",free of dirtiness,supa moku li **jaki ala** anu seme? | Are the dishes **clean** or not?
 4,,clean,,,,,
 2,,clear,,,,,
 0,lipamanka,cleavage,,,"lupa pi insa nena, insa nena",the cavity between two breasts,len meli li lili la mi ken lukin e **lupa pi insa nena**. | The woman's clothes were so small that I could see her cleavage.
@@ -236,7 +236,9 @@ mi en jan olin mi li lon weka. **ilo** la mi awen ken toki. | Me and my friends 
 0,,condition,,,,,
 7,poni Kita,conlang,,,"toki pali, toki sin",a language deliberately created by a person,jan li wile kama sona e **toki pali** tan seme? | What makes people want to learn **conlangs**?
 15,lipamanka,context,,,"ijo poka, poka, ale poka",,
-0,,control,,,,,
+0,ilo Tani,control,v,,lawa,"to influence, to hold authority over",jan wan taso li ken ala **lawa** e toki pona. | A single person cannot **control** Toki Pona.
+0,ilo Tani,control,n,,,"influence, authority",
+0,,control,n,,,,
 0,ijo vivi,corn,,,kili pan; sike kili jelo lili mute,"a starchy grain crop, often yellow, or its seeds",o pana e **kili lili jelo** tawa pan mi. | Please put some **corn** on my pizza.
 0,lipamanka,corny,,,nasa ike,eliciting a weak negative emotional reaction due to a cliche nature,toki ale pi mama mi li **nasa ike.** ona li toki e olin taso! | Everything my grandma says is so corny. She only talks about love!
 0,ijo vivi,country,,,ma,place ruled by a government,mi lon **ma** Tosi. | I'm in (the **country** of) Germany.
@@ -302,7 +304,8 @@ o pali! | **Do** your job!"
 19,kala Asi,do,,,a,(emphatic),mi sona **a** e ni. | I **do** know that.
 8,lipamanka,doctor,,,"jan, jan sijelo, jan pi pona sijelo",a medical professional ,**jan ni** li pona e insa mi ni: **ona li kama e telo tan moku**. | This is my **gastrointestinologist**.
 8,lipamanka,doctor,,,"jan, jan sona, jan pi {field of expertise}",an expert in a field who graduated with a PhD or equivalent ,**jan pi sona toki** li utala mute a. | **Doctors of linguistics** very frequently debate.
-14,,dog,,,,,
+14,pakala Mapuju,dog,,,"soweli, soweli tomo",domesticated furry animal commonly kept as a pet,"**soweli** sina li suwi a. | Your **dog** is so cute.
+o lukin e **soweli tomo** mi. | Look at my **dog**."
 5,ijo vivi,door,n,1,sinpin,horizontal surface inside a doorway,open pi tomo mi la mi sin e **sinpin** pi lupa kama. | We installed a new front **door**.
 5,ijo vivi,door,n,2,lupa,referring metonymically to the doorway itself,o pini e **lupa tomo**! | Please close the **door**(way)!
 2,ijo vivi,down,,,(tawa) anpa,at or towards the bottom,
@@ -451,6 +454,7 @@ ona li sona **e** ike **e** pona. | He knows right **from** wrong."
 2,lipamanka,gamer,n,,"jan musi, jan pi musi ilo",someone who plays enjoyable programs on computers,"mi toki ala tawa **jan pi musi ilo** tan ni: mi lili, la musi ilo li moli e mama mama mi. | I don't talk to **gamers** because gaming killed my grandma. "
 12,"mun Nanseki, pakala Mapuju",gay,adj,,"olin e {meli/mije}, olin e kule sama",attracted to one's own gender (cf '[straight]'),"ona li mije li **olin e mije**. | He's a guy and he's **gay**.
 jan mute li kama kulupu. ona ale li **olin e kule sama**. | Many people gathered. They're all **gay**."
+0,,geek,,,,,
 16,"mute ante, pakala Mapuju",gender,,,"(mije en meli la) poki, kule","social category of man, woman, nonbinary, etc.","**mije en meli la** mi **poki** ala | I don't fit into the **gender binary**.
 **mije la meli la tonsi la** ale o kama e mani sama. | People deserve the same welfare regardless of **gender**.
 "
@@ -603,11 +607,11 @@ ala li **lon insa** pi tomo ni. | There's nothing **in** that house."
 0,jan Lisente,increase,v,1,suli,to become or make of greater size or amount,"pan li lon ilo seli la ona li **kama suli**. | Once in the oven, the dough will **increase** in size."
 0,jan Lisente,increase,n,2,kama suli,the result of increasing,**kama suli** pi ma tomo li ike e kasi. | The **increase** of the city will damage the flora.
 0,kala Asi,insect,,,pipi,a six-legged animal with an external skeleton,"jan Keko Sansa li weka tan lape ike ona. nasa la sona sin la ona li kama **pipi** suli monsuta. | As Gregor Samsa awoke one morning from uneasy dreams, he found himself transformed in his bed into a gigantic **insect**."
+0,lipamanka,inter,,,"pana ma e, pana e ... tawa ma, pana e ... lon ma",to bury someone in the ground,"mama mi li moli la mi **pana** e ona **tawa ma.** | When my mom died, I **interred** her. 
+jan li **pana** e sijelo ona **lon ma** Pe Apawan lon tenpo sike ni. | She was **interred** at Beth Abraham Cemetery earlier this year."
 0,,interest,,,,,
 15,kala Asi,interesting,,,"musi, suli",capable of holding one's attention,"tenpo ale la ijo **musi** li lon ilo. | There's an infinite stream of **interesting** content on the internet.
 o kama sona e ni: seme li **suli** tawa jan esun sina? | Figure out what's **interesting** to your trade partners."
-0,lipamanka,inter,,,"pana ma e, pana e ... tawa ma, pana e ... lon ma",to bury someone in the ground,"mama mi li moli la mi **pana** e ona **tawa ma.** | When my mom died, I **interred** her. 
-jan li **pana** e sijelo ona **lon ma** Pe Apawan lon tenpo sike ni. | She was **interred** at Beth Abraham Cemetery earlier this year."
 10,ilo Tani,internet,,1a,ilo,the global network of computers used around the world,sona. mi toki e ni tawa ona lon **ilo**. | Understood. I'll message him over the **internet**.
 10,ijo vivi,internet,,1b,"ken {lukin, toki, ...}",access to the Internet,ilo li pakala la mi ken ala toki tawa sina. | I can't talk to you because I don't have **internet**.
 4,lipamanka,island,,,nena,a landmass surrounded on all sides by water,kulupu pi toki pona li kama lon **nena** Manatan lon mun nanpa luka wan! | The toki pona community is meeting up on the **island** Manhattan in June!
@@ -754,12 +758,12 @@ tomo moku la sina ken awen lon tenpo suli wan lon **tenpo lili** mute luka luka.
 4,lipamanka,money,n,,mani,currency,"pali mi li pona tawa sina la o pana e **mani** tawa mi lon ilo Pesijon. | If you enjoy my content, give me **money** on Patreon. "
 11,kala Asi,month,n,,(tenpo) mun,period related to the Moon's orbit,"**tenpo mun** nanpa luka luka li tenpo mun monsuta. | The tenth **month** of the year is spooky season.
 **mun** pi ante toki li pini. | Translation **Month** has ended."
-0,lipamanka,mortician,n,,"jan pi jan moli, jan moli",a person tasked with handling dead bodies,**jan pi jan moli** li seli e sina lon moli sina. | the **mortician** will cremate you when you die. 
 4,ilo Tani,moon,,,mun,a natural satellite of a planet,"tenpo pimeja ni la ale **mun** li suno. | Tonight, the whole **moon** is lit up."
 27,ijo vivi,more,,,"mute, sin, namako",additional,"kili ni taso li weka ale ala e wile moku. o pana e kili **sin**! | These fruits alone won't make me full. Could you hand me some **more**, please!"
 27,ijo vivi,more,,,tawa (as a preposition),(forms comparatives),ona li suwi **tawa** jan ante ale kulupu. | She's **more** likable than everyone else in the group.
 9,ijo vivi,morning,,,open suno,time of day when the sun rises,
 9,ijo vivi,morning,,,"tenpo pi pini lape, lape li pini la...",time of day when one wakes up,
+0,lipamanka,mortician,n,,"jan pi jan moli, jan moli",a person tasked with handling dead bodies,**jan pi jan moli** li seli e sina lon moli sina. | the **mortician** will cremate you when you die. 
 8,ijo vivi,most,,,mute nanpa wan,highest amount,"jan ale la sina moku e kili pi **mute nanpa wan**. | Out of everyone, you ate the **most** strawberries."
 8,ijo vivi,most,,,(ijo) nanpa wan,(forms superlatives),
 0,ijo vivi,mother,,,mama,feminine parent,
@@ -858,7 +862,6 @@ mi tu li kama wan lon tenpo suno pini. | We got married yesterday."
 7,kala Asi,orange,,1,kili,fruit,mi weka e selo **kili** li moku e insa. | I peel the **orange** and eat it.
 7,kala Asi,orange,,2a,"loje, jelo",colour similar to both red and yellow,suno li weka lon tenpo kama poka li kama **loje**. | The setting sun has turned an **orange** hue.
 7,kala Asi,orange,,2b,"loje jelo, jelo loje",colour distinct from red and yellow,ma Netelan la **loje jelo** li kule suli. | The colour **orange** has cultural significance for the Netherlands.
-0,,,,,,,
 2,"soweli Ewisi, lipamanka",order,v,1,nasin e,to arrange items in a manner that is organized. ,mi **nasin** e pana ale pi lipu Kemeka. | I'm **ordering** the submissions of lipu Kemeka. 
 2,lipamanka,order,v,2,"nanpa e, toki e ni: seme li nanpa seme",to rank items based on a qualification. ,"mi **nanpa** e jan tan wawa ona. | I **ordered** the people based on how strong they were. 
 sitelen kule, la jan Alisin li **toki e ni: seme li nanpa seme** tawa ona? | Alison **ordered** the paintings based on her preferences. "
@@ -867,7 +870,6 @@ sitelen kule, la jan Alisin li **toki e ni: seme li nanpa seme** tawa ona? | Ali
 2,lipamanka,order,v,4a,"kama ilo e, kama e ... kepeken ilo",to use a device to have something delivered to one's self,"mi **kama ilo e** len tonsi tan ilo Amasan. | I **ordered** a trans flag on Amazon. 
 mi **kama e** sike soweli pi noka lawa tawa olin mi **kepeken ilo.** | I **ordered** a dog collar for my boyfriend online. "
 2,lipamanka,order,n,,"pana, kama",something delivered (usually food),mi jo e **kama** mi pi ma Isijopija lon noka mi. | I have my Ethiopian **order** in my lap. 
-0,,,,,,,
 2,lipamanka,other,,,ante,different from surrounding things (often similar things),"mi wile e telo nasa **ante.** | I want the **other** cocktail. 
 jan Keli li sama ala meli **ante.** | Kelly isn't like **other** girls. "
 2,pakala Mapuju,out,,,weka,not inside of,mi tawa **weka**. | I'm getting **out** of here.
@@ -886,6 +888,7 @@ mi **lawa** ala e tomo. | I don't **own** a house."
 4,lipamanka,pain,n,,pilin ike ,sensation caused by injury (cf [hurt]),"sina pakala e luka jan la jan li kama **pilin ike.** | If you demolish someone's hand, they'll **feel pain.** "
 0,ijo vivi,paint,,,"kule (selo), telo kule","colorful liquid used to cover walls, vehicles, etc",
 0,ijo vivi,paper,,,lipu,sheet used to store writing,
+3,,paradox,,,,,
 5,,part,,,,,
 7,kala Asi,past,,,tenpo pini,time that has already happened,mi o kama sin tawa pali mi pi **tenpo pini**. | I should return to my **past** efforts.
 7,kala Asi,past,,,tenpo (pini) weka,time long ago,sona pi **tenpo weka** li kama sin lon lawa mi. | I have remembered something from the remote **past**.
@@ -961,13 +964,13 @@ jan li moli e soweli la pakala ona li pini. | They **put** the animal to death t
 0,,quite,,,,,
 10,"jan Niwe, lipamanka",raccoon,,,"kijetesantakalu, soweli",an animal in the procyonid family known for stealing garbage from humans,"**kijetesantakalu** li wile moku. | The **raccoon** wants to eat.
 **soweli** li weka e moku tan poki. | The **raccoon** stole food from the container."
+0,lipamanka,rag,n,,"len, len pi weka jaki",a small cloth used for cleaning,"**""len pi weka jaki** li lon seme?"" ""a, poki ni."" | ""Where can I find the **rags?""** ""Oh, in that cabnet."" "
+0,lipamanka,rag on,v,,toki ike e,to criticize someone,ona li **toki ike e mi** li pini ala a! | She won't stop **ragging** on me! 
 4,ilo Tani,rain,n,,telo sewi,water droplets that have fallen from condensed clouds,len ale mi li kama jo e **telo** tan **sewi** a... | All of my clothes were soaked from the **rain**...
 4,ilo Tani,rain,v,,pana e telo,to have rain fall,suno ni la sewi li **pana e telo** mute. | **It's raining** a lot today.
 11,ijo vivi,random,,,ken ala sona e {nanpa} kama,unpredictable,leko li pana ni e nanpa: mi **ken ala sona e nanpa kama**. | The dice provides **random** numbers.
 11,ijo vivi,random,,,nasa,"silly, tending to non sequiturs",nasin mi la mi musi tan ijo **nasa** lon tenpo mute. | I have a very **random** sense of humour.
 0,,rate,,,,,
-0,lipamanka,rag,n,,"len, len pi weka jaki",a small cloth used for cleaning,"**""len pi weka jaki** li lon seme?"" ""a, poki ni."" | ""Where can I find the **rags?""** ""Oh, in that cabnet."" "
-0,lipamanka,rag on,v,,toki ike e,to criticize someone,ona li **toki ike e mi** li pini ala a! | She won't stop **ragging** on me! 
 8,ijo vivi,read,,,lukin,receive information through writing,
 2,,ready,,,,,
 0,lipamanka,reason,n,,tan,motivation,"jan li utala e mi, taso mi sona ala a e **tan!** | People keep arguing with me, but I don't know the **reason!** "
@@ -993,14 +996,16 @@ mi wile ala moku e **akesi** tan ni: mama mi la ni li nasa. | I don't want to ea
 12,mun Nanseki,right,interj,,"lon, sona","true, I understand",
 12,kala Asi,right,,,anu seme,confirming the listener's agreement,"kulupu o toki e nasin mani lon tenpo suno kama. pona **anu seme**? | Let's discuss the budget tomorrow. Sounds like a plan, **right**?"
 2,ilo Tani,river,,,nasin telo,a large stream of water,"tenpo la telo pi mute ike li kama lon **nasin telo**, li pakala e ijo poka. | Occasionally, too much water flows in a **river**, causing a flood."
-0,,road,,,,,
+0,ilo Tani,road,,,nasin,a large pathway for vehicles,mi wile ala a tawa poka ante **nasin**. | I don't want to cross the **road**.
 0,ilo Tani,rock,,,kiwen,a stone made of a formation of minerals,"mi wan wawa e **kiwen** tu la kalama suli li kama. | If I powerfully strike two **rocks** together, it'll produce a loud sound."
 0,lipamanka,rocket,,,"tomo, tomo pi weka ma, ilo",a vessel used for space travel,"jan li tawa mun la ona li kepeken **tomo** suli. | When people set foot on the moon, they used huge **rockets.**"
 2,,room,,,,,
 0,ijo vivi,rope,,,linja,sturdy kind of string,
 0,ijo vivi,rub,,,"tawa (lon supa), weka e jaki","move something across a surface with high tension, especially in order to clean it",
 0,ijo vivi,rub,,,unpa,masturbate,
-0,,rule,,,,,
+0,ilo Tani,rule,v,,lawa,to have authority over,"tenpo suli la jan pi ma Loma li **lawa** e ma Inli. | For a long time, the people of Rome **ruled** England."
+0,,rule,n,,,,
+0,ilo Tani,rule,n,,tenpo lawa,a period of ruling,
 6,kala Asi,run,v,1,tawa wawa,move with great force,mi wile pona e sijelo mi. mi kama **tawa** kepeken **wawa**. | I decided to get back into shape. I have gotten into **running**.
 6,kala Asi,run,v,2,weka,flee,ona li jo wawa e poki mi li **weka**. | He snatched my purse and **ran**.
 6,kala Asi,run,v,3,tawa,flow in the manner of a liquid,telo li tan ma nena li **tawa** ma anpa. | Rivers originate in the highlands and **run** to the lowlands.
@@ -1055,11 +1060,14 @@ mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower*
 6,lipamanka,shower,n,,"poki telo, poki kala",a receptacle for cleaning one's body (cf [bath]),mi lon **poki telo**. | I'm in the **shower**.
 8,lipamanka,sibling,,,"jan sama, jan poka, pata","someone who shares at least one parent, usually two",**jan sama** mi li sona e toki Epanja. | My sibling knows Spanish.
 8,lipamanka,sibling,,,"tonsi sama, tonsi poka","someone who shares at least one parent, usually two, but is specified to be nonbinary",mi olin e **tonsi sama** mi. | I love my **nonbinary sibling**.
-0,,side,,,,,
+0,ilo Tani,side,,,poka,a half,mi o pana e pan tawa **poka** seme supa? | What **side** of the tray should I put the cookie on?
+0,ilo Tani,side,,,"palisa, linja",an edge of a two-dimensional shape,sitelen ni la **linja** tu tu li lon. | This figure has four **sides**.
+0,ilo Tani,side,,,"ken, ijo",an aspect,o sona e **ken** pona! | Look on the bright **side**!
+0,ilo Tani,side,,,moku poka,part of a dish not the main entree,ona li pana e pan. **poka** la kasi en kili li lon. | She served rice with vegetables and fruits on the **side**.
 0,,sign,,,,,
 5,ilo Tani,simple,,,"wile e wawa lili, wile e tenpo lili","[easy], requiring little effort",musi ni li **wile e tenpo lili** a. | This puzzle is quite **simple**.
 5,ilo Tani,simple,,,lili,lacking complexity,"ilo ni li **lili**, taso ona li pana e sona mute. | This program is **simple**, but it outputs a lot of information."
-5,,simple,,,,,
+5,ilo Tani,simple,,,,plain,
 0,lipamanka,sing,v,,mu,to vocalize musically,"mi lon kulupu **mu.** kulupu ni la jan li nasin e kulupu kepeken luka. | I'm in a **singing** group. In this group, the conductor conducts us with her hand. "
 7,lipamanka,sister,,,"meli sama, meli poka","someone who shares at least one parent, usually two, but is specified to be female",jan Pita en **meli sama** ona li kama li jo e len mani. | Peter and his **sister** arrived clad in expensive attire.
 10,lipamanka,sit,,,(lon) monsi,to be in a state of rest with the buttocks against a horisontal surface,mi **monsi** e supa. | I'm **sitting** on a table.
@@ -1067,9 +1075,10 @@ mi o **kama kala**. taso ni li pini la mi kama sin. | I have to **take a shower*
 0,lipamanka,size up,v,,alasa e wawa,to assesss the efficacy or power of something or someone,"weka tomo la jan pi pali ike li **alasa e wawa** pi jan noka. | Outside, criminals **size up** pedestrians. "
 3,kala Asi,sleep,,,lape,to rest in a state of reduced consciousness,mi **lape** ala la lawa mi li kama nasa. | **Sleep** deprivation makes me go loopy.
 3,kala Asi,sleep,,,unpa,to have sex,pimeja pini la mi tu li **unpa** lon tenpo nanpa wan. | Last night we **slept** together for the first time.
-11,ilo Tani,slow,,1,tenpo suli,to happen over a long period of time,jan li wile kama sona e toki sin la ni li **wile e tenpo suli**. | Learning a new language is a **slow** process.
-11,,slow,,2,,moving with little speed,
-11,ijo vivi,slow,,3,"wawa ala, pali ala",lacking activity,
+11,ilo Tani,slow,,1a,tenpo suli,to happen over a long period of time,jan li wile kama sona e toki sin la ni li **wile e tenpo suli**. | Learning a new language is a **slow** process.
+11,ilo Tani,slow,,1b,wawa ala,moving with little speed,
+11,ilo Tani,slow,,1c,wawa ala,only able to move with little speed,"akesi pi wawa ala li kama lon pini nasin la soweli wawa li awen lape lon insa. | As the **slow** tortoise finished the race, the quick hare was still sleeping in the middle."
+11,"ijo vivi, ilo Tani",slow,,2,musi ala,lacking activity,suno mute la ijo **musi ala** li lon. | Many days were **slow**.
 4,lipamanka,small,adj,,lili,of low size level,soweli mi li moku e telo walo **lili** tan poki. | My pet aardvark drinks a **small** portion of milk from a saucer. 
 13,ilo Tani,smell,v,,pilin e kon,to sense the smell of,"mi **pilin e kon** pan la sijelo mi li kama wile a moku. | When I smelled the rice, I got really hungry."
 13,"mun Nanseki, jan Lakuse",smell,n,,kon,scent given off by something,**kon** jaki ni li seme | What is that gross **smell**?
@@ -1141,6 +1150,7 @@ jan ilo li lukin e sina la ona li weka e **nasin** lape li kama lon **nasin** ut
 3,ijo vivi,step,,,supa,part of a staircase,
 5,ilo Tani,still,adv,,awen,continuing past an expected endpoint,sina **awen** a pali anu seme? | Are you **still** working?
 5,ilo Tani,still,adj,,tawa ala,unmoving,"anpa nena la sike li kama **tawa ala**. | At the bottom of the hill, the ball became **still**."
+0,,stomach,,,,,
 0,,stone,,,,,
 7,kala Asi,stop,,,kama tawa ala,cease moving,"ilo li pana e suno loje la o **kama tawa ala**. | If the traffic light is red, **stop**."
 7,kala Asi,stop,,,pini,to no longer continue,telo sewi li **pini**. | The rain **stopped**.
@@ -1348,7 +1358,11 @@ nasin ni li **pona** ala. mi o nasin ante. | This plan isn't gonna **work**. Let
 4,kala Asi,world,n,2,ale,the entire existence,**ale** pi sona mi li kama pini. | It's the end of the **world** as we know it.
 4,ijo vivi,world,n,3,ma,group of levels in a video game,"**ma** lete la palisa lete li lon sewi. ona li ken kama anpa li ken moli e sina. | In the ice **world**, there are icicles on the ceilings which can fall and kill you."
 4,mun Nanseki,world,n,2a,"ma, ale, mun","planet, plane of existence, or all-encompassing place",tenpo ale la mi wile tawa **mun** ante. | I've always dreamed of visiting other **worlds**.
-6,,would,,,,,
+6,ilo Tani,would,,1,∅,referring to a future point in time from a point in the past,"sona mi la ona li tawa mute lon open suno. | To my knowledge, she **would** often run in the morning."
+6,ilo Tani,would,,2a,∅,in a event conditional on another event,"mi lukin e waso la mi awen e sitelen ona. | If I saw a bird, I **would** take a picture of it."
+6,ilo Tani,would,,2b,"wile, ken",in a hypothetical event with an implied condition,"lukin la pan ni li suwi a tawa uta! mi **wile** moku e ale ona. | That cake looks delicious! I **would** eat all of it.
+nasin ni li **ken** pona a. | That plan **would** be a good one."
+6,ilo Tani,would,,2c,o,used to express a polite request,**o** pana e namako tawa mi. | **Would** you pass the salt?
 6,ni Salo,write,,,toki (sitelen),to communicate (using symbols),mi **toki** tawa ona lon tenpo mute. | I've **written** to him often.
 6,ni Salo,write,,,sitelen,to make symbols,mi **sitelen** e nimi mi. | I **am writing** my name.
 0,ijo vivi,wrong,,,"ike, lon ala, pakala",incorrect,"toki sina li **pakala**. o kute e tan. | Your explanation is **wrong**, and here's why."
@@ -1363,4 +1377,3 @@ seme la **mi** ken toki e nimi 'you'? | How do **you** say 'you'?"
 0,,young,,,,,
 0,jan Lisente,zebra,,,"soweli, soweli walo pimeja, soweli pi linja walo, soweli pimeja pi linja walo",an african furry mammal with black-and-white stripes,mi kama lukin e **soweli pimeja walo** lon tomo soweli. | I saw a **zebra** at the zoo.
 0,jan Lisente,zoo,,,tomo soweli,establishment made to care for and show animals to the public,**tomo soweli** li jo e soweli wawa mute. | The **zoo** has a lot of impressive animals.
-0,,,,,,,
