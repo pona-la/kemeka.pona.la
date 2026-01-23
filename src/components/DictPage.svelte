@@ -115,15 +115,20 @@
     padding-left: 30px;
   }
   ul {
-    padding-left: 20px;
+    padding-left: 10px;
     list-style-type: none;
   }
   ol > li {
     margin-bottom: 20px;
   }
   ul > li {
-    margin-bottom: 10px;
+    /*margin-bottom: 10px;
     margin-left: 15px;
+    border-left: 1px solid var(--grey);*/
+    /*margin: 5px 0px;*/
+    padding-inline: 15px 0px;
+    border-inline-start: 3px solid var(--grey-1);
+    /*color: var(--grey);*/
   }
   li {
     list-style-type: none;
