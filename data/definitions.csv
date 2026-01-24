@@ -87,10 +87,12 @@ jan pakala li **wile** e telo. | The injured person **asked** for a glass of wat
 0,pakala Mapuju,attack,,,(kama) utala,to take a violent or aggressive action against another being or entity,"suno ni la ma Juwese li **kama utala** e ma Kanata. | The United States **attacked** Canada today.
 jan li toki ike e tonsi la mi **utala** e ona. | If someone says something transphobic, I'll **attack** them."
 0,,attention,,,,,
-0,,authority,,,,,
+0,kala Asi,authority,,,"ken, lawa",ability or permission to be in command,"sitelen li suno la wawa li tawa lon insa sina. sina **ken**. | As the symbol glows, power courses through you. **Authority**.
+open la ona li toki utala e ni: ona a li **lawa** e kulupu. | He asserted his **authority** over the team right from the start."
 6,mute ante,autism,,,"ante lawa, lawa (li) ante, nasa lawa, lawa (li) nasa","a type of neurodivergency characterized by divergence in social situations, among many other symptoms",**lawa** mi li **ante**. | I am **autistic**.
 4,jan Lisente,awake,,,(li) lape ala,"not sleeping or in a coma, conscious","sewi li pimeja. taso ona **li lape ala**. | It is nighttime, but she is **awake**."
-0,,away,,,,,
+0,kala Asi,away,,,(tawa) weka,to a remote destination,"o **weka**! weka ala la mi toki utala sin e sina. | Now go **away**, or I shall taunt you a second time."
+0,kala Asi,away,,,lon weka,at a remote location,"ilo tawa li wile e telo wawa la tomo telo li lon **weka** ike. | If we need to refuel, the nearest gas station is miles **away**."
 0,jan Lisente,baby,,,(jan) lili,"a very young animal, before being a child",**jan lili** li musi kepeken leko. | The **baby** is playing with blocks.
 3,pakala Mapuju,back,,1,monsi,the side opposite to the front,sitelen musi li lon **monsi** pi tomo ni. | There's a mural on the **back** of that building.
 3,pakala Mapuju,back,,1a,monsi (sijelo),the back part of the body,"a, **monsi** mi li pilin pakala. | Ugh, my **back** hurts."
@@ -141,7 +143,8 @@ jan lili tu wan li lon insa pi jan mama. | The expecting parent is bearing tripl
 2,jan Lakuse,bed,,,supa lape,a surface to sleep on,soweli li pakala e len pi **supa lape** kepeken luka ona. | The cat rips up the **bed**'s blankets using its claws.  
 27,"ijo vivi, (via sona pona)",before,prep,,… la (ijo) li (awen) kama ala,occuring when something else hasn't happened yet,"mi kama la jan **li awen pali ala**. | I arrived **before** people started working.
 o weka lon **tenpo** ni: sewi li **pimeja ala**. | Leave **before** it gets dark."
-0,,begin,,,,,
+0,kala Asi,begin,,,open,to make ongoing,tenpo moku o open. | Let the feast begin.
+0,kala Asi,begin,,,kama,to take the first step of an activity,"ilo li pana e suno laso la ilo tu li **kama** tawa. | As the light turned green, the two cars **began** to race."
 2,,behind,,,,,
 5,kala Asi,believe,v,,pilin,"to opine, think, reckon, accept as true","jan mute li **pilin** e ni: kulupu la ante nasin li kama. | Many **believe** the tide of change in society is coming. 
 mi kute ala e jan ante. **pilin** mi a la ken mi li wawa. | No matter what others say, I **believe** in my abilities."
@@ -974,7 +977,8 @@ mi pali e moku la mi **nanpa** ala e **mute** moku. | I don't **measure** when I
 0,ijo vivi,military,n,,kulupu utala,organization that fights in wars,
 7,ijo vivi,milk,n,,telo mama,liquid produced by mammals for their offspring,
 7,ijo vivi,milk,n,,"telo walo, telo soweli",liquid drunk by humans or used in cooking,
-3,,million,,,,,
+3,kala Asi,million,,,mute,a large amount,jan pi **mute** seme li moli la lawa li kama wile pini e utala? | How many **millions** must die before the powerful decide to end the war?
+3,kala Asi,million,,,(wan) ale ale ale,precisely a thousand thousands,utala musi la sina wawa! sina kama jo e mani **WAAA** pi ma Mewika. | You have succeeded at the competition! You will be awarded 1 **million** USD.
 0,ijo vivi,mind,n,,"pilin, lawa, sona, insa","the brain or its ability to think, feel, focus, or remember","**lawa** mi li pilin e ijo nasa lon tenpo. | My **mind** goes strange places sometimes.
 o kama **pilin** ala e unpa lon toki mi! | Get your **mind** out of the gutter!"
 0,ijo vivi,mind,v,2,(awen) sona,"to observe, to notice",lupa li lon nasin noka. o **awen sona** e ona. | **Mind** the gap!
@@ -1014,7 +1018,8 @@ musi Mawijo pi ilo Ensitepo la, jan li pini e ale musi lon tenpo suli wan, lon *
 8,kala Asi,music,,,"kalama, kalama musi",artistically arranged sound,"mi wile **musi** e **kalama** ni. | I want to remix these sounds into **music**.
 suno pi toki pona la mi **kalama musi!** | On Toki Pona day, I will perform **music**!"
 2,,must,,,,,
-56,,my,,,,,
+56,kala Asi,my,adj,,mi,possessive of '[I]',mi ken ala lukin e lipu **mi**. | I can't find **my** book.
+56,kala Asi,my,interj,,a,short for 'my [god]',"**a**, kiwen uta sina li suli a! | **My**, what big teeth you have!"
 0,,myself,,,,,
 3,,name,n,,nimi,a word or phrase someone or something is called,
 3,,name,v,1,"nimi, pana e nimi",to give a name,
@@ -1627,7 +1632,7 @@ toki sina la mi kama **lukin insa** e sitelen ni: kalama pona wan la ona li lon 
 8,mun Nanseki,thought,n,1,"pilin, sona",an idea,
 0,kala Asi,thousand,,,mute,a large amount,ma Mewika la jan pi **mute** ike li moli tan ilo utala. | **Thousands** of people in the US die every month from firearms.
 0,kala Asi,thousand,,,luka luka ale,precisely ten [hundred],"tenpo sike pini **LLA** anu poka la jan Wilijan li kama lon ma Inli li anpa e ona li kama lawa e ona. | A **thousand** years ago or so, William invaded and conquered England."
-4,,three,,,,,
+4,kala Asi,three,,,tu wan,one more than two,soweli **tu wan** la o jo e ona wan taso. | You may choose one of **three** pokemon.
 5,ijo vivi,through,,,"lon (insa), tawa insa, li kama li weka",by entering something and leaving it again,"o pana e palisa **tawa insa** len. | Pass the needle **through** the cloth.
 mi tawa ma Minken la mi **kama lon** ma Panpu **li weka sin**. | Traveling to Munich takes you **through** Frankfurt **and back out**."
 5,ijo vivi,through,,,"kepeken, tan",by means of,sona mi pi pali len li **tan** lipu sona li **tan** pakala mute mi. | I learned how to sew **through** tutorials and many mistakes.
