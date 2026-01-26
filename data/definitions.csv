@@ -187,7 +187,7 @@ ilo utala pi jan Ka li pakala e selo pi luka ona la **telo sijelo** li kama lon 
 8,kala Asi,bored,,,"wile musi, pilin pi musi ala",a need for mental stimulation,"ona li **wile musi** la ona li open e musi Manka. | They were **bored**, so they decided to play Minecraft."
 0,lipamanka,"born, be",,,"kama, open, tan mama",(be born) to be given birth to,"mi **open tan mama** la mi toki e ni: ""mi wile toki pona a!"" | When I was **born,** I said ""I want to learn toki pona!"""
 0,lipamanka,bosseyomp,,,"tenpo pimeja, tenpo lape",the time period from 1 AM to 5 AM ,"mi ken ala lape lon **tenpo pimeja** la mi kama ilo e moku tawa tomo. | When I can't sleep during **the bosseyomp**, I order takeout."
-5,,both,,,,,
+5,ijo vivi,both,,,ale,every one of two options,kili loje en kili jelo la sina wile e seme? — **ale** li pona. | Do you want the apple or the pear? — **Both** are good.
 0,jan Lisente,box,,,poki,"a unit of storage, especially of the shape of a cube or a rectangular prism.","wan, tu, tu wan, tu tu... **poki** wan li weka! | One, two, three, four... We lost a **box**!"
 0,jan Lisente,boy,,,(jan) mije,"a masculine person, especially a younger one",tenpo pini la ona li **mije**. | They used to be a **boy*.
 12,ilo Tani,brain,n,,insa lawa,the control center of an animal's mind in the skull,**insa** pi **lawa** jan la kipisi tu li lon li pali lon ijo ante. | A person's **brain** is comprised of two halves that perform different functions.
@@ -302,6 +302,7 @@ ona li **lon poka** pi ma Ontula. | It's **close** to Honduras."
 3,ilo Tani,cloud,,,"kon sewi, kon walo",a mass of water vapor suspended in the air,o lukin e **sewi**! **kon** ni li sama sina tawa lukin. | Look at the sky! That **cloud** looks like you.
 0,,code,,,,,
 7,"ijo vivi, lipamanka",coffee,,,"telo, telo pi weka lape, telo pimeja, telo seli, telo wawa",hot black beverage that prevents tiredness,o toki ala tawa mi lon tenpo ni: mi moku ala e **telo wawa** mi a! | Don't talk to me until I've had my **coffee!**
+2,,cold,,,,,
 0,kala Asi,color,,,kule,spectral composition of visible light,jan lukin li sona pona ala e ni: **kule** seme li lon selo pi ilo tawa. | The witness couldn't say for a fact what **color** the car was.
 4,ilo Tani,come,,,kama,to arrive,tenpo seme la sina **kama**? | When did you **come**?
 0,jan Saki,come out,,,"toki e, (kama) len ala",to disclose identity or orientation,ona li **toki e** tonsi ona tawa mi. | They **came out** to me as trans.
@@ -575,7 +576,7 @@ o **tawa** nena ma! | Run **for** the hills!"
 sina **weka** ala **weka** e ilo sina lon poka pi poki telo suli? | Did you **forget** your phone at the poolside? 
 mi **kama sona ala** e ni: mi lon ni tan seme. | I **forgot** why I came here. 
 tenpo pini la jan Nansi li sona pali e moku ante mute. tenpo ni la ona li **sona ala**. | Previously, Nancy knew how to prepare many different dishes. Now, she has **forgotten**."
-7,jan Lakuse,forget,,2,kama ala (pali),neglecting to do something,mi **kama ala** pana e namako tawa kala. | I **forgot** to add salt to the fish. 
+7,jan Lakuse,forget,,2,kama ala (pali),to neglect to do something,mi **kama ala** pana e namako tawa kala. | I **forgot** to add salt to the fish. 
 0,,form,,,,,
 0,,former,,,,,
 0,lipamanka,fortnight,,,suno luka luka tu tu,a period of 14 days and nights,"mi awen lon **suno luka luka tu tu,** taso akesi wawa li kama sin ala. | I waited for a **fortnight,** but the dragon didn't return. "
@@ -1313,6 +1314,7 @@ jan li moli e soweli la pakala ona li pini. | They **put** the animal to death t
 mi wile ala moku e **akesi** tan ni: mama mi la ni li nasa. | I don't want to eat **reptiles** because my parents told me it would be weird. "
 0,,require,,,,,
 0,,research,,,,,
+2,,reset,,,,,
 3,ijo vivi,respect,,,"pilin {pona, wawa, suli}",positive opinion,pali ona li **wawa** tawa jan mute. | He's well-**respected** for his work.
 3,ijo vivi,respect,,,anpa tawa...,deference,"sitelen ni la jan pan o **anpa** tawa jan utala. | In the movie, farmers are supposed to **show respect** to knights."
 3,ijo vivi,respect,,,"pilin {pona, wawa, suli}","have a positive opinion, be impressed by",pali ona pi kulupu mi li **wawa** tawa mi. | I **respect** the work she's been doing for our community.
@@ -1836,5 +1838,3 @@ seme la **mi** ken toki e nimi 'you'? | How do **you** say 'you'?"
 21,,your,,,,,
 0,jan Lisente,zebra,n,,"soweli, soweli walo pimeja, soweli pi linja walo, soweli pimeja pi linja walo",an african furry mammal with black-and-white stripes,mi kama lukin e **soweli pimeja walo** lon tomo soweli. | I saw a **zebra** at the zoo.
 0,jan Lisente,zoo,n,,tomo soweli,establishment made to care for and show animals to the public,**tomo soweli** li jo e soweli wawa mute. | The **zoo** has a lot of impressive animals.
-2,,reset,,,,,
-2,,cold,,,,,
