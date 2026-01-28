@@ -43,7 +43,9 @@ export function processCsv() {
   // Parse CSV
   let notes = fromCsv<CsvNotes>("data/notes.csv");
   let defs = fromCsv<CsvDefs>("data/definitions.csv");
-  defs = defs.filter((row) => row.tok !== "" && row.eng !== "");
+  defs = defs.filter(
+    (row) => row.tok !== "" && row.eng !== "" && row.examples !== "",
+  );
 
   const entries = new Map<string, Output>();
 
