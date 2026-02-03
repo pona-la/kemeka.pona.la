@@ -681,11 +681,12 @@ tenpo pini la jan Nansi li sona pali e moku ante mute. tenpo ni la ona li **sona
 0,ijo vivi,four,,,tu tu,(number),mi **tu tu** e pan. | I **cut** the cake **twice** (into **four** pieces).
 7,,free,v,1a,weka tan poki (awen),release from a prison,
 7,,free,v,1b,"ken e, pana e ken",give freedom or rights to,kulupu Palasina o **ken ale**! | **Free** Palestine!
-7,ijo vivi,free,adj,1,"ken, ken ale, ala li weka e ken mi","unrestrained, with freedom",
+7,ijo vivi,free,adj,1,"ken, ken ale, ala li weka e ken mi","unrestrained, with freedom",mi pali e pan la mi ken pana e suwi pi mute wile tawa ona. mi jan **pi ken ale**. | I can put as much sugar as I want in my cookies. I'm a **free** woman.
 7,ilo Tani,free,adj,2,wile ala e mani,"costing nothing, free of charge","sijelo jan li kama pakala la ma Kanata la ni li **wile ala e mani**: jan li tawa tomo sijelo la jan sona li pona e sijelo ona. | If you're injured in Canada, it's **free** to go to a hospital and be treated by a doctor."
 0,lipamanka,fridge,n,,poki lete,"a receptacle that keeps food items cold, but above freezing","**poki lete** mi li kama e pilin ike wawa lon mi tan ni: lon monsi poki, la poki lili li lon. mi sona ala e insa. | My **fridge** scares me a lot because in the back, there are some small containers. I don't know what's inside them. "
 13,kala Asi,friend,,,"(jan) poka, (jan) pona",someone physically and emotionally close and enjoyable,"jan Sankin li pona tawa mi. ike la mi tu li **poka** ala. | I like John Green, but unfortunately we are not **friends**.
 ona li pona e mi lon tenpo utala. mi tu li awen **pona**. | He helped me out during the war, and we've remained **friends** since."
+13,ijo vivi,friend,,,jan (mi),a nonspecific person from one's social circle,ni la mi kama pilin e ijo. tenpo poka la **jan** li toki e ijo musi tawa mi. | That reminds me of a funny story a **friend** told me recently.
 13,ijo vivi,friend,,,kulupu,"in the plural: a friend group, a clique",len mi sin li ike tawa **kulupu** mi. | My **friends** think my new jeans are weird.
 0,"jan Juwan, (via sona pona)",frog,,,akesi,amphibian,**akesi** li moku e pipi. | The **frog** eats bugs.
 9,"lipamanka, kala Asi",from,prep,1,tan,"originating in/at, because of","mi kama **tan** ma Mewika. | I came **from** America.
@@ -1174,7 +1175,7 @@ poka telo la mi pilin a e wawa **telo**. | At the shorelines, you really feel th
 4,kala Asi,near,,,(lon) poka,close in space or time,"tenpo ale la o awen **lon poka**. | Stay **near** at all times.
 pini li kama **poka**. | The end is **near**."
 2,"lipamanka, ijo vivi",neck,n,,"noka lawa, palisa lawa, anpa lawa",the part of the body connecting the head and torso,**noka lawa** mi li sama palisa a. | my **neck** is very long. 
-4,ijo vivi,need,v,1,wile,to require,"moku la mi **wile** e supa tu wan, e ilo pakala, e ilo jo. | For this dish, we'll **need** three tables, knives, and forks."
+4,ijo vivi,need,v,1,wile,to require,"moku la mi **wile** e supa tu wan, e ilo pakala, e ilo jo. | For this dish, we'll **need** three plates, knives, and forks."
 4,ijo vivi,need,v,2,o,to be obliged to,mi wile e mani la mi **o** pali. | I **need** to work because I need money.
 4,ijo vivi,need,v,3,wile,to intensely want,mi **wile a** esun e ko sin pi jan Miku a! | I **need** to buy the new Miku plush!
 3,,never,,,,,
@@ -1182,7 +1183,7 @@ pini li kama **poka**. | The end is **near**."
 kulupu li **sin** e nasin ona. | The company pursued a **new** policy."
 0,,news,,,sona sin,a piece of information about recent events or knowledge (at the time of creation),mi sona e ni tan pana pi **sona sin**. | I learned about it from the **news** broadcast.
 7,lipamanka,next,,,(nanpa) kama,the following event or object in a sequence,o lukin e kili **nanpa kama.** ona li loje li suli. | Take a look at the **next** apple. It's red and big.
-4,ijo vivi,nice,,,"suwi, pona","friendly, pleasant","jan li **pona** tawa mi li **ike** tawa jan ante. | She's **nice** to me and mean to others.
+4,ijo vivi,nice,,,"suwi, pona","friendly, pleasant","jan li **pona** tawa mi li ike tawa jan ante. | She's **nice** to me and mean to others.
 telo li seli **pona** tawa sijelo. | The bath was **nice** and warm."
 6,kala Asi,night,n,,tenpo pimeja,time when the sun is below horizon,soweli mute li lape lon **tenpo pimeja**. | Many animals sleep at **night**.
 6,kala Asi,night,interj,,"mi weka, o lape pona",short for [good night],
@@ -1398,8 +1399,8 @@ waso ike li pana e **mani** luka luka lon moli. | The bat enemies give ten **poi
 o lukin e sitelen nanpa ni. nanpa ni li **toki e ni:** mi kama jo ala e mani. | Look at these graphs. These data **point to** the fact that we're losing money. "
 3,,police,,,,,
 0,,political,,,,,
-0,jan Lisente,poor,adj,1,"pi (jo) mani ala, li jo e mani ala",in possession of no or small amounts of money,"""o ike ala tawa jan **pi mani ala**. ona li jan! | Don't be rude to the **poor**. They are people!
-tenpo pini la mi **jo e mani ala**. | I used to be **poor**."""
+0,jan Lisente,poor,adj,1,"pi (jo) mani ala, li jo e mani ala",in possession of no or small amounts of money,"o ike ala tawa jan **pi mani ala**. ona li jan! | Don't be rude to the **poor**. They are people!
+tenpo pini la mi **jo e mani ala**. | I used to be **poor**."
 0,jan Lisente,poor,adj,2,jaki,of bad quality,tomo ni li **jaki** a. | What a **poor** house.
 2,,position,,,,,
 2,jan Lisente,possible,adj,,ken,that could realistically happen,sina wile jan suli anu seme? ni li **ken**! | You want to be a star? It's **possible**!
@@ -1805,7 +1806,7 @@ o **toki** e nasin tawa mi. | **Tell** me how it works."
 41,ijo vivi,thank you,,,pona; sina pona; ∅,grateful or polite response to someone doing or giving something,"o pana e ko moku ... **pona**. | Pass the salt ... **thank you**.
 esun moku la **sina pona** a. | **Thank you** for buying me lunch.
 ale la sina suwi tawa jan ale pi kulupu sina! **ni li pona mute tawa mi**. | **Thank you so much** for always being so kind to everyone around you!"
-140,ijo vivi,thanks,,,see [thank you],short for 'thank you',
+140,ijo vivi,thanks,,,pona; see also [thank you],short for 'thank you',sina pali **pona**. | **Thanks** for the help.
 0,ijo vivi,thanks to,,,tan,[because of],wawa!! tomo mi li kama pona sin! ni li ken **tan** pali sina taso. | Amazing!! My house is clean again! And it's all **thanks to** your help.
 677,jan Lisente,that,,1,ni,(proximal determiner or pronoun),"**ni** li pona a! | **That**'s good!
 jan li toki e ijo pi lon ala lon ilo? **ni** li lon ala lon? | You really think someone would do **that**, go on the internet and tell lies?"
