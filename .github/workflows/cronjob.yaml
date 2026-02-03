@@ -22,7 +22,7 @@ jobs:
           cache-dependency-path: 'data/requirements.txt'
           
       - name: 'Install Python dependencies'
-        run: 'pip install -r requirements.txt'
+        run: 'pip install -r data/requirements.txt'
 
       - name: Git configuration
         env:
