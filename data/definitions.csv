@@ -471,12 +471,14 @@ sijelo mi li mu mute a tan pilin musi suli la **telo li kama tan lukin** mi. | I
 0,lipamanka,currant,n,,kili (lili) (mute) ,a small berry,mi pali e ko tan **kili mute lili** li pana e ona tawa pan mi. | I made a preserve from **currants** and spread it on my toast. 
 0,lipamanka,current,adj,,"ni, lon tenpo ni",in the moment,mi toki e soweli **pi tenpo ni.** ona a li moli e jan poka mi! | I'm talking about the **current** dog. HE killed my friend! 
 0,lipamanka,current,n,,telo wawa,a forceful movement of water,"mi lon telo la **telo wawa** li weka e mi tan poka ma. | When I was swimming, a **powerful current** pulled me from shore."
-0,ijo vivi,cut,v,1,tu,to split into parts with a tool,
+0,ijo vivi,cut,v,1,tu,to split into parts with a tool,"mi **tu** e kili la insa ona li pana e kon li jaki e lukin. | When **cutting** onions, their inside releases fumes that irritate the eyes."
 0,ijo vivi,cut,n,2,"pakala, linja (loje)",an continuous injury in the skin,**pakala** li awen lon luka mi tan tenpo ni: mi pakala ike ilo e ona. | There's still a **cut** on my finger from when I slipped with a knife.
 0,ijo vivi,cut,v,3,weka (jo),"on a computer, to remove and take onto the clipboard",o **weka** e toki open o pana e ona lon pini. | **Cut** the first paragraph and paste it at the end.
 0,ijo vivi,cut,v,4,wan e sitelen mute,to edit a video,
-0,,danger,,,,,
-2,,dangerous,,,,,
+0,ijo vivi,danger,,,ken pakala,possible harm,mi alasa lili e **ken pakala** lon nasin mi ni: ona li lon sewi pi lupa suli li linja lili taso pi wawa ala. | We've tried to reduce **danger** on our flimsy rope bridge that leads over a huge cave.
+2,ijo vivi,dangerous,,,"ike; {ike, pakala, moli, ...} li ken",able to cause harm,"sina tawa lon taso la **sina ken moli**! o jo e ni. | **It's dangerous** to go alone! Take this.
+mi pana e ko suno ni tawa insa pi selo mi la **ona li ken ala ken pakala e insa mi**? | Are glow powder cuttings **dangerous**?
+ilo waso pi tenpo sin la **ken pakala** li lili. | Modern planes aren't very **dangerous**."
 0,ijo vivi,dark,,,pimeja,with little light,"ale ni li **pimeja**; o open e suno. | It's **dark** here, turn on the light."
 0,ijo vivi,dark,,,(ijo) ike li lon,"with ""dark themes"", uncomfortable topics",mi lukin e sitelen ni: moli en pakala olin en **ijo ike** sama li lon. | I watched a movie with **dark** themes like death and emotional severance.
 0,ijo vivi,data,,,"sona, nanpa",statistical information,"**nanpa** la jan li kama ken moku e kon pi kasi nasa la jan sin mute ala li kama ni. | The **data** shows no significant increase in marijuana consumption after it was legalized.
@@ -731,6 +733,11 @@ mi en **jan** tu **ante** li wile lukin e sitelen la mi esun e lipu ken tawa ni.
 jan mute li moli **tan** ike sijelo. | Many people die **from** disease."
 9,kala Asi,from,prep,2,"en, ∅",indicating differentiation,"pilin mi **en** pilin sina li sama ala. | You opinions differ **from** mine.
 ona li sona **e** ike **e** pona. | He knows right **from** wrong."
+5,ijo vivi,fuck,interj,1a,"a, ike",(expression of frustration),"tomo kama la tenpo kama li weka suli. — **ike a**. | The next bus only comes in 30 minutes. — **Fuck**.
+**aaaaa**, noka mi a!! | **Fuck**, my toe!!"
+5,ijo vivi,fuck,interj,1b,"a, mute",(used for emphasis),"a! moku ni li wawa **a**! | Oh! **Fuck**, this stuff tastes good!"
+5,ijo vivi,fuck,v,1,"... li ike, ... o anpa",(used to belittle someone),"kulupu la mi o len nasa ala. taso **ona li ike**. mi kute ala. | The guys at work keep saying I dress weird. But **fuck them**, I'll do whatever I want."
+5,ijo vivi,fuck,v,2,unpa,to have sex,mi en ona li **unpa** lon ale pi tenpo pimeja. | Me and them were **fucking** all night.
 3,ijo vivi,full,adj,1,"ale ken li lon, ijo (sin) ala li ken",having little to no empty space,poki pan la **pan ale ken li lon**. | **All the bread that will fit is in** the breadbox.
 3,ijo vivi,full,adj,2,"wile ala moku (sin), ken ala moku",no longer needing to eat,"""sina wile ala wile moku e suwi?"" ni ala; mi **ken ala moku**. | ""Do you want to eat dessert?"" No, I'm **full**."
 0,lipamanka,fungus,n,,soko,any organism of the Fungi kingdom,"mi pana e telo kili tawa tomo pimeja li weka tan tomo lon tenpo suli, la mi pilin e ni: mi kama sin, la ma **soko** wawa li lon. | If I leave fruit juice in a dark room and leave the room for a long period of time, I think I'll return to a beautiful **fungus** garden. "
@@ -1294,6 +1301,7 @@ o lape lon **tenpo lon** a! | Go to bed right **now**!"
 0,ijo vivi,numeral,,,nanpa,number,
 0,ijo vivi,object,,,ijo,thing,
 0,ijo vivi,object,,,poki pi nimi E,(grammar) thing that a verb acts on,
+0,pakala Mapuju,occiput,n,,monsi lawa,the backside of the head or skull,ona li ken lukin tan **monsi** pi **lawa** ona! | She's got eyes on her **occiput**!
 2,jan Lisente,ocean,n,,"telo suli, telo",a large expanse of deep water,**telo suli** li wawa tawa mi. | I find **the ocean** incredible.
 8,lipamanka,of,,,"∅, pi","relating to, made out of, etc","ni li jan **pi** alasa kala. | This is the guy **of** hunting fish.
 o awen lon tomo kiwen. | Stay in the house **of** stone."
@@ -1991,7 +1999,8 @@ mi **weka** e kiwen tawa telo suli. | I **threw** the pebble into the lake."
 82,jan Saki,to,,,tawa,in the opinion of,"lukin la, pona **tawa** mi. | Looks okay **to** me."
 14,kala Asi,today,,,"(tenpo) suno ni, (tenpo) suno lon",the current day,**suno ni** la mi lukin e akesi suli a. | **Today** I spotted a large lizard!
 14,kala Asi,today,,,tenpo lon,nowadays,**tenpo lon** la jan lili ale li lukin e ilo ona. | Kids **today** are always on their phones.
-4,ijo vivi,together,,,"lon kulupu; ale, sama; ∅",as a group,mi kama **kulupu** lon tomo mi li pali e pan. | We met up at my house and made pizza **together**.
+4,ijo vivi,together,,,"lon kulupu, lon poka; ∅",as a group; [with] someone else,"mi kama **kulupu** lon tomo mi li pali e pan. | We met up at my house and made pizza **together**.
+mi en ona li musi lipu. | Me and her played card games **together**."
 5,lipamanka,toilet,n,,poki jaki,a receptacle for stool removal,jan ale o pona telo e selo pi **poki jaki** ona lon mun ale. | Everyone should clean their **toilet** once a month. 
 9,kala Asi,tomorrow,,,(tenpo) suno kama,the coming day,"ike la mi ken ala toki uta. taso **suno kama** la ken. | Unfortunately I cannot join the voice chat, but maybe **tomorrow**."
 4,"ijo vivi, lipamanka",tongue,,,"uta, palisa uta",organ in the mouth,**palisa pi uta mi** li suli nanpa wan lon nasin ni pi tomo jan. | I have the longest **tongue** on this residential block. 
