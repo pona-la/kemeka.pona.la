@@ -19,7 +19,8 @@ lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about*
 0,ijo vivi,act,v,2,∅,to behave a certain way,tenpo poka la ona li kama utala e jan ale. | They've been **acting** hostile around everybody lately.
 0,ijo vivi,act,v,3,kama jan pi lon ala,to perform in a theater,"tenpo mute la mi nasin ni: musi la mi **kama jan pi lon ala**, li pana e nasin ona e pilin ona e ale ona tawa lukin. mi open ni lon tenpo weka. | I do the following fairly often: For fun, I **become a fictional person**, and I demonstrate their ways, their feelings, everything about them to onlookers. I've been doing it for a long time."
 0,ijo vivi,act out,,,lon e,to perform a plan,"mi wile tawa ma weka. wile mi ni li open lon tenpo weka a. tenpo poka la mi kama ken **lon** e ona. | I've wanted to go to a faraway place for so long. Recently, I finally got to **act** it **out**."
-0,,action,,,,,
+0,,action,,,,something done,
+0,,action,,,,"being in a situation, especially military combat",
 1,ijo vivi,actually,,,lon (la),in reality,toki ona li sama ala pali ona **lon**. | What he said is different from what he **actually** did.
 1,ijo vivi,actually,,,"mute, a",(used for emphasis),moku ni li pona mute **a**! | This food is **actually** so good!
 0,jan Tene,add,v,,pana e,"to put a thing with another, increasing the amount, or improving the whole",o **pana e** telo mama tawa pan. | **Add** milk to the cereal.
@@ -550,7 +551,8 @@ o lukin e **soweli tomo** mi. | Look at my **dog**."
 2,pakala Mapuju,down,prep,,tawa anpa (pi),toward the bottom of (something),mi lukin **tawa anpa** lipu. | I read down the page.
 2,"ijo vivi, kala Asi",down,adj,1,pilin anpa,"sad, dejected","suno li wawa ala la, **pilin** li kama **anpa**. | I feel **down** because there is not enough sunlight."
 2,ijo vivi,down,adj,2,"anpa, moli","defeated, dead",jan ale li **moli**. sina kama wawa. | All enemies are **down**. Level Up!
-2,pakala Mapuju,down,adj,3,"pini, ken (lon)","(of a server, application, or website) not running, not working, not functioning","pakala la lipu ilo mi li **pini** lon tenpo suno tu kama. | Unfortunately, our website will be **down** for the next two days.
+2,ijo vivi,down,adj,3,wile,"interested in, willing",sina sewi la ni li suli ala. sina **wile ala wile** moli? | I don't care if you're an angel. Are you **down** to die?
+2,pakala Mapuju,down,adj,4,"pini, ken (lon)","(of a server, application, or website) not running, not working, not functioning","pakala la lipu ilo mi li **pini** lon tenpo suno tu kama. | Unfortunately, our website will be **down** for the next two days.
 tenpo suno ni la mi **ken** ala **lon** ilo Siko. | Discord is **down** today."
 0,ijo vivi,draw,v,1,sitelen,to depict visually,mi sona **sitelen** e waso. | I know how to **draw** birds.
 0,ijo vivi,draw,v,2,(kama) jo,to randomly [take] from a pile,o **kama jo** e lipu tu. | **Draw** two cards.
