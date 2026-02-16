@@ -31,12 +31,16 @@ ul > li:nth-child(odd) {
 #search {
     text-align: center;
     display: block;
-    margin: auto;
+    margin: 0 auto 0.25rem auto;
     padding: 10px;
     font-size: 120%;
     background-color: #0000;
     color: unset;
     border: 2px solid var(--grey-1);
+}
+#search:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
 }
 h2 {
     color: var(--accent);
