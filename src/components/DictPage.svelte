@@ -11,7 +11,7 @@
   function replace_md_links(text: string) {
     const link_replacer = (_: any, text: string) =>
       `[${text}](?q=${text.replaceAll(" ", "_")})`;
-    return text.replaceAll(/\[(.+?)\](?!\()/g, link_replacer);
+    return text.replaceAll(/\[([^\]]+)\](?!\()/g, link_replacer);
   }
 
   function md_inline(text: string) {
