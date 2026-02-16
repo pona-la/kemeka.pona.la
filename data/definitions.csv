@@ -978,11 +978,13 @@ kiwen li ken toki **la** seme? | What **if** rocks could talk?"
 ala li **lon insa** pi tomo ni. | There's nothing **in** that house."
 76,jan Saki,in,prep,1b,"lon, la",within (a period of time),musi pona sina li kama **lon** tenpo wan kama. | That show you like will come on **in** the next hour.
 76,ijo vivi,in,prep,2,"lon, la, ∅",pertaining to,mi lukin e lipu la mi ante e nasin mi. | Reading the book has caused a change **in** my lifestyle.
+0,ilo Tani,in real life,,,(lon) sijelo,"[physical], in person, as opposed to online","mi toki tawa ona **lon sijelo** lon ala ilo. | I spoke to her **in real life**, not online."
+0,ilo Tani,in real life,,,lon (la),"[actually], as opposed to in fiction or a hypothetical","**lon la** ijo mute li weka e ken ni: jan li pali pi wile ona. | **In real life**, many things prevent people from doing the things they want to."
 0,ijo vivi,inappropriate,adj,1,"ken ala, ike","not allowed or accepted, taboo",toki **ike** sina li ken ala lon kulupu ni. | Your comments are **inappropriate** for this community.
 0,ijo vivi,inappropriate,adj,1a,"ike, jaki","offensive, vulgar",o toki **jaki** ala! | Quit that **inappropriate** language!
 0,ijo vivi,inappropriate,adj,1b,unpa,sexual,sina wile ala wile pilin **unpa** e sijelo mi? | Do you want to touch me **inappropriately**?
-,,inch,,,,"American and British unit of measure, approximately 25 millimetres",
-,,inch,,,,to move gradually,
+3,,inch,,,,"American and British unit of measure, approximately 25 millimetres",
+3,,inch,,,,to move gradually,
 0,ijo vivi,include,v,1a,"jo, lon; kin; namako",to have as a part,"ike la ko pan ike li **lon** pan mi la sina ken ala moku. | Sadly, my bread **includes** gluten, so you can't eat it.
 sina esun e tawa la sina ken tawa ma Disneyworld li pana ala e mani namako! | The trip **includes** a free visit to Disneyworld!"
 0,ijo vivi,include,v,1b,∅ (kin),to also do an action to,"mi **toki** ala e pipi lon lipu mi. toki la ona li kama suli ike. | I didn't **include** information about bugs in my book. If I did, it'd be way too long.
@@ -1215,7 +1217,7 @@ jan poka mi li pali e pan **mute** la ona li pana e pan tawa mi. | My neighbor m
 mi pali e moku la mi **nanpa** ala e **mute** moku. | I don't **measure** when I cook."
 0,ijo vivi,measure,n,,nasin,plan,kulupu lawa li alasa weka e ike sijelo kepeken **nasin** ona sin. | The government is taking new **measures** to eliminate the disease.
 8,ijo vivi,meat,n,1,"{soweli, waso, ...}; moku; (moku) sijelo",flesh of an animal used as food,**soweli** li lon moku ale pi esun ni. mi o moku lon ona ala. | All this restaurant's dishes have **meat** in them. Let's eat somewhere else.
-8,jan Lisente,meat,n,2,"(sijelo) [soweli, waso, ...]","flesh of an animal, especially when dead",The flies are attracted to the rotting **meat**. | pipi li kama tan **sijelo soweli** jaki.
+8,jan Lisente,meat,n,2,"(sijelo) {soweli, waso, ...}","flesh of an animal, especially when dead",The flies are attracted to the rotting **meat**. | pipi li kama tan **sijelo soweli** jaki.
 8,jan Lisente,meat,n,3,(ijo) suli,core,This is the **meat** of the discussion. | ni li **ijo suli** toki.
 0,jan Tene,medical,adj,,misikeke,pertaining to medicine,ona li kama sona lon tomo pi sona **misikeke**. | She's going to **medical** school.
 2,ijo vivi,meet,,,kama; kama kulupu,to gather in one place,mi ale o **kama** lon tomo mi lon open pimeja. | Let's all **meet** at my house at sundown.
