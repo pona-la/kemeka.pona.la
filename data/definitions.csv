@@ -9,9 +9,9 @@ mi **toki lon** kili **lon** nasin moku ona. | I'm presenting **about** fruits a
 mi pilin ike tawa kama ni. | I'm mad **about** this occurrence."
 29,kala Asi,about,adv,,"anu poka, sama (lili)","or so, nearly, approximately","mi kute e ona tan sike nanpa 2006 **anu poka**. | I've been listening to it since **about** 2006.
 lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about** as cold as it was last winter."
-0,mun Kekan San,above,,,"sewi, lon sewi",to be located overhead of something else,pan li lon supa **sewi** tawa supa namako. | The cereal is on the shelf **above** the spice shelf.
-0,mun Kekan San,above,,,∅,to be intently uninvolved in something due to social status or similar,mi ante tawa ona li pali sama ala. | We are not like them. We are **above** their behavior.
-0,,accept,,,,,
+0,mun Kekan San,above,,,"sewi, lon sewi",located overhead of something else,pan li lon supa **sewi** tawa supa namako. | The cereal is on the shelf **above** the spice shelf.
+0,mun Kekan San,above,,,∅,intently uninvolved in something due to social status or similar,mi ante tawa ona li pali sama ala. | We are not like them. We are **above** their behavior.
+0,,accept,,,,,"wile mi la ona li kama kin. taso ona li wile ala la mi **kute e wile** ona li tawa lon taso. | I wanted her to come with, but she didn't want to, so I **accepted** it and just went on my own."
 0,,according,,,,,
 0,,according to,,,(toki) {ijo} la,based on what is said by,"**toki** pi jan sona **la** mi ale li moli lon suno kama. | **According to** scientists, we'll all die tomorrow."
 0,,accuracy,,,,,
@@ -126,7 +126,7 @@ nasin suli li pini la mi tawa **lon** ona **ala**. | The highway was closed, so 
 2,ijo vivi,around,prep,4,lon,"at, near",sina **lon** ma ni lon tenpo mute anu seme? | Are you **around** this place often?
 2,ijo vivi,around,adj,1,lon,present,kulupu pona li **lon** la tenpo moku li kama pona. | Dinnertime is better when friends are **around**.
 0,ijo vivi,arrogant,,,wile toki suli e ...,"boastful, tending to self-praise",tenpo mute la mi toki ala e pali mi. kulupu o pilin ala e ni: **mi alasa toki suli e mi lon ale**. | I don't talk about my achievements much because I don't want to come off as **arrogant**.
-0,jan Saki,art,,,"(nasin, sona) sitelen","visual art; the practice of drawing, painting, sculpting, etc.",
+0,"jan Saki, ijo vivi",art,,,"(nasin, sona) sitelen","visual art; the practice of drawing, painting, sculpting, etc.",seme la ken mi pi pali **sitelen** li ken kama wawa? | How do I get better at (making) **art**?
 0,jan Saki,art,,,sitelen,"an instance of visual art; a drawing, painting, sculpture, etc.",mi pilin pona wawa tan **sitelen** sina! | I love your **art**!
 0,jan Saki,art,,,tan pilin,something subjective or inexact (as opposed to [science]),"mama mi la, nasin pi seli moku li **tan pilin**. | For my nonna, cooking is an **art**."
 2,pakala Mapuju,as,,1,la,in comparison to,tomo mi **la** ona li suli ala. | It's not **as** large **as** my house.
@@ -205,12 +205,18 @@ o luka ala e soweli suli. | Don't touch the bear."
 3,jan Lakuse,bear,v,1,"jo, lon, awen","to carry or withstand, literally","jan Santa li jo e ilo musi mute. | Santa bears many presents.
 jan lili tu wan li lon insa pi jan mama. | The expecting parent is bearing triplets."
 3,jan Lakuse,bear,v,2,"jo, lon, awen","to carry or withstand, figuratively",noka ona li awen e linja kipisi pi tenpo ike pakala ona. | Her legs bear the scars of her trauma.
-0,,beast,,,,,
-0,,beat,,,,,
+0,"ijo vivi, (via Sonja Lang)",beast,,,"soweli (suli), soweli (ike)",[animal] characterized as large and terrifying,**soweli** wawa li alasa utala e kulupu. | The strong **beast** tried to attack the group.
+0,ijo vivi,beat,v,1,"luka (pakala), utala (luka)","to hit, strike with the intent to hurt",pilin wawa a li lon mi la mi kama **utala luka** e sinpin pi tomo mi. | I was so filled with anger that I started **beating** the walls of my room.
+0,ijo vivi,beat,v,2,"anpa, wawa tawa ...",to defeat,"mi alasa mute la mi ken ala a **anpa** e jan mi lon musi Mesi. | Try as I might, I just can't **beat** my sister in Smash.
+mi pini e musi la nanpa mute mute luka tu li kama. sina ken ala ken **wawa tawa** ni a? | I finished the game with 47 points. I bet you can't **beat** THAT!"
+0,ijo vivi,beat,v,2a,moli,to defeat by killing,mi ken ala **moli** e jan Ejaman! | I can't **beat** Airman!
+0,ijo vivi,beat,n,1,"kalama; (nasin) tenpo, (pilin) tenpo",rhythmic [music]; the part of music that provides a sense of rhythm,"aa. **kalama** ni li musi a. | Ahh, this **beat** is funky!
+**pilin tenpo** li wawa lon kalama ni la ona li pona a tawa ni: mi tawa e sijelo mi lon nasin tenpo ona. | That song has a very strong **beat**, which makes it great to dance to."
 3,"kala Asi, waso Keli",beautiful,adj,,"pona, suwi, (tawa) lukin","pleasant, specifically visually",nasin linja la mi kama lon ma kasi pi **pona lukin**. | The bending road led us through a **beautiful** valley of flowers.
 3,"kala Asi, waso Keli",beautiful,adj,,"pona, suwi (tawa) {kute, pilin, ...}",pleasant (including in nonvisual ways),mi kute e kalama pi jan Petopen. ona li **pona** a **tawa kute** mi. | I listened to Beethoven's most **beautiful** sonata.
 3,jan Lakuse,beautiful,adj,,wawa,aesthetically exciting,"a, ilo sina li pali kepeken tenpo lili. pali **wawa** a!  | Wow, your code is so efficient. **Beautiful** work!"
-0,,beauty,,,,,
+0,ijo vivi,beauty,,,"(pilin) suwi, ijo suwi","pleasantness, prettiness","poka ale la mi lukin e **ijo suwi**. | I saw **beauty** all around me.
+jan li lukin e toki **suwi** wawa la tenpo la ona li sona ala toki e suwi ona tawa jan ante. | It can be difficult to explain the **beauty** of a poem to others."
 8,kala Asi,because,conj,1,"tan ni, ni la",for the reason that,"mi o esun e ilo telo sin **tan ni**: ike la ilo mi li pana lili e telo lon tenpo ale. | I need to purchase a new kitchen tap, **because** mine leaks constantly."
 0,kala Asi,because of,prep,1,tan,"on account of, for the purpose of",mi tawa tomo mama mi **tan** moku. | I'm visiting my parents **because of** food.
 0,ijo vivi,become,,,kama,"turn into, change",mi wile ala **kama** sama mama mi. | I don't want to **become** like my father.
