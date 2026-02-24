@@ -11,11 +11,34 @@
 
   const { posts }: Props = $props();
 
+  const pageSize = 10;
+
   let search = $state("");
+  let visibleCount = $state(pageSize);
+  let searchInput: HTMLInputElement;
+  let loadTrigger: HTMLDivElement;
 
   onMount(() => {
     let params = new URLSearchParams(window.location.search);
     search = params.get("q")?.replaceAll("_", " ") ?? "";
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          visibleCount = Math.min(visibleCount + pageSize, filteredPosts.length);
+        }
+      },
+      { rootMargin: "200px" }
+    );
+    observer.observe(loadTrigger);
+
+    return () => observer.disconnect();
+  });
+
+  $effect(() => {
+    // track search
+    search;
+    visibleCount = pageSize;
   });
 
   $effect(() => {
@@ -47,9 +70,26 @@
   const filteredPosts = $derived(
     !search.trim() ? posts : fuse.search(search).map((result) => result.item),
   );
+  const visiblePosts = $derived(filteredPosts.slice(0, visibleCount));
 </script>
 
-<input type="search" id="search" bind:value={search} />
+<svelte:document
+  onkeydown={(e) => {
+    if (e.key === "/" && document.activeElement !== searchInput) {
+      e.preventDefault();
+      searchInput.focus();
+    }
+    if (e.key === "Escape" && document.activeElement === searchInput) {
+      if (search) {
+        search = "";
+      } else {
+        searchInput.blur();
+      }
+    }
+  }}
+/>
+
+<input bind:this={searchInput} type="search" id="search" bind:value={search} />
 
 {#if filteredPosts.length}
   <center>
@@ -72,10 +112,25 @@
   >
 {/if}
 
-<!-- {#if filteredPosts} -->
-{#each filteredPosts as post (post.id)}
+{#each visiblePosts as post (post.id)}
   <section>
     <h2>{post.data.title}</h2>
     <DictPage {post} />
   </section>
 {/each}
+
+<div bind:this={loadTrigger}></div>
+
+{#if visibleCount < filteredPosts.length}
+  <div class="loading-more">
+    Loading more... ({visibleCount}/{filteredPosts.length})
+  </div>
+{/if}
+
+<style>
+  .loading-more {
+    text-align: center;
+    color: var(--grey);
+    margin: 1rem 0;
+  }
+</style>
