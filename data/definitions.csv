@@ -2176,15 +2176,18 @@ o esun e **ko pona** sin lon tenpo poka. | Purchase more **soap** soon.  "
 43,jan Tene,someone,,,jan,an unspecified person,jan li lanpan ala lanpan e ni? | Did **someone** take this?
 397,lipamanka,something,,,ijo,an unspecified object,mi wile e **ijo** ni: ona li pona tawa soweli mi. | I want **something** that'll please my pet.
 22,lipamanka,sometimes,,,tenpo,at multiple periods or instances with low to moderate frequency ,"**tenpo** la mi moku e kala. taso ona li pona pi suli ala tawa mi. | **Sometimes** I eat fish, but it's not amazing."
-0,,somewhere,,,,,
+0,ijo vivi,somewhere,,,ma,in an unspecified place,"ona li alasa e tomo sin **lon ma** pona. | She's looking for a new home **somewhere** nice.
+mi pana len e kiwen suwi lon tomo ni. | I've hidden candy **somewhere** in this room."
 5,ijo vivi,son,,,jan ni: mi mama e ona,a masculine [child],**mi mama e** jan Kiso. | Quiztoc is my **son**.
 3,kala Asi,song,,,kalama (uta),[music] performed with voice,"mi alasa **kalama** kepeken **uta** mi la mi pana e kalama ike. | When I try to **sing**, it comes out wrong."
 10,kala Asi,soon,,,"tenpo poka, tenpo kama poka",in the near future,ale o kama pona lon **tenpo kama poka**. | May everything get better **soon**.
 10,kala Asi,soon,,,tenpo kama lili,in a little bit,"**tenpo lili kama** la, jan olin sina li lon poka sina! | **Soon** your partner will be with you!"
 10,,soon,,,tenpo poka,in the proximal time,mi weka tan sina li tawa ma Tawi lon **tenpo poka**. |  I will leave you and go to Thailand **soon**. 
 0,,sorrow,,,,,
-42,ijo vivi,sorry,interj,1,"a, ike (mi), pakala",brief acknowledgement of one's mistake or misbehavior,
-42,ijo vivi,sorry,interj,2,"o toki sin (e ni), mi kute ala (e ni)",requesting that someone repeats themself,
+42,ijo vivi,sorry,interj,1,"a, ike (mi), pakala",brief acknowledgement of one's mistake or misbehavior,"kalama suli mi **o ike ala tawa sina**. | **Sorry** for making so much noise.
+**a**, mi wile ala luka e sina. | **Sorry**, didn't mean to bump into you.
+tenpo mute la mi kute ala e wile sina li suli taso e wile mi. **mi kama sona e pakala pi nasin mi**. sina o awen ken olin e mi. | So often have I ignored your needs and just done what I want. **I'm really sorry about that**. I hope you can forgive me."
+42,ijo vivi,sorry,interj,2,"o toki sin (e ni), mi kute ala (e ni)",requesting that someone repeats themself,ilo la mi pali e mumumumumu. — **o toki sin**? — ilo la mi pali e kiwen musi sin. | I 3D printed a new [unintelligible]. — **Sorry**? — I 3D printed a new fidget toy.
 42,jan Saki,sorry,adj,1,"pilin ike tan pakala, sona e pakala","remorseful, understanding one's own mistakes or misbehaviour","sina utala e mi la, sina kama **sona** wawa **e pakala** sina. | If you try to cross me, you'll be real **sorry**."
 42,jan Saki,sorry,adj,2,,"empathetic, understanding of someone else's suffering",
 0,ijo vivi,sort,v,,nasin,to put into an order,o **nasin** e lipu kepeken nimi ona. | Please **sort** the books by name.
@@ -2220,7 +2223,7 @@ mi toki e **nimi wawa** li kama e soweli mi. | I uttered the magic **spell** and
 mi pana e **wawa lete** tawa anpa la kiwen lete suli li kama. | I cast an **ice spell** to the ground and a big chunk of ice appeared."
 0,ijo vivi,spend,,,"pana e mani, kepeken mani","obtain using money, [pay]",mi esun e len sin **kepeken mani** mute. | I **spent** a lot of money on new clothes.
 0,ijo vivi,spend,,,∅,to do (something) using one's time,tenpo pi pali ala la mi tawa ma Panse. | We **spent** our holiday in France.
-0,,spill,,,,,
+0,ijo vivi,spill,,,pana; telo li kama lon ...,"pour liquid from a container, often on accident","a ike! **telo** mi **li kama lon** len mi! | Ah, shit! I **spilled** my drink onto my shirt!"
 3,,spin,,,,,
 0,,spirit,,,,,
 0,,spread,,,,,
