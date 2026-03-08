@@ -15,7 +15,7 @@ lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about*
 0,,according,,,,,
 0,,according to,,,(toki) {ijo} la,based on what is said by,"**toki** pi jan sona **la** mi ale li moli lon suno kama. | **According to** scientists, we'll all die tomorrow."
 0,,accuracy,,,,,
-0,,ache,,,,,
+0,jan Niwe,ache,,,"(pilin) ike, (pilin) pakala",a feeling of pain,**pilin ike** li lon lawa mi. | I have a head**ache**.
 0,ilo Tani,across,,,tawa poka ante,through to the other side of,"nasin telo ni li suli a la ni li wile e wawa mute: jan li **tawa poka ante** ona. | Because this river is so wide, it's very difficult for people to go **across**."
 0,ijo vivi,act,n,1,∅,something done,mi awen sona e ni lon ale: mama mi li pana e olin tawa mi. | I will always remember the **acts** of love from my parents.
 0,ijo vivi,act,n,2,"jan, kulupu",a performer of music; a musician or band,**jan** mute li pana e kalama ona lon tenpo ni! | Many **acts** will perform at this event!
@@ -262,7 +262,8 @@ o **sike** pona! **sike sin** sina o pona a. | Happy **birthday**! Have a great 
 0,,blame,,,,,
 0,lipamanka,bland,adj,,ala tawa uta,lacking flavor,moku ni li **ala tawa uta** mi. | This food is **bland** to me. 
 0,,bleed,,,,,
-3,,bless,,,,,
+3,jan Niwe,bless,v,,"pana e pona (tawa), pana e pona sewi (tawa)","to confer favor upon something, usually relating to a god or religion","mama mi li **pana e pona** tawa nasin mi. | My parents **blessed** my journey.
+jan pi toki sewi li **pana e pona sewi** tawa pan. | The priest **blessed** the bread."
 0,,blind,,,,,
 3,"ilo Tani, pakala Mapuju",blood,n,,"telo, telo loje, telo sijelo","a liquid flowing in the bodies of many types of animals, typically red","mi tu e kili kepeken ilo la ilo li pakala a e selo mi, la **telo loje** li kama. | I was cutting a fruit with a knife when the knife cut through my skin and made **blood** come out.
 ilo utala pi jan Ka li pakala e selo pi luka ona la **telo sijelo** li kama lon ale pi supa anpa tomo. | When Kai's sword sliced through the skin on her hand, **blood** covered the floor of the room."
@@ -1388,7 +1389,7 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 2,pakala Mapuju,look at,,,kama sona,"to consider, to learn about",mi **kama sona** e esun pi tomo sin. | I'm **looking at** buying a new house.
 0,pakala Mapuju,look for,,,alasa,"to search for, to attempt to find",jan Malijo li **alasa** e len suwi. | Mario is **looking for** cute clothes.
 0,,loose,,,,,
-2,pakala Mapuju,lose,,1a,(li) weka,to no longer be in possession or company of,"len mi li **weka**. | I **lost** my hat.
+2,pakala Mapuju,lose,,1,(li) weka,to no longer be in possession or company of,"len mi li **weka**. | I **lost** my hat.
 **weka** pi mama sina la mi wile e pilin pona lon sina. | My condolences on the **loss** of your mother."
 2,pakala Mapuju,lose,,2,anpa,to fail or not succeed in a game,kulupu mi li **anpa** tawa kulupu ante. | My team **lost** to the other team.
 5,,lost,,,,,
