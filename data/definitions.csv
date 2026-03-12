@@ -33,7 +33,7 @@ lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about*
 mi alasa pali e lipu suwi li pakala e pali lon sike. o pana e **nasin** tawa mi. | I'm trying to make origami, but I keep failing. Could you give me **advice**?"
 0,jan Niwe,affect,v,,ante,to alter or make a difference to something,ni li **ante** e kulupu kala. | This will **affect** the trout population.
 0,jan Niwe,affect,v,,"ike e pilin, ante e pilin",to move someone emotionally,moli pi mama ona li **ike** suli **e pilin** pi jan Maki. | The death of his parents greatly **affected** Makil.
-3,,afraid,,,,,
+3,jan Tene,afraid,adj,,(pilin) monsuta,fearing or worrying about something,jan lili mute li **pilin monsuta** tan pimeja. | A lot of kids are **afraid** of the dark.
 13,"lipamanka, pakala Mapuju",after,,,"ni li pini la, pini ni la",occurring at a point of time following a reference,"mi moku e kili. **ni li pini, la** sijelo li pilin pona. | I ate some fruit. **After,** I was full.
 mi tawa kulupu sona nanpa. **pini ni la** mi ken weka tan ma sona ni. | I'm going to math class. **After** that I'll be able to leave this school."
 13,,after,,,kama (la),coming next,
@@ -795,8 +795,9 @@ tenpo kama **weka** la ken la sijelo jan li pakala ala e pilin ona. | In the **f
 0,,fate,,,,,
 0,ijo vivi,father,,,mama,parent,**mama** mi li weka tawa esun. | My **father**'s out to shop.
 0,,fault,,,,,
-4,,favorite,,,,,
-5,ijo vivi,fear,,,"pilin monsuta, pilin pi ike ken",emotion caused by perceived danger,"mi tawa lon pimeja la mi **pilin e ike ken** ni: kon li kama li moli e mi. | Walking in the dark, I'm always **afraid** that a ghost will come out and murder me."
+4,jan Tene,favorite,adj,,(pona) nanpa wan,most-liked or preferred,"mi la jelo li kule pi **pona nanpa wan**. | My **favourite** colour is yellow.
+moku seme li **pona nanpa wan** tawa sina? | What’s your **favourite** food? "
+5,ijo vivi,fear,,,"pilin monsuta, pilin pi ike ken",emotion caused by perceived danger,"mi tawa lon pimeja la mi **pilin e ike ken** ni: kon li kama li moli e mi. | Walking in the dark, I always **fear** that a ghost will come out and murder me."
 3,,feed,,,,,
 3,ilo Tani,feel,,1a,pilin,to experience an emotion,"suno la mi **pilin** pona, suno ante la pona ala. | Some days I feel well. On other days, not so much."
 3,ilo Tani,feel,,1b,"pilin la, pilin e ni",to believe,**pilin** mi **la** pali ni li ken ike a. | I **feel** that this is not a good idea.
