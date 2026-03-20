@@ -1644,7 +1644,8 @@ lipu **ala** li ken toki e ijo ale. | **No** book can cover every topic."
 2,"jan Tene, lipamanka",nothing,n,,(ijo) ala,the absence of objects,"mi sona e ijo wan taso: mi sona e **ala**. | I know one thing, and that is that I know **nothing**.
 mi pali e lipu ike. toki sina li pona ala e pilin. **ala** li ken pona e pilin. | I wrote a bad book. Your words don't make me feel better. **Nothing** can make me feel better. "
 2,jan Tene,nothing,,,suli ala,something unimportant,a! ona li **suli ala**... | Oh! It's **nothing**.
-0,ijo vivi,notice,,,(kama) lukin,to become aware of,"a, mi **lukin** e len sin sina! esun seme li pana e ona? | Hey, I **noticed** your new shirt. Where did you buy it?"
+0,(via waso Kasen),notice,v,,(kama) lukin,to become aware of,"aaa tenpo ale la, mi lukin e lipu mi la, mi **lukin** e pakala toki!! | Ughhh, every time I look at my thesis, I **notice** typos!!"
+0,ijo vivi,notice,n,,lipu,written announcement,"**lipu** li lon sinpin tomo li toki e ni: jan ona li wile esun e ona. | A **notice** hung on the house's door, informing readers that it was up for sale."
 18,kala Asi,now,,,"tenpo ni, tenpo lon","the current time, the present time","mi ken ala toki tawa sina lon **tenpo ni**. | I cannot talk with you right **now**.
 o lape lon **tenpo lon** a! | Go to bed right **now**!"
 0,lipamanka,nuke,n,,ilo pakala suli,a large explosive of mass distruction,jan o pali ala e **ilo pakala suli** tan ni: jan pi pali ike ala li moli tan ona. | People shouldn't design **nukes** because innocents will die from them. 
@@ -1653,7 +1654,7 @@ o lape lon **tenpo lon** a! | Go to bed right **now**!"
 4,lipamanka,number,n,2,"nanpa, mute","amount, quantity",kulupu musi la sina sona ala sona e **mute** pi jan kama? | Do you know the **number** of guests who will be in attendance at the party?
 4,lipamanka,number,v,1,pana e nanpa,assign an order,o **pana e nanpa** tawa supa ale. | Please **number** the chairs. 
 4,lipamanka,number,v,2,"toki e mute, alasa e mute",count,sina wile **alasa e nanpa** mun la ni li wile e wawa mute. | It's very difficult to **number** the stars.
-0,ijo vivi,numeral,,,nanpa,number,
+0,ijo vivi,numeral,,,nanpa,number,sina sona ala sona e nasin **nanpa** pi kulupu Loma? | Do you know Roman **numerals**?
 0,jan Saki,object,,,ijo,thing,**ijo** pi mute lili li jo e wawa nasa ni. | Very few **objects** possess this power.
 0,jan Saki,object,,,∅,(grammar) thing that a verb acts on,
 0,jan Saki,object,,,pilin ante,"deny, express dissent","tenpo pi kama wan la, mama weka li toki wawa e **pilin ante** ona. | A distant relative **objected** at the wedding."
