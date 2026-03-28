@@ -24,4 +24,4 @@ A: As we aim more for quality of descriptions rather than quantity, our contribu
 A: As of now, lipu Kemeka editing is coordinated on the [Linku Discord server](https://discord.gg/A3ZPqnHHsy), and data is entered through a Google sheet. Please talk to kala Asi to get edit permissions on the spreadsheet.
 
 **Q: Is lipu Kemeka going to stay at this domain?**  
-A: For now, yes. In the future, remains to be seen. Its purpose overlaps somewhat with [lipu Linku](linku.la) and [sona pona](https://sona.pona.la). Those projects could benefit from dynamically offering data from lipu Kemeka. We do not yet know how learners and teachers want to use this resource, so the UX will be shaped by what we learn about our users in the future.
+A: For now, yes. In the future, remains to be seen. Its purpose overlaps somewhat with [lipu Linku](https://linku.la) and [sona pona](https://sona.pona.la). Those projects could benefit from dynamically offering data from lipu Kemeka. We do not yet know how learners and teachers want to use this resource, so the UX will be shaped by what we learn about our users in the future.
