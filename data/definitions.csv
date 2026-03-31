@@ -493,7 +493,8 @@ mi pali e **nasin** ni: tenpo pimeja li kama la sinpin ilo li kama jelo. | I'm w
 2,ijo vivi,cold,,,lete,with little thermal energy,"kon li **lete** a lon weka tomo! o len seli e sina. | It's very **cold** outside! Make sure to wear warm clothes.
 **lete** li ken pakala e ilo. | The **cold** can cause machines to malfunction."
 0,kala Asi,color,,,kule,spectral composition of visible light,jan lukin li sona pona ala e ni: **kule** seme li lon selo pi ilo tawa. | The witness couldn't say for a fact what **color** the car was.
-4,ilo Tani,come,,,kama,to arrive,tenpo seme la sina **kama**? | When did you **come**?
+4,ilo Tani,come,v,1,kama,to arrive,tenpo seme la sina **kama**? | When did you **come**?
+,jan Eta,come,v,2,tawa,to move (towards the point of perspective),soweli o! o **tawa** mi! | Doggo! **Come** to me!
 0,jan Saki,come out,,,"toki e, (kama) len ala",to disclose identity or orientation,ona li **toki e** tonsi ona tawa mi. | They **came out** to me as trans.
 0,,comfort,,,,,
 0,lipamanka,committee,,,kulupu,a group appointed to make a decision in tandem,"**kulupu** li toki e ni: pali sina li pini la sina o tawa lupa seli. | The **committee** has spoken: when you finish working, you shall go to the fire pit. "
@@ -1448,7 +1449,8 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 2,pakala Mapuju,lose,,1,(li) weka,to no longer be in possession or company of,"len mi li **weka**. | I **lost** my hat.
 **weka** pi mama sina la mi wile e pilin pona lon sina. | My condolences on the **loss** of your mother."
 2,pakala Mapuju,lose,,2,anpa,to fail or not succeed in a game,kulupu mi li **anpa** tawa kulupu ante. | My team **lost** to the other team.
-5,,lost,,,,,
+5,jan Eta,lost,adj,1,weka; sona ala e ma [ijo],the state of being accidentally missing,"suno ni la, mi alasa e ilo weka mi. taso, awen la, mi **sona ala e ma ona**. | Today I looked for my **lost** phone, but I still don't know where it is."
+,jan Eta,lost,adj,2,,the state of not knowing where you are or not knowing where to go,"ma kasi la, mi kama **weka tan nasin** li sona ala e nasin pona. | In the forest, I left the trail and became **lost** when I didn't know which way to go."
 0,ijo vivi,lot,,,mute,a large amount of,"jan Umeko li ike tan ijo **mute**. | There's a **lot** of reasons to hate Umeko.
 ona li moku e pan **mute**. | She ate a **lot** of pancakes."
 0,ijo vivi,lot,,,ma (supa),"a large, open [field]",mi awen e ilo mi lon **ma** ilo. | We parked our car in the parking **lot**.
