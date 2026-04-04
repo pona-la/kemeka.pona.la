@@ -2043,7 +2043,8 @@ ona li **alasa e sona** toki. | She does **research** into linguistics."
 2,jan Lisente,room,,,tomo,"a subdivision of a building, made of a floor and at least three walls, if only partial ones",a **tomo** sina li suwi a! | Your **room** is so cozy!
 0,"ijo vivi, jan Saki",rope,,,linja (suli),sturdy kind of string,"telo, anu **linja**, anu sike la, sina wile ala wile jo? | Lamp oil, **rope**, bombs; you want it?"
 3,,rose,,,,,
-0,,round,,,,,
+0,mun Nanseki,round,adj,1,sike,in the approximate shape of a circle or sphere,"sitelen O li **sike**. kalama ona la o **sike** e uta sina. | The letter O is **round**. To pronounce its sound, make your mouth **round**."
+,,round,v,1,,(of a number) remove precision to make it easier to perform math on it,
 0,ijo vivi,rub,,,"tawa (lon supa), weka e jaki","move something across a surface with high tension, especially in order to clean it",
 0,ijo vivi,rub,,,unpa,masturbate,
 0,ilo Tani,rule,v,,lawa,to have authority over,"tenpo suli la jan pi ma Loma li **lawa** e ma Inli. | For a long time, the people of Rome **ruled** England."
@@ -2499,7 +2500,8 @@ pona la kulupu mi li alasa ala lawa e **nasin pi insa lawa**. | It's a good thin
 8,ijo vivi,thought,n,2,alasa (lawa),"the act of considering, deliberating",mi **alasa** lon **lawa** mi li kama sona e nasin pona. | I gave it some **thought** and came up with a decent plan.
 0,kala Asi,thousand,,,mute,a large amount,ma Mewika la jan pi **mute** ike li moli tan ilo utala. | **Thousands** of people in the US die every month from firearms.
 0,kala Asi,thousand,,,luka luka ale,precisely ten [hundred],"tenpo sike pini **LLA** anu poka la jan Wilijan li kama lon ma Inli li anpa e ona li kama lawa e ona. | A **thousand** years ago or so, William invaded and conquered England."
-4,kala Asi,three,,,tu wan,one more than two,soweli **tu wan** la o jo e ona wan taso. | You may choose one of **three** pokemon.
+4,kala Asi,three,,,tu wan,one more than two,"soweli **tu wan** la o jo e ona wan taso. | You may choose one of **three** pokemon.
+sona sike la nanpa ni li suli a. ona li lon poka pi **tu wan**. | This number is very important for math on circles and is approx. **three**."
 0,ijo vivi,throat,,,"(anpa) uta, (insa) uta","gullet, oesophagus","ike, kili li pini e **uta** mi!! o pona e mi!! | Crap, something's stuck in my **throat**!! Help me!!"
 5,ijo vivi,through,,,"lon (insa), tawa insa, li kama li weka",by entering something and leaving it again,"o pana e palisa **tawa insa** len. | Pass the needle **through** the cloth.
 mi tawa ma Minken la mi **kama lon** ma Panpu **li weka sin**. | Traveling to Munich takes you **through** Frankfurt **and back out**."
@@ -2666,7 +2668,7 @@ pali mi li pana e mani tu tawa mi lon **sike pali** ale. | My work pays me two g
 11,lipamanka,welcome,interj,,"(o) kama pona, kama sina o pona, kama a",interjection said upon someone's arrival,**kama pona** lon ma ike pi jan ike! | **Welcome** to the evil place with the evil people!
 0,"jan Lisente, ijo vivi",well,adv,1,"∅, a, n",(a discourse marker used at the beginning of a phrase),"a, sina a o kama utala ni, o pana e sona pona sina tawa lukin! | **Well**, why don't you give it a try, since you seem to know it so well!
 kalama ni li jaki anu seme? — **n**, mi la ona li pona. | That song sucked, right? — **Well**, I thought it was good."
-0,jan Lisente,well,n,2,lupa (telo),a pit that links into an underground water reserve,jan pi wasa nasa li awen pakala lon anpa pi **lupa telo**. | There is a wizard stuck at the bottom of the **well**.
+0,jan Lisente,well,n,2,lupa (telo),a pit that links into an underground water reserve,jan pi wawa nasa li awen pakala lon anpa pi **lupa telo**. | There is a wizard stuck at the bottom of the **well**.
 0,jan Lakuse,well,adv,3,pona,done in a good way,sina toki **pona** e wile pi kulupu esun mi. | You presented our company's case **well.** 
 0,jan Lakuse,west,n,,poka pi weka suno,cardinal direction of sunset,"sina kama lon poka tomo la o lukin e suno. o tawa **poka pi weka suno.** | When you reach the hut, go **west.** "
 0,ijo vivi,wet,adj,1,telo li lon ... (selo),having liquid on its surface,**telo li lon** linja soweli. | The cat is **wet**.
