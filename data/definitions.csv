@@ -156,9 +156,9 @@ mi **ken** ala awen **kute** e ijo lon tenpo suli. | I have a short **attention*
 0,ijo vivi,attention,interj,,o kute,call for someone's attention,**o kute a**! | sona ni li suli. | **Attention** please! This is really important.
 0,kala Asi,authority,,,"ken, lawa",ability or permission to be in command,"sitelen li suno la wawa li tawa lon insa sina. sina **ken**. | As the symbol glows, power courses through you. **Authority**.
 open la ona li toki utala e ni: ona a li **lawa** e kulupu. | He asserted his **authority** over the team right from the start."
-6,"mute ante, ijo vivi",autism,,,"ante lawa, lawa (li) ante, nasa lawa, lawa (li) nasa; nasin lawa (ante) la ...","a type of neurodivergency characterized by divergence in social situations, among many other symptoms","**lawa** mi li **ante**. | I am **autistic**.
+6,"mute ante, ijo vivi",autism,n,1,"ante lawa, lawa (li) ante, nasa lawa, lawa (li) nasa; nasin lawa (ante) la ...","a type of neurodivergency characterized by divergence in social situations, among many other symptoms","**lawa** mi li **ante**. | I am **autistic**.
 **nasin lawa** mi la moku mute li pana e pilin jaki tawa uta mi. | I'm **autistic**, so many foods will have an unpleasant texture to me."
-4,jan Lisente,awake,,,(li) lape ala,"not sleeping or in a coma, conscious","sewi li pimeja. taso ona **li lape ala**. | It is nighttime, but she is **awake**."
+4,jan Lisente,awake,adj,1,(li) lape ala,"not sleeping or in a coma, conscious","sewi li pimeja. taso ona **li lape ala**. | It is nighttime, but she is **awake**."
 0,kala Asi,away,,,(tawa) weka,to a remote destination,"o **weka**! weka ala la mi toki utala sin e sina. | Now go **away**, or I shall taunt you a second time."
 0,kala Asi,away,,,lon weka,at a remote location,"ilo tawa li wile e telo wawa la tomo telo li lon **weka** ike. | If we need to refuel, the nearest gas station is miles **away**."
 0,jan Lisente,baby,,,(jan) lili,"a very young animal, before being a child",**jan lili** li musi kepeken leko. | The **baby** is playing with blocks.
@@ -928,7 +928,7 @@ o **tawa** nena ma! | Run **for** the hills!"
 39,kala Asi,for,prep,2,tan,[because of],ona li pona tawa mi **tan** ijo mute. | I like her **for** lots of reasons.
 39,ijo vivi,for,prep,3,lon; la,(expressing amounts of time),"suno tu a **la** mi awen lon ni. | We've been waiting here **for** two days.
 mi len e mi lon **lon** tenpo suli. | I've been masking my true self **for** a long time."
-39,kala Asi,for,,,pona,in favour,"jan luka la **pona**. jan tu la pona ala. | Ten people voted **for**, two against."
+39,kala Asi,for,,,pona,in favour,"jan luka luka la **pona**. jan tu la pona ala. | Ten people voted **for**, two against."
 5,ilo Tani,for example,,,sama ni,providing an instance demonstrating a pattern or rule,"sina wile toki e ken la, nimi 'sama' li ken pona, **sama ni**: ""nimi 'sama' li ken pona, sama ni."" | If you want to discuss possibilities, the word 'sama' may be effective; **for example**, ""nimi 'sama' li ken pona, sama ni."""
 0,ijo vivi,force,n,,wawa,"power, energy","ona li lon tomo lili lon telo suli la ona li ken a pilin e **wawa** ona. | Being in a small boat on a great ocean, she really felt the **force** of the water.
 **wawa** li wawa ale, ala li ken pini e ona. sinpin li wawa ale li ken pini e ale. ona li kama wan la seme li kama? | Who would win, an unstoppable **force** or an immovable object?"
