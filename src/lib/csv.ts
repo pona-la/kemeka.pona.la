@@ -1,5 +1,6 @@
 import { parse } from "csv-parse/sync";
 import fs from "fs";
+import { marked } from "marked";
 
 interface CsvDefs {
   "times asked": string;
@@ -39,6 +40,20 @@ const fromCsv = <T>(path: string) =>
     trim: true,
   });
 
+function replaceMdLinks(text: string) {
+  const link_replacer = (_: any, text: string) =>
+    `[${text}](/?q=${text.replaceAll(" ", "_")})`;
+  return text.replaceAll(/\[([^\]]+)\](?!\()/g, link_replacer);
+}
+
+function mdInline(text: string) {
+  return marked.parseInline(replaceMdLinks(text), { async: false });
+}
+
+function mdBlock(text: string) {
+  return marked.parse(replaceMdLinks(text), { async: false });
+}
+
 export function processCsv() {
   // Parse CSV
   let notes = fromCsv<CsvNotes>("data/notes.csv");
@@ -52,28 +67,29 @@ export function processCsv() {
   for (const row of defs) {
     // Initialise dictionary entry
     if (!entries.has(row.keyword)) {
+      const note = notes.find((note) => note.keyword == row.keyword)?.notes;
       entries.set(row.keyword, {
         keyword: row.keyword,
         definitions: [],
-        notes: notes.find((note) => note.keyword == row.keyword)?.notes,
+        notes: note ? mdBlock(note) : undefined,
       });
     }
 
     // Add row to dictionary entry
     entries.get(row.keyword)!.definitions.push({
-      tok: row.tok,
-      eng: row.eng,
+      tok: mdInline(row.tok),
+      eng: mdInline(row.eng),
       pos: row.pos,
       enumeration: row.enumeration,
-      examples: !row.examples
-        ? undefined
-        : row.examples
+      examples: row.examples
+        ? row.examples
             .trim()
             .split("\n")
-            .map((def) => ({
-              tok: def.split(" | ")[0],
-              eng: def.split(" | ")[1],
-            })),
+            .map((def) => {
+              const [tok, eng] = def.split(" | ").map(mdInline);
+              return { tok, eng };
+            })
+        : undefined,
     });
   }
 
