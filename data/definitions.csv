@@ -91,15 +91,17 @@ len ni li pona **lon** seli **lon** lete kin. | This outfit is suitable both for
 2,ijo vivi,angel,,,jan suwi,"someone who is cute, innocent or kind","lape mi li pini la sina pana e moku tawa mi la sina **suwi mute** a. | Thanks for making me breakfast in bed, you little **angel**."
 2,mun Kekan San,anger,,,"(pilin) utala, (wile) utala",to cause to be hostile,mi weka e moku soweli la ona li wile **utala** e mi... | I **angered** the dog by taking their food...
 7,poni Kita,angry,adj,,pilin utala,in a hostile mood,"poki telo olin pi jan poka mi li weka la ona li **pilin utala** lili. | My friend's favorite mug is gone, so they're a bit **angry**."
-2,jan Tene,animal,n,,soweli,a member of the Animalia kingdom,kijetesantakalu li **soweli**. | Raccoons are **animals**.
+2,jan Tene,animal,n,,soweli,"fuzzy, four-legged creature that runs","kijetesantakalu li **soweli**. | Raccoons are **animals**.
+a! **soweli** ni li musi wawa! ona la mi kama wile lukin ala e nasin tawa! | Dude, those **animals** are so funny! They make me wanna merge without looking!"
+2,ijo vivi,animal,n,,kala,aquatic animal,**kala** nasa mute li lon anpa pi telo suli. | There are many strange **animals** on the bottom of the seafloor.
 4,jan Tene,another,,,sin,a further or additional one,o pana e poki telo **sin** tawa mi. | Please grab me **another** cup of tea. 
 4,jan Tene,another,,,ante,different,musi ni li ike a. mi o lukin e **ante**. | This movie was very boring. We should've watched **another**.
 3,ijo vivi,answer,,,"sona (kama), toki",information given upon a [question],mi wile e sona tan mama: jan sin li kama tan seme? **sona kama** ona li nasa tawa mi. | I asked my parents: Where to babies come from? Their **answer** surprised me.
-3,"ijo vivi, jan Tene",answer,,,toki (e sona),to give requested information,ona li **toki** e nanpa wawa tawa alasa sona mi. | He **answered** my question with amazing statistics.
-3,"ijo vivi, jan Tene",answer,,,"ken e toki, kute e wile toki",to accept an incoming telephone [call],ala li **ken e toki**. ken la ona li lape. | No one is **answering**. They might be asleep.
+3,jan Tene,answer,,,toki (e sona),to give requested information,ona li **toki** e nanpa wawa tawa alasa sona mi. | He **answered** my question with amazing statistics.
+3,jan Tene,answer,,,"ken e toki, kute e wile toki",to accept an incoming telephone [call],ala li **ken e toki**. ken la ona li lape. | No one is **answering**. They might be asleep.
 14,lipamanka,any,,,ale,"of a set, all possibilities are acceptable","jan **ale** li ken ni. | **Any** person can do that.
 nasin **ale** li ken. | **Any** approach will do."
-14,ijo vivi,any,,,∅,(indefinite article used in questions or negative statements),"sina wile ala wile e sona namako? | Do you have **any** further questions?
+14,ijo vivi,any,,,∅,(determiner used in questions or negative statements),"sina wile ala wile e sona namako? | Do you have **any** further questions?
 mi sona ala a e tan. | I don't have **any** clue why."
 0,ijo vivi,anymore,,,kama ... ala; ... li weka,no longer,"mi **kama** olin **ala** e sina. mi weka. | I don't love you **anymore**. Goodbye.
 ijo li ante lon insa mi. pilin monsuta mi **li weka**. | Something must have changed in me. I don't fear it **anymore**."
