@@ -458,7 +458,10 @@ ijo ale la **moku waso** li pona nanpa wan tawa mi. | **Chicken** is my favorite
 **jan lili** mi li jaki e sinpin ona lon tenpo sin. | My **child** got their face dirty again."
 0,jan Saki,chill,,,lete,to make colder,o **lete** e telo suwi. | Can you **chill** a few sodas?
 0,ijo vivi,chill,,,"(kama) utala ala, (kama) lape","to relax, to cool off, to [calm down]","o **utala ala**! mi ale li wile toki taso a e pilin mi. | Could you **chill**, please? We're trying to have a discussion."
-2,,choice,,,,,
+2,ijo vivi,choice,,,see [choose],opportunity to choose,poki mute a li lon esun! mi **sona** ala **e** ona **pona** wan! | There's so many bags at the store! I'm struggling to make a **choice**.
+2,,choice,,,,a thing that can be chosen; an [option],
+2,ijo vivi,choice,,,nasin; ∅,the thing chosen; result of a choice,"ken la **nasin** len mi li ike lon kulupu ni. | Perhaps my outfit is a poor **choice** among this crowd.
+jan li sona wawa e nasin pali la ona li pona tawa pali ni. | She was very experienced, which made her a good **choice** for the task."
 0,ijo vivi,choke,,,"ijo li pini e uta; moku ike, moku pakala",to be unable to breathe due to an object blocking the windpipe,"telo **li pini ike e uta** ona. | He **choked** on his drink.
 ona li kute e toki nasa li kama **moku pakala** tan nasa ona. | He heard the news and **choked** on his food from the surprise."
 14,"lipamanka, kala Asi, waso Keli",choose,,,"toki e wile, pana e wile, sona e pona, sona e wile, wile, etc.","to designate one option of many as the desired option, to know which option is best","mi **toki e wile** mi a! | I've **made my choice**!
@@ -618,8 +621,8 @@ jan lili mute li lukin ala e poka ona la ona li **sijelo e** jan ante mute. | So
 0,lipamanka,crash,v,5,kama lape,to immediately fall asleep or otherwise enter a relative state of rest after either a lot of activity or recreational drug use (of a person) ,"olin o, mi olin mute sewi wawa pi pona epiku nanpa wan e sina, taso mi pali lon tenpo suli li wile **kama lape.** | My love. I love you so much above all with passion epicly the best. But I worked so much today and I really just need to **crash.**"
 0,lipamanka,crash,v,6,kama lili nanpa,to trend low in number (of a stock or the stock market),"jan ike li kama nasin e esun la mani ale li **kama lili nanpa.** | If a bad person is put in charge of the market, all the stocks will **crash.**"
 0,lipamanka,crash course,n,,"nasin pi kama sona, nasin pi tenpo lili","a quick method of learning about a topic, usually surface level ",mi o pana e sona toki tawa sina kepeken **nasin pi tenpo lili.** | I should teach you linguistics using a **crash course.**
-0,,crawl,,,,,
-0,,cream,,,,,
+0,,crawl,,,,to move slowly with the body close to the ground,pipi li **tawa** lon ma li alasa e kasi moku. | The bug crawled across the ground in search of a leaf to eat.
+0,ijo vivi,cream,,,ko,"thick, oily substance",suno wawa la o awen e selo sina kepeken **ko**. | Use **cream** to protect your skin under strong sunlight.
 3,kala Asi,create,v,1,pali,to make with effort,jan sona li **pali** e len sin. | Skilled workers **create** new kinds of garments.
 3,kala Asi,create,v,2,lon,to (usually effortlessly) will into existence,"sewi li **lon** e jan. | The divine **created** a person.
 ma tomo mi la jan lawa li **lon** e ma luka wan. | The mayor of my town **created** six wards."
