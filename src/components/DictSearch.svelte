@@ -89,7 +89,7 @@
   }}
 />
 
-<input bind:this={searchInput} type="search" id="search" bind:value={search} />
+<input autofocus bind:this={searchInput} type="search" id="search" bind:value={search} />
 
 {#if filteredPosts.length}
   <center>
