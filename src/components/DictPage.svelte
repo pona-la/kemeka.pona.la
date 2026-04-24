@@ -1,25 +1,11 @@
 <script lang="ts">
   import type { CollectionEntry } from "astro:content";
-  import { marked } from "marked";
 
   interface Props {
     post: CollectionEntry<"dictionary">;
   }
 
   const { post }: Props = $props();
-
-  function replace_md_links(text: string) {
-    const link_replacer = (_: any, text: string) =>
-      `[${text}](/?q=${text.replaceAll(" ", "_")})`;
-    return text.replaceAll(/\[([^\]]+)\](?!\()/g, link_replacer);
-  }
-
-  function md_inline(text: string) {
-    return marked.parseInline(replace_md_links(text), { async: false });
-  }
-  function md_block(text: string) {
-    return marked.parse(replace_md_links(text), { async: false });
-  }
 </script>
 
 {#if post.data.definitions}
@@ -32,16 +18,16 @@
         <!-- {#if definition.pos}
           <span class="pos">{definition.pos}</span>
         {/if} -->
-        {@html md_inline(definition.eng)} —
-        <b>{@html md_inline(definition.tok)}</b>
+        {@html definition.eng} —
+        <b>{@html definition.tok}</b>
 
         {#if definition.examples}
           <ul>
             {#each definition.examples as example}
               <li>
-                <i>{@html md_inline(example.tok)}</i>
+                <i>{@html example.tok}</i>
                 <br />
-                {@html md_inline(example.eng)}
+                {@html example.eng}
               </li>
             {/each}
           </ul>
@@ -52,7 +38,7 @@
 {/if}
 
 {#if post.data.notes}
-  {@html md_block(post.data.notes)}
+  {@html post.data.notes}
 {/if}
 
 <!-- Implementation of a design by mute ante, more or less -->
