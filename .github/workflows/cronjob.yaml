@@ -38,7 +38,7 @@ jobs:
         run: python data/fetch-csv.py
 
       - name: Verify site build
-        uses: withastro/action@v3
+        uses: withastro/action@v6
 
       - name: Push data
         run: |
