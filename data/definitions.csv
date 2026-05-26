@@ -2554,8 +2554,10 @@ moku **ni** li pona tawa mi: ona li wile e pali lili. | I like dishes **that** a
 41,ijo vivi,them,,,ona,(object form of [they]),"o sitelen lon lipu o pana e **ona**. | Write on the papers and hand **them** out.
 mi toki e sona sin tawa **ona**. | I told **them** about the news."
 0,ijo vivi,themselves,,,ona; see also [self],(reflexive form of [they]),jan ale o awen e **ona**. | Everyone should look out for **themselves**.
-14,ilo Tani,then,,,"kama, (tenpo) ni",at that time,sewi li **kama** pana ala e telo. | The rain **then** stopped.
-14,ijo vivi,then,,,(ni) la; ∅,"[after] that, following that",o pana e telo tawa poki. o pana e pan tawa insa telo. | Put water in a pot. **Then** put noodles in the water.
+14,"ilo Tani, ijo vivi",then,,,"kama, (tenpo) ni",at that time,"sewi li **kama** pana ala e telo. | The rain **then** stopped.
+mi pi **tenpo ni** li wile ala kulupu la mi toki: ""mi kama ala."" | I wasn't feeling up for hanging out **then**, so I said: ""I'm not coming."""
+14,ijo vivi,then,,,"ni li pini la, ni la; ∅","[after] that, following that",o pana e telo tawa poki. o pana e pan tawa insa telo. | Put water in a pot. **Then** put noodles in the water.
+14,ijo vivi,then,,,(ni) la; ∅,"in that case, consequently, so","sijelo mi li wawa ala. — **la** o kama wawa e ona! | My body is so weak. — You should exercise, **then**!"
 15,ijo vivi,there,,,(ma) ni,that place,lipu sina li lon supa **ni**. | Your book is on the table **there**.
 15,ijo vivi,there,,,ona,a previously named place,mi wile tawa sin tawa ma Sikako. ijo suwi mute li lon **ona**... | I wanna visit Chicago again. There's many lovely folks **there**...
 15,ijo vivi,there,,,(ijo) li lon,"""there is"", something exists",ale la nasin mute **li lon**. | **There are** many approaches to everything.
@@ -2605,8 +2607,8 @@ mi **weka** e kiwen tawa telo suli. | I **threw** the pebble into the lake."
 9,kala Asi,time,,,tenpo,"duration, period, moment","pali ni li wile e **tenpo** suli. | This job takes a long **time** to do.
 **tenpo** seme la sina ken kama? | At what **time** can you come?"
 0,ijo vivi,tiny,,,lili,very small,"ijo ale pi ma ale li kama poka mute lon ma pi **lili mute a**. | We have infinity smushed into this **tiny**, **tiny** space."
-5,mun Kekan San,tired,,,∅,iterated so many times as to become boring,mi kute e musi sama lon tenpo pi mute ike. | I've heard this **tired** joke too many times.
 5,mun Kekan San,tired,,,"wawa ala, wile lape",with low energy due to lack of sleep,"mi pana e supa tawa tomo mi lon ale suno la mi **wile lape**. | I've been moving furniture into my home all day, so I'm **tired**."
+5,mun Kekan San,tired,,,∅,iterated so many times as to become boring,mi kute e musi sama lon tenpo pi mute ike. | I've heard this **tired** joke too many times.
 82,ilo Tani,to,,,tawa,"towards, in the direction of","ona li lukin **tawa** tomo la ona li kama lukin e kasi suli. | When he looked **towards** the house, he saw a huge tree."
 82,ilo Tani,to,,,tawa,"with the destination of, to arrive at",mi wile ala **tawa** esun a! | I don't want to go **to** the store!
 82,ilo Tani,to,,,la ... (ken),"in order to, for the purpose of",mi pana e mani mute **la** mi **ken** tawa insa. | I paid a lot of money **to** go inside.
@@ -2617,8 +2619,9 @@ mi **weka** e kiwen tawa telo suli. | I **threw** the pebble into the lake."
 mi en ona li musi lipu. | Me and her played card games **together**."
 5,lipamanka,toilet,n,,poki jaki,a receptacle for stool removal,jan ale o pona telo e selo pi **poki jaki** ona lon mun ale. | Everyone should clean their **toilet** once a month. 
 9,kala Asi,tomorrow,,,(tenpo) suno kama,the coming day,"ike la mi ken ala toki uta. taso **suno kama** la ken. | Unfortunately I cannot join the voice chat, but maybe **tomorrow**."
-4,"ijo vivi, lipamanka",tongue,,,"uta, palisa uta",organ in the mouth,**palisa pi uta mi** li suli nanpa wan lon nasin ni pi tomo jan. | I have the longest **tongue** on this residential block. 
-0,,tonight,,,,,
+4,lipamanka,tongue,,,"uta, palisa uta",organ in the mouth,**palisa pi uta mi** li suli nanpa wan lon nasin ni pi tomo jan. | I have the longest **tongue** on this residential block. 
+0,ijo vivi,tonight,,,"tenpo (pimeja) ni, tenpo (pimeja) kama",the current or upcoming [night],"mi wile kama e musi kulupu lon **pimeja kama**. | I want to host a game night **tonight**.
+**tenpo pimeja** la sina wile ala wile moku lon tomo moku kulupu? | Do you wanna eat out **tonight**?"
 8,kala Asi,too,,,kin,"likewise, [also]","mi kama lukin e lipu pona. sina **kin** o lukin. | I've found this cool book, you should check it out **too**."
 8,kala Asi,too,,,(mute) ike,to an excessive degree,"sina suli **ike** la sina ken ala tawa insa pi tomo ni. | You cannot enter this vehicle if you are **too** tall.
 mi ken ala moku e telo ni. ona li suwi pi **mute ike**. | I can't drink this tea, it's **too** sweet."
