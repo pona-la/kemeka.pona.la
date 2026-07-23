@@ -16,6 +16,7 @@ lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about*
 0,ijo vivi,accept,,,"kute, sona, pona; ike ala, utala ala",to take something as true without rejecting it,"wile mi la ona li kama kin. taso ona li wile ala la mi **kute e wile** ona li tawa lon taso. | I wanted her to come with, but she didn't want to, so I **accepted** it and just went on my own.
 ona li awen ken ala **sona** e ni: mani ale ona li weka. | He still can't **accept** that he lost all of his money.
 pona la mi mije la ni li **ike ala** tawa mama mi. | Luckily, my grandparents **accept** me as a guy."
+0,jan Tekinowi,accidentally,,,"tan pakala, tan ala wile",by mistake,"**pakala la**, telo mi li kama lon len mi. | I **accidentally** spilled my milk."
 0,,according,,,,,
 0,,according to,,,(toki) {ijo} la,based on what is said by,"**toki** pi jan sona **la** mi ale li moli lon suno kama. | **According to** scientists, we'll all die tomorrow."
 0,ijo vivi,accuracy,,,mute pakala,frequency of mistakes,**tenpo** mute ala la ilo li pana e sona **pakala**. | The detector has a high **accuracy**.
@@ -64,8 +65,8 @@ kulupu waso li open e tawa **kon** ona. | The flock of birds took to the **air**
 mi **ale** li pilin pona tan sitelen musi. | We **all** enjoyed the movie."
 0,mun Kekan San,allergy,n,,∅,"immune sensitivity to a given stimulus, often foods or pollen, potentially dangerous","mi ken ala moku e kili kiwen. ona li pini e uta mi la mi ken ala esun e kon. | I have an **allergy** to peanuts. They close up my throat, so I wouldn't be able to breathe."
 3,jan Tene,allow,,,ken,to give permission or make possible,mama li **ken e** len noka pi jaki ala taso lon insa tomo. | The parents only **allow** clean shoes inside the house.
-7,"jan Suko, ijo vivi",almost,,,poka,"close to, but not quite","**tenpo poka kama la**, ona tu li awen olin lon sike tu wan. | They've been together for **almost** three years.
-jan mute la tomo li **poka** tawa ni: jan sin ala li ken kama. | The stadium was **almost** full."
+7,"jan Suko, ijo vivi",almost,,,poka (tawa),"close to, but not quite","**tenpo poka kama la**, ona tu li awen olin lon sike tu wan. | They've been together for **almost** three years.
+jan moli li pakala e mi la mi kama **poka tawa** moli! | When the zombie hurt me, I **almost** died!"
 6,"lipamanka, jan Lakuse",alone,,,(wan) taso,without others,"mi **taso** lon ma lete. | I'm **alone** in the cold.
 pini pi tenpo musi la jan Isote li pilin pi **wan taso.** | At the end of the party, Isolde felt all **alone.** "
 0,ijo vivi,along,,,lon (poka),"on the edge of, lengthwise next to",mi tawa **lon** ma jelo pi poka telo. | We're taking a walk **along** the beach.
@@ -1031,7 +1032,8 @@ ona li sona **e** ike **e** pona. | He knows right **from** wrong."
 5,ijo vivi,fuck,v,2,unpa,to have sex,mi en ona li **unpa** lon ale pi tenpo pimeja. | Me and them were **fucking** all night.
 5,jan Saki,fuck,v,3,"pakala, ike, anpa","to exploit, to ruin (also ""fuck over"", ""fuck up"")","lawa suli li weka e mani tan kulupu mi la, ona li **pakala wawa** e mi ale. | The execs are **fucking** us all over by cutting our funding."
 0,jan Saki,fucking,adj,1,"a, mute, wawa (see [very])",(vulgar intensifier),ale li ike **a** lon mi. | It's **fucking** over for me.
-3,ijo vivi,full,adj,1,"ale ken li lon, ijo (sin) ala li ken",having little to no empty space,poki pan la **pan ale ken li lon**. | The breadbox is **full**.
+3,ijo vivi,full,adj,1,"ale ken li lon, ijo (sin) ala li ken",having little to no empty space,"poki pan la **pan ale ken li lon**. | The breadbox is **full**.
+jan mute la tomo li poka tawa ni: **jan sin ala li ken kama**. | The stadium was **almost** full."
 3,ijo vivi,full,adj,2,"wile ala moku (sin), ken ala moku",no longer needing to eat,"""sina wile ala wile moku e suwi?"" ni ala; mi **ken ala moku**. | ""Do you want to eat dessert?"" No, I'm **full**."
 0,lipamanka,fungus,n,,soko,any organism of the Fungi kingdom,"mi pana e telo kili tawa tomo pimeja li weka tan tomo lon tenpo suli, la mi pilin e ni: mi kama sin, la ma **soko** wawa li lon. | If I leave fruit juice in a dark room and leave the room for a long period of time, I think I'll return to a beautiful **fungus** garden. "
 6,kala Asi,funny,adj,1,musi,"amusing, humorous",jan mute a li kama lukin e sitelen **musi** soweli. | The **funny** cat video went viral.
