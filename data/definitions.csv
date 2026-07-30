@@ -2415,6 +2415,7 @@ mi wile a awen, taso sijelo li wile lape. | I really want to **stay**, but I've 
 0,mun Kekan San,steam,,,seli (kon),to cook over boiling water in the air,"o pana ala e kili tawa telo. o seli e telo, o pana e kili tawa sewi telo. | You don't boil the vegetables. You boil the water, then **steam** the vegetables over it."
 0,mun Kekan San,steam,,,kon (seli),"water vapor, or the clouds it forms as it condenses",ma ni pi kasi suli li seli mute li telo mute la **kon kin li telo mute**. | The rainforest is so hot and wet that even the air is thick with **steam**.
 0,mun Kekan San,steam,,,"pilin ike, pilin utala","angered, frustrated","ona li anpa lon musi lon tenpo mute la ona li **pilin utala** a. | He got beat so many times in his game, he was **steaming**."
+0,jan Kupekuki,step,,,"tawa, noka","one movement from one foot, a pace",ona li open **tawa** kepeken **noka**! | She's making her first **steps**!
 3,ijo vivi,step,,,pali,one of many tasks needed to reach a goal,"mi kute e ale pi nasin lipu. taso mi sona ala **pali** nanpa pini. | I've followed the instructions all the way, but I'm struggling with the last **step**."
 3,ijo vivi,step,,,supa,part of a staircase,nasin ni la **supa** wan li pakala. | One of the **steps** is broken in the staircase here.
 0,ijo vivi,stick,n,,palisa,long hard object made of wood,soweli li jo uta e **palisa**. | The dog held a **stick** in its mouth.
@@ -2435,12 +2436,13 @@ mi wile a awen, taso sijelo li wile lape. | I really want to **stay**, but I've 
 2,ijo vivi,store,,,esun,building that sells things,tan seme la sina esun e len lon **esun** moku a!? | Why are you buying clothes at the soup **store**!?
 2,ijo vivi,store,,,"(pana tawa) poki, poki e; jo, lon",to place in a container,"mi o **pana** e kili ni tawa **poki** o moku lon tenpo kama. | Let's **store** these veggies for later.
 poki ni li **jo** e len mi. | This drawer is where I **store** my clothes."
-0,,storm,,,,,
+0,ijo vivi,storm,,,"kon {utala, wawa}","chaotic [weather] involving strong wind or rain, and often flashes of lightning",**kon** li kama **utala wawa** lon tenpo poka. | A **storm** is coming.
 19,kala Asi,story,,,toki,narrative,mi o pana e **toki**. | Let me tell you a **story**.
 9,lipamanka,straight,,1,sama palisa,without curves or other turns,luka ona li **sama palisa.** | Her arms were **straight.**
 9,mun Nanseki,straight,,2,olin e meli/mije,attracted to the gender opposite one's own (cf '[gay]'),mi **mije** li **olin e meli**. | I am a **straight** man.
-2,,stranger,,,,,
+2,ijo vivi,stranger,,,jan pi sona ala,person one does not know,"mi toki tawa **jan pi sona mi ala** lon tomo kulupu tawa. nasa la ona li suwi. | I talked to a **stranger** on the train. Surprisingly, she was quite nice."
 0,,stream,,,,,
+0,ijo vivi,stream,,,"sitelen, pana",livestream,mi **pana** e **sitelen** ni: mi musi Esi nanpa tu. o kama o lukin. | I'm **streaming** myself playing Hades II. Come watch!
 0,ijo vivi,street,,,nasin,"a [road], particularly one that is narrow and in a city","a, mi o tawa poka ante **nasin**. | Oh, we have to cross the **street** here."
 0,,strength,,,,,
 0,,stretch,,,,,
@@ -2580,7 +2582,7 @@ mi moku mute ala la sijelo mi li **lili**. | I'm pretty **thin** because I don't
 0,ijo vivi,thing,,,"nasin, li tawa...",a practice or custom,kule sinpin li **tawa** ala meli taso a! | Make-up isn't just a **thing** for girls!
 0,ijo vivi,thing,,,poki,a unit e.g. a container of something,mi esun e **poki** pi ko moku. | I'm gonna get a **thing** of whipped cream at the store.
 33,"lipamanka, ijo vivi, (via soweli Lapate)",think,v,1,"toki (insa), sitelen insa, pilin",to perceive within one's brain,"jan Teka li **toki insa** e ni: mi **toki** la mi lon. | Descartes **thought,** ""I **think,** therefore I am."" 
-toki sina la mi kama **lukin insa** e sitelen ni: kalama pona wan la ona li lon sinpin. | Your description makes me **think** of one album cover."
+o alasa **lukin insa** ala e soweli loje nasa! | Try not to **think** of a pink elephant!"
 33,kala Asi,think,v,2,pilin,"to be of an opinion, to believe",**pilin mi** la kulupu mi o ante e nasin ona. | **I think** society should change.
 287,ijo vivi,this,,,ni,(proximal determiner or pronoun),"a, sitelen **ni** li suwi a tawa lukin. | Wow, **this** poster looks really nice."
 16,ijo vivi,those,,,ni (weka),(distal determiner or pronoun),kulupu **ni** li ike a. o kute ala e toki ike ona. | **Those** guys are assholes. Don't pay any mind to their bickering.
