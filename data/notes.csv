@@ -98,9 +98,7 @@ jan Saki,better,"Comparisons can be phrased in many ways, including, but not lim
 - ""(ijo A) li pona lili. (ijo A) li pona wawa."" → ""A is a bit good. B is very good.""
 
 See the [sona pona article](https://sona.pona.la/wiki/Comparisons) for more info."
-ijo vivi,get,"Toki Pona doesn't have a passive voice, so sentences must be rephrased in active voice before translating. If the original sentence doesn't indicate who is performing the action (the agent), one may either come up with a contextually appropriate agent (like *kulupu*, 'the gang'), or insert something generic (like *ijo*, 'someone').
-
-Receiving something may be expressed using *pana* with reverse roles. For example, ""I got a gift from you"" may rather be expressed as *sina pana e ijo tawa mi*, ""you gave a gift to me."""
+ijo vivi,get,"Receiving something may be expressed using *pana* with reverse roles. For example, ""I got a gift from you"" may rather be expressed as *sina pana e ijo tawa mi*, ""you gave a gift to me."""
 ijo vivi,dangerous,"When describing something dangerous, it may be most clear to describe the potential harm and/or the situation that enables this harm."
 jan Saki,science,"Science is ultimately a kind of *sona*, but it is best to describe what you're studying within the realm of science."
 ijo vivi,ash,Descriptions including *seli* imply ash that is still hot.
@@ -129,3 +127,9 @@ mun Nanseki,past,"It isn't always necessary to specify whether something is in t
 kulupu Nesutewija,system,"In the case of plural systems, the word *kulupu* is not a universally used headnoun, and could potentially be confused with other meanings without sufficient context."
 jan Saki,inch,"There are no fixed expressions for units of distance in Toki Pona. If you need to specify that a measurement is in inches, describe what sets it apart from other units: for example, it is small, and it is commonly used in the United States."
 jan Saki,foot,"There are no fixed expressions for units of distance in Toki Pona. If you need to specify that a measurement is in feet, describe what sets it apart from other units: for example, it is larger than the inch, and it is commonly used in the United States."
+ijo vivi,or,"The word *anu* on its own merely lists two options as a statement. When such a statement is used together with a question form, it's understood to be a question about the given options."
+ijo vivi,by,"Toki Pona doesn't have a passive voice, so sentences must be rephrased in active voice before translating. If the original sentence doesn't indicate who is performing the action (the agent), one may either come up with a contextually appropriate agent (like *palisa*, 'a branch'), or insert something generic (like *ijo*, 'someone')."
+ijo vivi,folder,"*poki* may be followed by a word describing its contents. A folder of physical documents is likely to be called *poki lipu*, but other words are possible, like *poki kalama* for a digital folder of audio files."
+"ijo vivi, jan Tekinowi",aromantic,"Unlike the English word ""[love]"", *olin* in Toki Pona refer to any kind of love, not just romantic love, meaning it can describe love experienced by most aromantic people.
+
+Like with ""[autistic]"", it may be easier in Toki Pona to describe specific aspects of one's experience, and how they differ from the norm, than to search for a one-to-one translation of the label. The concise description of aromanticism offered here may not reflect the experience of everyone who identifies as aromantic."
