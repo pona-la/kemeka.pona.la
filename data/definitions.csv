@@ -18,7 +18,8 @@ ona li awen ken ala **sona** e ni: mani ale ona li weka. | He still can't **acce
 pona la mi mije la ni li **ike ala** tawa mama mi. | Luckily, my grandparents **accept** me as a guy."
 0,jan Tekinowi,accidentally,,,"tan pakala, tan ala wile",by mistake,"**pakala la**, telo mi li kama lon len mi. | I **accidentally** spilled my milk."
 0,,according,,,,,
-0,,according to,,,(toki) {ijo} la,based on what is said by,"**toki** pi jan sona **la** mi ale li moli lon suno kama. | **According to** scientists, we'll all die tomorrow."
+0,,according to,,,(toki) {ijo} la,based on what is said by,"**toki** pi jan sona **la** mi ale li moli lon suno kama. | **According to** scientists, we'll all die tomorrow.
+jan Sewa li **toki** e ni: ma ale li supa. | **According to** Sarah, the world is flat."
 0,ijo vivi,accuracy,,,mute pakala,frequency of mistakes,**tenpo** mute ala la ilo li pana e sona **pakala**. | The detector has a high **accuracy**.
 0,jan Niwe,ache,,,"(pilin) ike, (pilin) pakala",a feeling of [pain],**pilin ike** li lon lawa mi. | I have a head**ache**.
 0,ilo Tani,across,,,tawa poka ante,through to the other side of,"nasin telo ni li suli a la ni li wile e wawa mute: jan li **tawa poka ante** ona. | Because this river is so wide, it's very difficult for people to go **across**."
@@ -656,7 +657,7 @@ mama mi li moli la mi **ko** e sijelo ona li pana e ko lon poki. | When my mothe
 ,jan Saki,cross,v,4,unpa,to breed (particularly of two markedly different organisms),"jan Keko Mente li **unpa** e kasi li kama sona e ni: seme la, ijo mama li kama ijo pi kasi sin? | Gregor Mendel **crossed** peas to understand how traits from parents are passed on to children."
 4,jan Saki,cross,n,1,∅,"a pair of intersecting lines, or a shape based on such lines","len pi ma Inli la, palisa tu loje li lon li kama wan lon insa. | There is a red **cross** on the English flag."
 4,jan Saki,cross,n,2,palisa moli,"(Christianity) a T-shaped frame, upon which someone would be nailed to kill them slowly and painfully","nasin Kito la, jan Jesu li kama moli lon **palisa** tan ike pi jan ale. | Christians believe that Jesus died on the **cross** for the sins of humanity."
-0,,crowd,,,,,
+0,ilo Tani,crowd,n,,kulupu,a group of people congregated without order,"ale **kulupu** li tawa lon nasin ni la mi o sama. | Everyone in the **crowd** is going in that direction, so we should do the same."
 0,ijo vivi,cruel,,,ike,"mean-spirited, evil",jan lawa **ike** li anpa e jan pali li weka e mani ona. | The **cruel** capitalists oppress the proletariat and take their money.
 2,jan Saki,crush,v,1,pakala,"to destroy, usually by force","jan lawa li toki e ni: ""mi wile **pakala** e sina sama pipi pi anpa noka mi!"" | The king said: ""I will **crush** you like bugs beneath my feet!"""
 2,jan Saki,crush,v,2,lili,to compress with much force,"ilo li seli wawa li **lili wawa** e kiwen pimeja la, kiwen suwi wawa li kama lon. | The machine heats and **crushes** graphite, turning it into diamond."
@@ -691,7 +692,7 @@ ilo waso pi tenpo sin la **ken pakala** li lili. | Modern planes aren't very **d
 0,,dare,,,,,
 0,ijo vivi,dark,,,pimeja,with little light,"ale ni li **pimeja**; o open e suno. | It's **dark** here, turn on the light."
 0,ijo vivi,dark,,,(ijo) ike li lon,"with ""dark themes"", uncomfortable topics",mi lukin e sitelen ni: moli en pakala olin en **ijo ike** sama li lon. | I watched a movie with **dark** themes like death and emotional severance.
-0,,darkness,,,,,
+0,ilo Tani,darkness,n,,pimeja,the state of having little light,mi ken ala lukin e sina tan **pimeja**. | I can't see you because of the **darkness**.
 0,ijo vivi,data,,,"sona, nanpa",statistical information,"**nanpa** la jan li kama ken moku e kon pi kasi nasa la jan sin mute ala li kama ni. | The **data** shows no significant increase in marijuana consumption after it was legalized.
 lipu li toki e sona pi ma ale la tenpo mute la **sona** li lon ala ma pi kulupu Kalali. | Many world-map infographics have no **data** for Greenland."
 0,ijo vivi,date,1a,,nanpa tenpo,number that identifies a [day] in a calendar system,**nanpa** li lon open lipu li toki e ni: jan li pali e ona lon **tenpo** seme? | The **date** of creation is listed at the top of the page.
@@ -1077,7 +1078,7 @@ jan mute li kama kulupu. ona ale li **olin e kule sama**. | Many people gathered
 7,kala Asi,get,v,4,kama,"become, turn, begin","mi **kama** wile moku. | I'm **getting** hungry.
 ona li **kama** pona tawa mi. | I'm **getting** to like him."
 7,kala Asi,get,v,5,sona,"understand, dig","mi **sona** a. | Yeah, I **get** it."
-7,ijo vivi,get,v,6,∅; see also [by],(used in passive constructions in English),"a, kulupu li pakala a e sina lon utala! | Whoa, you really **got** wrecked in the fight!"
+7,ijo vivi,get,v,6,∅; see [by],(used in passive constructions in English),"a, kulupu li pakala a e sina lon utala! | Whoa, you really **got** wrecked in the fight!"
 0,ijo vivi,get well soon,interj,,o kama pona; or many others,(said to a sick person),jaki li lon sijelo mi la mi wawa ala. — ike a! **tenpo jaki sina o lili taso**! | I'm sick and have no energy. — Oh no! **I hope you won't stay sick for long**!
 5,ijo vivi,ghost,n,,"kon moli, jan moli","spirit of a dead person, sometimes considered frightening","pilin mi la jan li **moli** la ona li kama ala **kon**. | I don't believe in **ghosts**.
 sinpin sina li kama walo a! sina lukin e **jan moli** anu seme? | Your face is so pale! Did you see a **ghost**?"
@@ -1089,7 +1090,7 @@ tenpo pana la mi **pana** e kiwen namako kute tawa jan olin mi. | For Christmas 
 7,kala Asi,give,v,2,∅,perform an action,"mi uta suwi e lawa soweli. | I **gave** the kitten a kiss on the forehead.
 sina wile ala wile ken e mi? | Would you like to **give** me permission?"
 0,ijo vivi,glance,v,,lukin lili,to look briefly,"mi **lukin lili** taso e kulupu la mi awen ala sona e sinpin jan. | I only **glanced** at the group, so I don't remember their faces."
-6,lipamanka,glass,,,"kiwen, kiwen ni: sina ken lukin e ijo pi monsi ona",a hard substance that is transparent or transluscent ,lupa pi tomo mi la **kiwen ni** li lon: jan li lukin lon ona la ona li ken lukin e ijo pi monsi ona. | My window has a glass pane in it.
+6,lipamanka,glass,,,"kiwen, kiwen ni: sina ken lukin e ijo pi monsi ona",a hard substance that is transparent or transluscent ,lupa pi tomo mi la **kiwen ni** li lon: jan li lukin lon ona la ona li ken lukin e ijo pi monsi ona. | My window has a **glass pane** in it.
 0,ijo vivi,glide,v,1,tawa lon {supa},move along a surface without being stopped by friction,"ilo tawa li **tawa** pona e tomo lon sewi telo. | The propeller allowed the boat to **glide** smoothly across the water.
 ona li **tawa** musi lon supa lete. | They were **gliding** giddily on the ice surface."
 0,ijo vivi,glide,v,2,tawa (lon kon),move through the air,mi pana e lipu **tawa kon** li lukin e **tawa** ona. | We threw paper planes and watched them **glide**.
@@ -1992,6 +1993,9 @@ tenpo pini la mi **jo e mani ala**. | I used to be **poor**."
 2,mun Kekan San,position,n,,ken,describing capability,kulupu li **ken** ala pana e mani pi mute ni. | The charity is not in **position** to offer that much money.
 2,mun Kekan San,position,n,,lon,location,sina **lon** seme? | What is your **position**?
 2,jan Lisente,possible,adj,,ken,that could realistically happen,sina wile jan suli anu seme? ni li **ken**! | You want to be a star? It's **possible**!
+0,ijo vivi,post,v,1,pana,to upload or share (something) to social media,o **pana** e soweli ni lon tenpo pi nasa ale. | **Post** this cat when they least expect it.
+0,ijo vivi,post,n,1,"ijo; sitelen, toki, lipu, musi, ...",something thus shared,"**ijo** ale pi lipu mi la tenpo pana li kama weka pi suno luka tu la ilo li weka e ona. | All **posts** on my profile are automatically deleted once they become older than a week.
+ike la mi pana ala e **sitelen** pi tenpo tawa mi lon lipu Insakan. | I sadly didn't make any **posts** about my travels on Instagram."
 6,kala Asi,potato,n,1,"kili ma, kili pan, pan",edible starchy tuber of a potato plant,jan li kama jo e **kili** tan insa **ma**. | People dig up **potatoes**.
 6,kala Asi,potato,n,2,kasi,plant that produces potatoes,"mi pana e **kasi** tawa ma pona. tenpo kama la ona o pana e kili. | I have replanted the **potato** to better soil, it should grow potatoes eventually."
 6,jan Saki,potato,n,3,"ilo {lili, pi wawa ala}",a relatively weak computer,ilo mi li **wawa ala** li pali pona ala lon musi ni. | My **potato** is not powerful enough to run this game.
@@ -2198,7 +2202,7 @@ pali mi li **pona ale** ala tawa jan. wile ona la mi o ante e ona. | The client 
 2,jan Saki,save,v,3,pona,to improve from a dangerous situation,"sike ma li kama seli la, ni li ike tawa jan ale. o **pona** e ma! | Global warming hurts everyone. **Save** the Earth!"
 4,ilo Tani,say,,,toki,to communicate verbally,ona li **toki** e ni: ma li supa! | He **said** that the Earth was flat!
 2,ijo vivi,scar,,,(sitelen) pakala (selo),visible remains of an old [wound],**pakala** li awen lon noka mi tan tenpo ni weka: mi pakala e ona. | There's still a **scar** on my foot from when I hurt it long ago.
-0,,scare,,,,,
+0,(via Wasona),scare,,,"monsuta e ..., monsuta tawa ...",to cause a feeling of fear,seme li **monsuta** e soweli lili? | What **has scared** the little bunny?
 10,jan Lakuse,school,,,kulupu sona,knowledge community,"ni li jan pi **kulupu sona** mi. | This is my schoolmate.
 tan jaki Kowi la **kulupu sona** ale li lon ilo li lon tomo ala. | Due to Covid, all schools are virtual and not in physical buildings."
 10,jan Lakuse,school,,,tomo (pi kama) sona,institution of knowledge or learning,"jan lili mi li tawa **tomo sona** kepeken ilo pi sike tu. | My child goes to **school** using a bicycle.
