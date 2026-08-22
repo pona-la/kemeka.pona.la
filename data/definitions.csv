@@ -2612,8 +2612,9 @@ sina pali e moku **pona**. | **Thanks** for cooking."
 677,"jan Lisente, ijo vivi",that,,1,ni,(proximal determiner or pronoun),"**ni** li pona a! | **That**'s good!
 o lukin e nena **ni** suli. sina ken tawa sewi ona. | See **that** mountain? You can climb it.
 jan li toki e ijo pi lon ala lon ilo, anu seme? **ni** li lon ala lon? | You really think someone would do **that**, go on the internet and tell lies?"
-677,"jan Lisente, ijo vivi",that,,2,ni,(linking two clauses),"ona li toki e **ni**: telo mute li kama. | They said **that** it will rain a lot.
-moku **ni** li pona tawa mi: ona li wile e pali lili. | I like dishes **that** are easy to prepare."
+677,"jan Lisente, ijo vivi",that,,2,ni; ∅,(linking two clauses),"ona li toki e **ni**: telo mute li kama. | They said **that** it will rain a lot.
+moku **ni** li pona tawa mi: ona li wile e pali lili. | I like dishes **that** are easy to prepare.
+o lukin e pipi wawa. mi lukin e ona lon nasin a. | Check out this cool bug **that** I saw on the street."
 290,ijo vivi,the,,,∅; ni,(definite article),"o lukin! mi lon tomo sama len tomo. | Check it out, I'm in **the** house like carpet."
 3,ijo vivi,their,,,ona,(possessive form of [they]),jan Pesi li weka pi wile ala e poki **ona**. | Basil forgot **their** bag.
 41,ijo vivi,them,,,ona,(object form of [they]),"o sitelen lon lipu o pana e **ona**. | Write on the papers and hand **them** out.
@@ -2843,6 +2844,8 @@ kalama ni li jaki anu seme? — **n**, mi la ona li pona. | That song sucked, ri
 0,jan Saki,wet,adj,2,jo e telo,having absorbed liquid,len ale mi li **jo e telo** mute. | All my clothes are sopping **wet**.
 ,,wet,v,1,"telo e, pana e telo lon",to make wet; to soak,"sina sin e supa la, o **telo** e len. | If you're going to bus the table, **wet** the tablecloth first."
 55,ijo vivi,what,pn,,(ijo) seme,which thing,**ijo** ale la **seme** li pona nanpa wan? | **What** is the best thing?
+55,ijo vivi,what,pn,,∅; ni ... seme,(fused relative) the thing which,"mi sona ala e wile mi. | I don't know **what** I want.
+o toki e **ni**: nanpa **seme** li open e poki mani? | Please tell me **what** number opens the safe."
 55,ijo vivi,what,interj,,seme,expression of confusion or surprise,"sina weka la mi laso e ale pi tomo sina! — **seme a**?? | While you were gone, we painted your entire house green! — **What**??"
 0,,whatever,,,,,
 0,lipamanka,wheel,n,,sike,a circular object often attatched to an axle or other mechanism,**sike** ilo li tawa e ilo a. | The **wheels** on the bus move the bus. 
@@ -2863,7 +2866,7 @@ ona li **kama ala kama**? | Do you know **whether** she's coming?"
 0,,whisper,,,,,
 2,mun Nanseki,white,,,walo,a light color,"len ale mi li **walo** la mi sama jan sewi pona. | All my clothes are **white**, so I'm kind of like an angel."
 3,ijo vivi,who,pn,,(jan) seme,what thing or person,**seme** li moku kepeken supa mi? | **Who** has been eating off my plate?
-3,,who,,,,(relative pronoun),
+3,,who,,,ni; ∅,(relative pronoun),
 0,ijo vivi,whole,,,ale,entire,mi moku e **ale** pi kala suli. | I ate a **whole** fish.
 0,ijo vivi,whole,,,wan,in one piece,soweli mi li pakala e len mi la ona li **wan** ala a! | My fucking cat ripped apart my shirt and now it isn't **whole** anymore!
 0,ijo vivi,whole,,,a,(emphasizing an amount),ona li awen pali e ona lon tenpo suno luka luka **a**! | He's been working on it for a **whole** ten days!

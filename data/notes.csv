@@ -135,3 +135,7 @@ ijo vivi,folder,"*poki* may be followed by a word describing its contents. A fol
 Like with ""[autistic]"", it may be easier in Toki Pona to describe specific aspects of one's experience, and how they differ from the norm, than to search for a one-to-one translation of the label. The concise description of aromanticism offered here may not reflect the experience of everyone who identifies as aromantic."
 ijo vivi,post,"Different types of internet posts may be described with different words: *toki* for text posts, *sitelen* for posts consisting of images or videos, etc."
 ,scare,
+ijo vivi,what,"Like other short subordinate clauses, sentences using ""what"" as a 'fused relative' can often be reworded to not use embedding: ""I don't know what I want"" → ""I don't know my wants"". Longer subordinate clauses will need to be split into two sentences, where one sentence uses *ni* to ""point at"" the other sentence.
+
+More info about embedding can be found at the note for ""[that]""."
+ijo vivi,that,"The word ""that"" is one of many English words used for ""embedding"", where one entire sentence is inserted into another sentence: ""I heard that \[Susie eats bugs\]"". Since embedding is not possible in Toki Pona, such sentences need to be ""split in two"" before translating: ""I heard this: Susie eats bugs"". This often involves the word *ni* (meaning ""this, that, the following""), but it isn't strictly required."
