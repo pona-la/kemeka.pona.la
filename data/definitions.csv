@@ -26,7 +26,7 @@ jan Sewa li **toki** e ni: ma ale li supa. | **According to** Sarah, the world i
 0,ijo vivi,act,n,1,∅,something done,mi awen sona e ni lon ale: mama mi li pana e olin tawa mi. | I will always remember the **acts** of love from my parents.
 0,ijo vivi,act,n,2,"jan, kulupu",a performer of music; a musician or band,**jan** mute li pana e kalama ona lon tenpo ni! | Many **acts** will perform at this event!
 0,ijo vivi,act,n,3,"tenpo; open, insa, pini, ...",[part] of a theatrical performance,ijo suli li kama lon **insa** pi tenpo musi. | There's a pivotal scene in the second **act**.
-0,ijo vivi,act,v,1,len e wile ...,"to [pretend], to conceal one's true intent","jan lawa li kama! ale o **len e wile** ike ona! | The police are coming! Everyone, **act** natural!"
+0,ijo vivi,act,v,1,len e wile ...,"to [pretend], to conceal one's true intent","jan lawa li kama! sina ale o **len e wile** ike sina! | The police are coming! Everyone, **act** natural!"
 0,ijo vivi,act,v,2,∅,to behave a certain way,tenpo poka la ona li kama utala e jan ale. | They've been **acting** hostile toward everybody lately.
 0,ijo vivi,act,v,3,kama jan pi lon ala,to perform in a theater,"tenpo mute la mi nasin ni: musi la mi **kama jan pi lon ala**, li pana e nasin ona e pilin ona e ale ona tawa lukin. mi open ni lon tenpo weka. | I do the following fairly often: For fun, I **become a fictional person**, and I demonstrate their ways, their feelings, everything about them to onlookers. I've been doing it for a long time."
 0,ijo vivi,act out,,,lon e,to perform a plan,"mi wile tawa ma weka. wile mi ni li open lon tenpo weka a. tenpo poka la mi kama ken **lon** e ona. | I've wanted to go to a faraway place for so long. Recently, I finally got to **act** it **out**."
@@ -1466,7 +1466,7 @@ mi **toki pi lon ala ** e ni: ilo li pakala. | I **lied** that the machine was b
 28,ijo vivi,life,,,"ale, tenpo, nasin, lon",the totality of one's experiences,"olin mi li pona e **ale** mi. | My partners bring joy into my **life**.
 mi musi mute ala lon **tenpo** poka. | My **life**'s been pretty boring lately.
 **nasin** tonsi mi li pona tawa mi. | I enjoy **life** as a nonbinary person.
-**lon** mi li pona mute tan sina | My **life** is great because of you."
+**lon** mi li pona mute tan sina. | My **life** is great because of you."
 28,ijo vivi,life,,,"ijo pilin; ijo li ken {pilin, wile, unpa}",something that is alive; something with feelings and desires; something that can reproduce,**ijo pilin** ala li lon mun ni. | There's no **life** on this planet.
 0,ijo vivi,lift,,,jo; sewi e; tawa e,"to grasp something and move it upwards into the air, often in order to transport it",o **tawa** e supa ni lon poka mi. | Can you help me **lift** this table?
 0,ijo vivi,lift,,,weka,(figuratively) to remove,pilin ike mi li kama **weka**. mi pilin a e ni. | I felt my sadness being **lifted**.
@@ -1700,8 +1700,9 @@ suno pi toki pona la mi **kalama musi!** | On Toki Pona day, I will perform **mu
 0,ijo vivi,nail,n,,palisa,metal rod,mi pana e **palisa** tawa sinpin li pana e sitelen tawa palisa. | I hung a painting on a **nail** on the wall.
 0,ijo vivi,nail,v,,{ijo} pona,to do excellently,"a, sina pali **pona** a e moku ni! | Wow, you really **nailed** this dish!"
 3,mun Kekan San,name,n,,nimi,a word or phrase someone or something is called,toki a! **nimi** sina li seme? | Hello! What is your **name**?
-3,mun Kekan San,name,v,1,"nimi, pana e nimi",to give a name,sina wile pana e **nimi** seme tawa akesi sina? | What do you want to **name** your frog?
-3,mun Kekan San,name,v,2,toki,to specify,o pana e nimi pi jan ni: ona li lon tomo lon tenpo sama. | Please **name** whoever was in the room at the same time.
+3,mun Kekan San,name,v,1,"nimi, pana e nimi",to give a name,sina wile **pana e nimi** seme tawa akesi sina? | What do you want to **name** your frog?
+3,"mun Kekan San, ijo vivi",name,v,2,"toki, pana e nimi",to specify,"kulupu Metelika li suli tawa sina anu seme? o alasa **toki** e kalama ona tu tu wan. | So you like Metallica? Try to **name** five songs by them.
+o **pana e nimi** pi jan ni: ona li lon tomo lon tenpo sama. | Please **name** whoever was in the room at the same time."
 0,lipamanka,nation,n,1,ma,a state or country,**ma** Epanja li **ma** nanpa wan. | The **nation** of Spain is the best **nation.**
 2,,national,,,,of or relating to a state or country,
 5,ijo vivi,nature,n,,"ale; ma, kasi, kiwen, telo, ...","the world, viewed as distinct from human interaction","**kasi** pi ma Atejalowa li suwi a. | The **nature** of New Zealand is beautiful.
