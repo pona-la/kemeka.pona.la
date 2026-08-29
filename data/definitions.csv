@@ -176,9 +176,9 @@ open la ona li toki utala e ni: ona a li **lawa** e kulupu. | He asserted his **
 4,kala Asi,bad,,,ike,"not good, negative, evil, unpleasant",tenpo ale la jan **ike** li kama lawa e ma. | It is always **bad** people who get to rule.
 4,kala Asi,bad,,,jaki,"spoiled, rotten, foul",tenpo li weka la moku li kama **jaki**. | Given enough time food goes **bad**.
 4,kala Asi,bad,,,"wawa, a",as an intensifier,ona li wile **a** utala lon poka. | He **badly** wanted to join the fight.
-0,lipamanka,bagpipe,,,"selo palisa kon, ilo kalama kon, etc.",a large instrument composed of a skin that is filled with air and squeezed into usually four pipes: three drones and one chanter,"""a, lipamanka li sona e nasin pi **selo palisa kon""** | ""Oh lipamanka knows how to play **bagpipes.""**
-**selo pi palisa luka** li kalama ike tawa mi. | I hate the way the **bagpipes** sound. 
-**ilo kalama kon selo** li kama pakala, la mi mu musi pi pilin pona. | When **bagpipes** break, I laugh of joy. "
+0,lipamanka,bagpipe,,,"selo palisa kon, ilo kalama kon, etc.",a large instrument composed of a skin that is filled with air and squeezed into usually four pipes: three drones and one chanter,"ona li sona e nasin pi **selo palisa kon** | They know how to play **the bagpipes**.
+**selo pi palisa luka** li ken tan ma Tuki. | **Bagpipes** could be from Türkiye. 
+jan li kalama e **ilo kalama kon selo** lon nena  | Someone is playing **the bagpipes** on the hill."
 0,jan Lisente,ball,,,"sike, sike musi",a spherical object small enough to be held in hand,"musi la jan li noka e **sike** tawa poki ni sinpin. | In the game, you kick the **ball** to that goal in front of us."
 0,lipamanka,bamboo,,,kasi palisa,a long segmented plant indigenous to Asia ,"sina sona ala sona e ni: **kasi palisa** li lili, la jan li ken moku e ona a! | Did you know that very young **bamboo** is edible?"
 0,jan Lakuse,banana,,,kili palisa jelo,"a long, yellow-skinned fruit","tomo soweli pi pona sijelo li pana e **kili palisa jelo** pi mani ala la jan Sojana li kama jo e kili ni luka tu. | The vet was giving out free **bananas,** so Johanna took seven. 
@@ -229,6 +229,8 @@ jan lili tu wan li **lon insa** pi jan mama. | The expecting parent is **bearing
 0,ijo vivi,beat,v,2,"anpa, wawa tawa ...",to defeat,"mi alasa mute la mi ken ala a **anpa** e jan mi lon musi Mesi. | Try as I might, I just can't **beat** my sister in Smash.
 mi pini e musi la nanpa mute mute luka tu li kama. sina ken ala ken **wawa tawa** ni a? | I finished the game with 47 points. I bet you can't **beat** THAT!"
 0,ijo vivi,beat,v,2a,moli,to defeat by killing,mi ken ala **moli** e jan Ejaman! | I can't **beat** Airman!
+0,ijo vivi,beat,v,3,"tawa, tawa e telo; mu","(of a heart) to expand and contract, transporting blood and producing faint noises","mi poka tawa jan olin mi la mi ken kute e **mu lili** pi insa ona. | When I held my partner close, I could hear their heart **beating**.
+pilin mi li **tawa** sama kalama wawa. | My heart is **beating** like a drum."
 0,ijo vivi,beat,n,1,"kalama; (nasin) tenpo, (pilin) tenpo",rhythmic [music]; the part of music that provides a sense of rhythm,"aa. **kalama** ni li musi a. | Ahh, this **beat** is funky!
 **pilin tenpo** li wawa lon kalama ni la ona li pona a tawa ni: mi tawa e sijelo mi lon nasin tenpo ona. | That song has a very strong **beat**, which makes it great to dance to."
 3,"kala Asi, waso Keli",beautiful,adj,,"pona, suwi, (tawa) lukin","pleasant, specifically visually",nasin linja la mi kama lon ma kasi pi **pona lukin**. | The bending road led us through a **beautiful** valley of flowers.
@@ -998,7 +1000,7 @@ mi pali e pan suwi **tawa** sina. | I made cookies **for** you."
 mi len e mi lon **lon** tenpo suli. | I've been masking my true self **for** a long time."
 39,kala Asi,for,,,pona,in favour,"jan luka luka la **pona**. jan tu la pona ala. | Ten people voted **for**, two against."
 5,ilo Tani,for example,,,sama ni,providing an instance demonstrating a pattern or rule,"sina wile toki e ken la, nimi 'sama' li ken pona, **sama ni**: ""nimi 'sama' li ken pona, sama ni."" | If you want to discuss possibilities, the word 'sama' may be effective; **for example**, ""nimi 'sama' li ken pona, sama ni."""
-0,soweli Lapate,forbid,v,,ken ala e,to disallow something,mi **ken ale e** ni: ona li moku e soweli mi. | I **forbid* her from eating my hamster.
+0,soweli Lapate,forbid,v,,ken ala e,to disallow something,mi **ken ale e** ni: ona li moku e soweli mi. | I **forbid** her from eating my hamster.
 0,ijo vivi,force,n,,wawa,"power, energy","ona li lon tomo lili lon telo suli la ona li ken a pilin e **wawa** ona. | Being in a small boat on a great ocean, she really felt the **force** of the water.
 **wawa** li wawa ale, ala li ken pini e ona. sinpin li wawa ale li ken pini e ale. ona li kama wan la seme li kama? | Who would win, an unstoppable **force** or an immovable object?"
 0,ijo vivi,force,v,,"{lon, tan} wile ala",make someone act against their will,mi pana e moku tawa jan mi **lon wile ala ona**. | I **forced** my kid to eat.
@@ -1039,7 +1041,7 @@ mi en **jan** tu **ante** li wile lukin e sitelen la mi esun e lipu ken tawa ni.
 jan mute li moli **tan** ike sijelo. | Many people die **from** disease."
 9,kala Asi,from,prep,2,"en, ∅",indicating differentiation,"pilin mi **en** pilin sina li sama ala. | You opinions differ **from** mine.
 ona li sona **e** ike **e** pona. | He knows right **from** wrong."
-0,,front,,,,,
+0,soweli Lapate,front,n,,sinpin,"the part of an object facing you, the part that usually faces forward",**sinpin** pi ilo tawa li jaki tan pipi moli. | The **front** of the car is filthy with dead bugs.
 0,,frown,,,,,
 5,ijo vivi,fuck,interj,1a,"a, ike",(expression of frustration),"tomo kama la tenpo kama li weka suli. — **ike a**. | The next bus only comes in 30 minutes. — **Fuck**.
 **aaaaa**, noka mi a!! | **Fuck**, my toe!!"
@@ -1422,6 +1424,8 @@ kama pi ilo lete li **moli e** esun pi kiwen lete. | The arrival of the refriger
 0,kala Asi,language,,,toki,"a system for communication, a manner of expression","jan li kama sona **toki** la ona li ken kama sona e jan pi kulupu ante. | Learning a new **language** can help you make friends from different cultures.
 ona li **toki** jaki tawa mi. | The **language** he used to talk to me was obscene."
 0,ijo vivi,large,,,suli,big,mi moku kepeken ilo pi **suli** musi. | I'm eating with a comically **large** spoon.
+0,ilo Miten,LARP,,,musi,live-action roleplay,"mi **musi** lon kulupu. **musi** la mi lon tenpo weka nasa li utala e jan ante kepeken ilo tu suli. | I'm in a **LARP** group. Iin the **LARP**, we're in weird ancient times and fight each other with big swords"
+0,ijo vivi,LARP,,,len e ...,"[pretend], feign, [act] (interest in or knowledge of something)",ona li **len e** ni: ona li olin **lon ala** e kulupu. | She's **LARPing** being a fan of the group.
 8,ilo Tani,last,adj,,"pini, nanpa pini",final,pali **nanpa pini** li wile e wawa pi suli nanpa wan. | The **last** task will require the most work.
 8,lipamanka,last,v,,awen,to endure over a period of time,kili ni li ken **awen** lon tenpo lete ike. | This fruit can **last** the harsh winter. 
 0,,last time,,,,`,
@@ -1831,7 +1835,7 @@ sitelen kule, la jan Alisin li **toki e ni: seme li nanpa seme** tawa ona? | Ali
 mi **kama e** sike soweli pi noka lawa tawa olin mi **kepeken ilo.** | I **ordered** a dog collar for my boyfriend online. "
 2,lipamanka,order,n,,"pana, kama",something delivered (usually food),mi jo e **kama** mi pi ma Isijopija lon noka mi. | I have my Ethiopian **order** in my lap. 
 2,ijo vivi,organ,,,"insa, ilo sijelo, ilo insa",internal body part with a specific purpose,"sijelo jan la insa kon en insa moku en insa lawa en **insa** ante mute li lon. | A human body contains lungs, the digestive system, the brain, and many other **internal organs**."
-0,ijo vivi,orgasm,,,"(unpa la) pilin wawa, pilin suli","strong sensation during sex, typically pleasant",ilo unpa mi sin li ken pana e **pilin unpa** pi wawa mute a. | My new vibrator can cause really intense **orgasms**.
+0,ijo vivi,orgasm,,,"(unpa la) pilin wawa, pilin suli, pilin sewi","strong sensation during sex, typically pleasant",ilo unpa mi sin li ken pana e **pilin unpa** pi wawa mute a. | My new vibrator can cause really intense **orgasms**.
 2,lipamanka,other,adj,,ante,different from surrounding things (often similar things),"mi wile e telo nasa **ante.** | I want the **other** cocktail. 
 jan Keli li sama ala meli **ante.** | Kelly isn't like **other** girls. "
 2,pakala Mapuju,other,v,,kulupu ante e,"to define as different or separate, often in a negative way, in order to define the self","jan Pita li toki ike e len lawa ona la pilin ona la jan Pita li **kulupu ante** e ona. | When Peter insulted his yarmulke, he felt **othered**."
@@ -1953,7 +1957,8 @@ o kama e **kili mute** lili tan kili suli. o pana e **kili wan** tawa jan lili a
 6,lipamanka,plastic,,,"selo, kiwen",a variety of materials usually made from petroleum,"mi **selo** e moku mi. | I've put **plastic wrap** on my food.
 poki **kiwen** ni li jo e ko kule ale mi! | This **plastic** container holds all my oil paints!"
 2,"ijo vivi, pakala Mapuju",play,v,1,musi,"to amuse oneself, to perform entertainment, to joke","ona li **musi** kepeken ko. | She **played** with playdough.
-o pini e **musi**. mi ale li sona e ni: sina toki e ijo pi lon ala. | Stop **playing**, we all know you're just making things up."
+o pini e **musi**. mi ale li sona e ni: sina toki e ijo pi lon ala. | Stop **playing**, we all know you're just making things up.
+sina wile ala wile **musi** Manka lon kulupu? | Do you want to **play** Minecraft together?"
 2,pakala Mapuju,play,v,1a,"musi, musi kalama, kalama musi",to perform music,"mi **musi** kepeken ilo kalama. | I'm **playing** the piano.
 tenpo suno ni la mi **kalama musi** tawa jan mute. | Today I'm going to **play** for a lot of people.
 mi **musi kalama** lon tenpo mute. | I **play music** a lot."
