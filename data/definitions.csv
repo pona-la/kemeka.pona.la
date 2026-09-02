@@ -1380,9 +1380,10 @@ o kama sona e ni: seme li **suli** tawa jan esun sina? | Figure out what's **int
 mi olin e meli. ni li **ike** tawa sina la o weka. | I'm a lesbian, and if you have an **issue** with that, GTFO."
 916,jan Saki,it,pn,1,ona,(3rd person inanimate singular pronoun),ni li ilo pi pana seli. **ona** li pana e seli. | This is a flamethrower. **It** throws flames.
 916,ijo vivi,it,pn,1a,ni,(when referring to a whole sentence or clause),mi uta suwi e meli. **ni** li pona tawa mi. | I kissed a girl and I liked **it**.
-916,jan Saki,it,pn,2,∅,(dummy pronoun),telo li kama tan sewi. | **It** is raining.
-1,ijo vivi,itch,,,pilin ni: mi o utala e selo,sensation of wanting to scratch skin,selo mi li kama loje li **wile e ni: mi utala e ona kepeken luka**. | My skin became red and **itchy**.
-1,ijo vivi,itch,,,(ale la) wile,a constant desire,**ale la** mi **wile** moku e suwi. | I've got a constant **itch** for candy.
+916,jan Saki,it,pn,2,∅; lon,(dummy pronoun),"telo li kama tan sewi. | **It** is raining.
+tenpo pimeja **li lon**. | **It**'s nighttime."
+1,ijo vivi,itch,,,wile luka e selo,sensation of wanting to scratch skin,selo mi li kama loje. mi kama **wile luka mute e ona**. | My skin became red and **itchy**.
+1,ijo vivi,itch,,,wile,a desire,ale la mi **wile** moku e suwi. | I've got a constant **itch** for candy.
 27,jan Saki,its,,,ona,(possessive of '[it]'),ilo li kama pini a e sin **ona**! | It finally finished **its** updates!
 0,jan Saki,itself,,,ona (sama),(reflexive of [it]),mi pilin suli ala tawa sitelen Kopota. ona li awen e wile **ona** taso. | I did not care for The Godfather. It insists upon **itself**.
 2,ijo vivi,job,,,pali (mani),[work] done compulsorily to receive money,"tenpo ala la mi o **pali**. sina ken kama lon tenpo wile. | I don't have a **job**, so you can come visit me whenever.
