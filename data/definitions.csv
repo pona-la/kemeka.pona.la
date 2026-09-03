@@ -624,9 +624,11 @@ tenpo musi pi pimeja lon li tawa **jan olin** taso. | Tonight's dance party is f
 0,ijo vivi,couple,v,1,wan,to [join],ilo wawa li **wan** e tomo tu. | The trains are **coupled** by a strong connector.
 0,ijo vivi,course,n,1,"nasin, ma","track, path",kulupu li tawa lon **ma** nena. | They were hiking along a bumpy **course**.
 0,ijo vivi,course,n,2,(tenpo) moku,one of several servings of food eaten in succession,"moku open li ko. **moku** suli li waso. | The appetizer was some yogurt, and the main **course** will be a turkey."
-0,ijo vivi,course,n,3a,"(lipu, sitelen, ...) sona",series of lessons,o kama **sona** mama e kasi lili kepeken **sitelen** mi! | Learn how to care for a bonsai with my video **course**!
-0,soweli Lapate,course,n,3b,pana sona ... (lon) kulupu (sona),a term or semester-long offering of studies at a university or other school for credit,"ike la, tenpo kama pi pana sona la, mi o **pana e sona** lon **kulupu** tu wan. | Unfortunately, next semester, I have to teach three different **courses**.
-soweli Lapate li **pana e sona** pi nasin sona. mi awen ken la, mi wile kama lon **kulupu sona** wawa ni. | If there are still places, I want to sign up for this awesome **course** on philosophy by soweli Lapate."
+,soweli Lapate,course,n,3,"tenpo, ∅","a series of events, a process of some kind","mi pali lon ni la, mi kama sona e ijo lili musi. | In the **course** of working on this, I found an interesting little fact.
+**tenpo** ni la, ijo ike mute li kama. | This was a **course** of unfortunate events."
+0,ijo vivi,course,n,4a,"(lipu, sitelen, ...) sona",series of lessons,o kama **sona** mama e kasi lili kepeken **sitelen** mi! | Learn how to care for a bonsai with my video **course**!
+0,soweli Lapate,course,n,4b,pana sona ... (lon) kulupu (sona),a term or semester-long offering of studies at a university or other school for credit,"ike la, tenpo kama pi pana sona la, mi o **pana e sona** lon **kulupu** tu wan. | Unfortunately, next semester, I have to teach three different **courses**.
+jan Sise li **pana e sona** pi nasin sona. mi awen ken la, mi wile kama lon **kulupu sona** wawa ni. | If there are still places, I want to sign up for this awesome **course** on philosophy taught by Žižek."
 0,kala Asi,cover,,,len,"conceal, usually with fabric",ona li **len** e jan lili. | He **covered** the baby with a blanket.
 0,pakala Mapuju,covert,,,len,"hidden, invisible, clandestine, with an objective not to be discovered",**len** la ona li pana e moku meli tawa meli tonsi pi kulupu ona. | She runs a **covert** operation supplying transgender women in her community with estrogen.
 3,"ijo vivi, kala Asi",cow,,,"soweli, soweli pimeja walo, soweli pi telo walo moku","a black and white mammal, often used by humans for its milk","**soweli** tu li mu e mu mu. | **Two** cows moo: moo, moo.
@@ -1373,6 +1375,8 @@ o kama sona e ni: seme li **suli** tawa jan esun sina? | Figure out what's **int
 0,ijo vivi,into,prep,1,"tawa (insa), lon (insa)",such as to enter,mi **tawa** lupa suli. | We ventured **into** the cave.
 0,ijo vivi,into,prep,2a,olin,in love with,"tenpo suli li weka, taso mi awen **olin** e sina. | After all this time, I'm still **into** you."
 0,ijo vivi,into,prep,2b,"... li pona tawa ..., ... lon tenpo mute, ... sona e nasin ...; see also [like]",interested in or skilled at as a hobby,tenpo poka la mi kama **sona e nasin** ni: mi wan e lipu mute li pana e selo pona tawa ona. | I've gotten **into** bookbinding lately.
+0,soweli Lapate,iron,"n, v",,(supa e ... kepeken) kiwen (len) seli,a device used to flatten clothes with heat; to use that device,"mi esun e **kiwen len seli**. | I bought an **iron**.
+open pi suno ni la, mi wile **supa e len mi kepeken kiwen seli**. | I need to **iron** my shirts this morning."
 4,lipamanka,island,,,"nena, ma telo",a landmass surrounded on all sides by water,kulupu pi toki pona li kama lon **nena** Manatan lon mun nanpa luka wan! | The toki pona community is meeting up on the **island** Manhattan in June!
 0,lipamanka,isolated,adj,,taso,alone,mi **taso** lon ma nasa ni. kasi li loje. waso li wile moku e mi. | I'm **isolated** in this strange land. The plants are all reddish-orange and the birds want to eat me. 
 0,ijo vivi,issue,,,lipu,"an edition of a magazine, newspaper, etc.","open la jan li wile pali e lipu mute. pini la ona li kama pali e **lipu** wan taso. | There were plans for regular releases, but in the end, only a single **issue** was made."
@@ -1560,7 +1564,8 @@ tawa kama li **suli**. — ike. | It's gonna be a **long** walk. — Ugh."
 ona li moku e pan **mute**. | She ate a **lot** of pancakes."
 0,ijo vivi,lot,,,ma (supa),"a large, open [field]",mi awen e ilo mi lon **ma** ilo. | We parked our car in the parking **lot**.
 2,ijo vivi,loud,,,"kalama suli, kalama wawa","making strong noise, noisy",**kalama** li **wawa** la ni li pona tawa mi!! | I like **loud** things!!
-8,jan Tekinowi,love,v,1,olin,"to enjoy somebody's company platonically, romantically, sexually, etc.",mi **olin** e mije mi. | I **love** my husband.
+8,jan Tekinowi,love,v,1,olin,"to enjoy somebody's company platonically, romantically, sexually, etc.","mi pilin pona wawa tan kulupu ni. mi **olin** e sina ale. | I feel so grateful for this community. I **love** y'all.
+mi **olin** e mije mi. | I **love** my husband."
 8,lipamanka,love,v,2,"pona ... (tawa X) , X la ... pona",to enjoy something or somebody,"pan ni li **pona tawa mi.** | **I love** this bread.
 **mama mi la** utala li **pona** ala. | **My mom** doesn't **love** fighting."
 0,ijo vivi,lover,,,jan olin,"someone [love]d, romantic partner",mi pakala e mi ante lon nasin pi **jan olin** a. | We hurt each other like **lovers** do.
@@ -2111,7 +2116,8 @@ kalama li nasa tawa kute. | The sound had an uncanny **quality**."
 4,ilo Tani,rain,n,,telo sewi,water droplets that have fallen from condensed clouds,len ale mi li kama jo e **telo** tan **sewi** a... | All of my clothes were soaked from the **rain**...
 4,ilo Tani,rain,v,,pana e telo,to have rain fall,suno ni la sewi li **pana e telo** mute. | **It's raining** a lot today.
 0,ijo vivi,raise,v,,sewi,"move upwards, lift","mi sike e palisa la supa li **kama sewi**. | When I turn the lever, the platform is **raised**."
-0,ijo vivi,raise,v,,mama,"do parenting, bring up, nurture",**mama** mi li nasin Katoliko e mi. | I was **raised** Catholic.
+0,ijo vivi,raise,v,,mama,"do parenting, bring up, nurture","nasin **mama** pona li wile e kulupu. | It takes a village to **raise** a child.
+**mama** mi li nasin Katoliko e mi. | I was **raised** Catholic."
 11,ijo vivi,random,adj,,ken ala sona e {nanpa} kama,unpredictable,leko li pana ni e nanpa: mi **ken ala sona e nanpa kama**. | The dice provides **random** numbers.
 11,ijo vivi,random,adj,,nasa,"silly, tending to non sequiturs",nasin mi la mi musi tan ijo **nasa** lon tenpo mute. | I have a very **random** sense of humour.
 0,ijo vivi,rate,n,,wawa,"[speed], intensity","pali li awen **wawa** ni la ona li pini lon tenpo poka a! | If the work keeps going at this **rate**, it'll be finished in no time!"
