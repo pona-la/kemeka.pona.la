@@ -1662,7 +1662,7 @@ ale la ona li moku la ona li **jaki** e ale poka. | Every time she eats, she mak
 4,ilo Tani,middle,,2,insa,a point in time between the beginning and end,tenpo pimeja pini la lape mi li pakala lon **insa**. | I woke up in the **middle** of the night last night.
 0,ijo vivi,might,v,,ken,to possibly be,ni li **ken** pona a! | This **might** be really good!
 0,ijo vivi,might,n,,wawa,power,kulupu li alasa pini e jan ike kepeken **wawa** ale ona. | The army tried to stop the villain with all their **might**.
-0,jan Saki,mile,n,1,,"the largest Imperial unit of distance, approximately 1.609 km",
+0,jan Saki,mile,n,1,"suli, weka, ...","the largest imperial unit of distance, approximately 1.609 km",mi tawa lon nasin pi **suli** luka luka tu. | I walked down a road for twelve **miles**.
 0,jan Saki,mile,n,2,weka,(in the plural) a long distance,"mi wile lon sina la, mi ken kama tan **weka suli**. | I'd walk **a thousand miles** just to see you."
 0,ijo vivi,military,n,,kulupu utala,organization that fights in wars,jan lawa ike li kama pana e mani mute tawa **kulupu utala** e mani ala tawa pona kulupu. | The fascist president increased **military** spending and decreased funding for social good.
 7,ijo vivi,milk,n,,telo (moku) mama,liquid produced by mammals for their offspring,soweli **mama** li pana e **telo moku** tawa soweli lili ona. | The cat produces **milk** for its litter.
@@ -2957,7 +2957,8 @@ sina pilin ala pilin e utala **insa**? | Do you feel the struggle **within**?"
 mi **meli**. taso mi wile ala namako pi pona lukin e sinpin mi. | I am a **woman**, but I do not like to wear make-up. "
 4,,wonder,,,,,
 3,jan Lakuse,wood,,,"kiwen kasi, kasi kiwen","solid, thick parts of a tree","supa noka li sama lukin tawa **kiwen kasi**. taso ona li kasi ala. | The floor looks like **wood**, but it is not. "
-0,jan Lisente,word,,,nimi,"a unit or group of morphemes often separated from other units or groups with a space, pause, or other language-specific word boundary marker, or by context.","sina sona ala e **nimi** la o lukin e lipu nimi! | If you don't know a **word**, you can look it up on the dictionary!"
+0,jan Lisente,word,n,1,nimi,"a unit or group of morphemes often separated from other units or groups with a space, pause, or other language-specific word boundary marker, or by context.","sina sona ala e **nimi** la o lukin e lipu nimi! | If you don't know a **word**, you can look it up on the dictionary!"
+0,ijo vivi,word,n,1a,toki,(in the plural) communication,**toki** sina li pakala e pilin mi sama kiwen utala. | Your **words** hurt me like bullets.
 4,ilo Tani,work,n,1,pali,"expenditure of energy, especially for a particular goal",ni li wile e **pali** mute. | This will require a lot of **work**.
 4,ijo vivi,work,v,1a,"pona, pakala ala",to function as intended,"tomo mi li lete tan ni: ilo seli li **pakala**. | Our flat is cold right now because the radiator **doesn't work**.
 nasin ni li **pona** ala. mi o nasin ante. | This plan isn't gonna **work**. Let's try something else."
