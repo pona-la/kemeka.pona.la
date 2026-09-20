@@ -30,7 +30,7 @@ jan Sewa li **toki** e ni: ma ale li supa. | **According to** Sarah, the world i
 0,ijo vivi,act,v,2,∅,to behave a certain way,tenpo poka la ona li kama utala e jan ale. | They've been **acting** hostile toward everybody lately.
 0,ijo vivi,act,v,3,kama jan pi lon ala,to perform in a theater,"tenpo mute la mi nasin ni: musi la mi **kama jan pi lon ala**, li pana e nasin ona e pilin ona e ale ona tawa lukin. mi open ni lon tenpo weka. | I do the following fairly often: For fun, I **become a fictional person**, and I demonstrate their ways, their feelings, everything about them to onlookers. I've been doing it for a long time."
 0,ijo vivi,act out,,,lon e,to perform a plan,"mi wile tawa ma weka. wile mi ni li open lon tenpo weka a. tenpo poka la mi kama ken **lon** e ona. | I've wanted to go to a faraway place for so long. Recently, I finally got to **act** it **out**."
-0,mun Kekan San,action,,,pali,something done,sina o **pali**! | You must take **action**!
+0,mun Kekan San,action,,,pali; ijo,something done,sina o **pali**! | You must take **action**!
 0,jan Saki,action,,,∅,"being in a situation, especially military combat",mama mi li kama moli lon **utala**. | My grandpa died in **action**.
 1,ijo vivi,actually,,,lon (la),in reality,toki ona li sama ala pali ona **lon**. | What he said is different from what he **actually** did.
 1,ijo vivi,actually,,,"mute, a",(used for emphasis),moku ni li pona mute **a**! | This food is **actually** so good!
@@ -85,8 +85,9 @@ I went to her room to try and wake her up, but she was **already** awake when I 
 0,ijo vivi,ambivalent,,,"pilin li tu, wile li tu",feeling two contradicting emotions simultaneously,sitelen pi selo mi la **wile** mi **li tu**. | I'm sort of **ambivalent** over getting a tattoo.
 0,"pakala Mapuju, ijo vivi",ambivalent,,,pilin suli ala,"indifferent, apathetic","kalama li seme tawa sina? — a, mi **pilin suli ala** tawa ona. | How'd you like the album? — Eh, I'm kinda **ambivalent** about it."
 2,ilo Tani,among,,,lon (kulupu),mingling with,sike li **lon** kulupu pi lipu kasi. | The ball was **among** the leaves.
-0,ilo Tani,amount,,,suli,a total (of a mass noun),**suli** pi jaki ma li pakala e sijelo jan. | The **amount** of pollution in the world threatens people's health.
-0,ilo Tani,amount,,,mute,a quantity (of discrete objects),mi sona ala e **mute** soweli. | I'm not sure about the **amount** of cows.
+0,ilo Tani,amount,,,mute,a quantity,"mi sona ala e **mute** soweli. | I'm not sure about the **amount** of cows.
+telo walo pi **mute** lili li kama lon supa. | A small **amount** of milk was spilled on the counter."
+0,ilo Tani,amount,,,suli,a volume or size,**suli** pi jaki ma li pakala e sijelo jan. | The **amount** of pollution in the world threatens people's health.
 56,kala Asi,and,conj,,"en, ∅",particle; connecting two noun phrases,"mi **en** sina o weka tan ma ni. | You **and** I should run away.
 telo suli la telo **li** kama **li** weka. | Ocean tides come **and** go.
 **o** pali e lipu sina **o** lape. | Do your homework **and** go to bed.
@@ -607,10 +608,11 @@ o **mute** e lipu pi wile sona. | Can you **copy** the survey?"
 0,jan Saki,copy,v,2,jo,(on a computer) to save to the clipboard without deleting the original text,o **jo** e toki tan sewi lipu o pana e ona tawa anpa. | **Copy** the first paragraph and paste it at the bottom.
 0,jan Saki,copy,n,,(ijo) sama,a replica,sina en jan poka sina li **sama** a! | You and your sibling are exact **copies**!
 0,ijo vivi,corn,,,kili pan; sike kili jelo lili mute,"a starchy grain crop, often yellow, or its seeds",o pana e **kili lili jelo** tawa pan mi. | Please put some **corn** on my pizza.
-4,ijo vivi,corner,n,1a,nena,"pointy spot on a shape, where several [edge]s meet",mi weka e **nena** kiwen. ni li lili e ken pakala. | I rounded the **corners** of the cube to reduce the chance of injury.
-4,ijo vivi,corner,n,1b,selo; poka weka,"area away from the center, remote area",ilo mi li lon seme? mi kepeken ala ona lon tenpo suli. ona li ken lon **poka weka nasa** pi tomo mi. | Where're my keys? I haven't used them in ages. They must be hidden away in some **corner** somewhere.
-4,ijo vivi,corner,n,2,nasin,"intersection of two streets, often used for loitering",kulupu li toki li musi lon **nasin**. | The bunch were chatting and laughing at a **street corner**.
-4,ijo vivi,corner,v,1,... li lon poka ale; ... la mi ken ala weka,to force into an inescapable position,jan **li lon poka ale**. mi ken ala weka. anpa a. | They've got us **cornered**. We can't escape. We're doomed.
+4,ijo vivi,corner,n,1,nena,"pointy spot on a shape, where several [edge]s meet",mi weka e **nena** kiwen. ni li lili e ken pakala. | I rounded the **corners** of the cube to reduce the chance of injury.
+4,ijo vivi,corner,n,3,"ma, insa, nasin","place where two streets meet, intersection","mi tu o kulupu lon **ma** ni: nasin Wepe en nasin pi ken suli li kama wan. | Let's meet at the **corner** where Reeperbahn and Große Freiheit intersect.
+kulupu li toki li musi lon **nasin**. | The bunch were chatting and laughing at a **street corner**."
+4,ijo vivi,corner,n,2,selo; poka weka,"area away from the center, remote area",ilo mi li lon seme? mi kepeken ala ona lon tenpo suli. ona li ken lon **poka weka nasa** pi tomo mi. | Where're my keys? I haven't used them in ages. They must be hidden away in some **corner** somewhere.
+4,ijo vivi,corner,v,1,poki; ... li lon poka ale,"to surround, force into an inescapable position",jan **li lon poka ale**. mi ken ala weka. anpa a. | They've got us **cornered**. We can't escape. We're doomed.
 0,lipamanka,corny,,,nasa ike,eliciting a weak negative emotional reaction due to a cliche nature,toki ale pi mama mi li **nasa ike.** ona li toki e olin taso! | Everything my grandma says is so **corny**. She only talks about love!
 0,ijo vivi,corpse,,,"sijelo moli; {jan, soweli, waso, ...} moli",a dead body,ona li moli e jan lon ma lete weka li weka e **sijelo** ona lon tenpo pi poka ni. | He murdered the victim in a remote tundra and removed the **corpse** shortly after.
 0,,could,,,see [can],(inflection of 'can'),
@@ -1582,6 +1584,8 @@ mi **olin** e mije mi. | I **love** my husband."
 mi kalama e ilo lon kulupu. kalama pi ilo mi li len li lili tawa kalama uta tawa kalama pi ilo ante. | I perform in a band. My instrument makes **low** tones that blend into the vocals and other instruments."
 2,ijo vivi,low,,4,"(pilin) ike, anpa","sad, depressed",mi sona ala e ni: **pilin anpa** mi li ken wawa ni. | I never thought I could feel this **low**.
 2,,lucky,,,,,
+0,ijo vivi,lungs,,,"insa kon, poki kon",internal organ that holds [breath],"**insa** mi **kon** li pilin pakala. | I feel a pain in my **lungs**.
+sina moku mute e kon jaki la **poki kon insa** li ken kama pakala. | Constant smoking can hurt your **lungs**."
 0,ijo vivi,lust,,,wile unpa,sexual desire,mi lukin e tonsi suwi li kama **wile unpa** e ona. | I saw a foxy enby and was filled with **lust**.
 0,pakala Mapuju,machine,,,ilo,large and complex device,**ilo** suli ni li tawa seme? | What is this large **machine** for?
 0,,mad,,,,,
