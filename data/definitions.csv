@@ -1,22 +1,24 @@
 times asked,submitted,keyword,pos,enumeration,tok,eng,examples
-123,,a,,,"∅, wan",one thing,"mi moku e pan. | I ate **a** cookie.
+123,,a,art,,"∅, wan",one thing,"mi moku e pan. | I ate **a** cookie.
 mi moku e pan **wan** taso. | I only ate **a** cookie."
-0,ijo vivi,abandon,,,weka (tan),"leave (someone) behind, forsake",tenpo ala la mi **weka** tan olin mi. | I would never **abandon** my partner.
-0,ijo vivi,abandon,,,kama pali ala,stop working on,mi **kama pali ala** e ilo mi. wile pali mi li weka. | I **abandoned** my coding project because I lost motivation.
-0,pakala Mapuju,able,,,ken,"having the capability, skill, strength, or power to do something",mi wile **ken** toki Nijon. | I want to be **able** to speak Japanese.
+0,ijo vivi,abandon,v,1,weka (tan),"leave (someone) behind, forsake",tenpo ala la mi **weka** tan olin mi. | I would never **abandon** my partner.
+0,ijo vivi,abandon,v,2,kama pali ala,stop working on,mi **kama pali ala** e ilo mi. wile pali mi li weka. | I **abandoned** my coding project because I lost motivation.
+0,pakala Mapuju,able,adj,,ken,"having the capability, skill, strength, or power to do something",mi wile **ken** toki Nijon. | I want to be **able** to speak Japanese.
 29,"ijo vivi, pakala Mapuju",about,prep,,"toki e, toki lon, lon",on the topic of,"lipu ni li **toki e** kala. | This is a book **about** fish.
 mi **toki lon** kili **lon** nasin moku ona. | I'm presenting **about** fruits and vegetables and how they're eaten.
 mi pilin ike **tawa** kama ni. | I'm mad **about** what happened."
 29,kala Asi,about,adv,,"anu poka, sama (lili)","or so, nearly, approximately","mi kute e ona tan sike nanpa 2006 **anu poka**. | I've been listening to it since **about** 2006.
 lete pi tenpo lon en lete pi tenpo sike pini li **sama** lili. | It’s **about** as cold as it was last winter."
-0,mun Kekan San,above,,,"sewi, lon sewi",located overhead of something else,pan li lon supa **sewi** tawa supa namako. | The cereal is on the shelf **above** the spice shelf.
-0,mun Kekan San,above,,,∅,intently uninvolved in something due to social status or similar,mi ante tawa ona li pali sama ala. | We are not like them. We are **above** their behavior.
-0,ijo vivi,accent,,,(toki la) nasin kalama,features of oral speech that indicate social status,**nasin kalama** ona la mi sona e ni: ona li awen lon ma Italija lon tenpo suli. | I could tell from his **accent** that he lives in Italy.
-0,ijo vivi,accept,,,ken,to [approve],"wawa, pana mi li **ken** lon utala! | Wow, my submission for the contest was **accepted**!"
-0,ijo vivi,accept,,,"kute, sona, pona; ike ala, utala ala",to take something as true without rejecting it,"wile mi la ona li kama kin. taso ona li wile ala la mi **kute e wile** ona li tawa lon taso. | I wanted her to come with, but she didn't want to, so I **accepted** it and just went on my own.
+0,mun Kekan San,above,prep,,"sewi, lon sewi",located overhead of something else,pan li lon supa **sewi** tawa supa namako. | The cereal is on the shelf **above** the spice shelf.
+0,mun Kekan San,above,prep,,∅,intently uninvolved in something due to social status or similar,mi ante tawa ona li pali sama ala. | We are not like them. We are **above** their behavior.
+0,ijo vivi,accent,n,,(toki la) nasin kalama,features of oral speech that indicate social status,**nasin kalama** ona la mi sona e ni: ona li awen lon ma Italija lon tenpo suli. | I could tell from his **accent** that he lives in Italy.
+0,"ijo vivi, lipamanka",accept,v,1,ken (e),to [approve],"wawa, ona li **ken** e pana mi lon utala! | Wow, they **accepted** my submission for the contest!
+mi **ken** e sina lon kulupu mi. | We shall **accept** you into our group. "
+0,lipamanka,accept,v,2,kama jo,to [recieve] willingly and by choice ,"mi **kama jo** e pan sina, lon supa pan mi. | I will **accept** your cake, onto my table of cakes. "
+0,ijo vivi,accept,v,3,"kute, sona, pona; ike ala, utala ala",to take something as true without rejecting it,"wile mi la ona li kama kin. taso ona li wile ala la mi **kute e wile** ona li tawa lon taso. | I wanted her to come with, but she didn't want to, so I **accepted** it and just went on my own.
 ona li awen ken ala **sona** e ni: mani ale ona li weka. | He still can't **accept** that he lost all of his money.
 pona la mi mije la ni li **ike ala** tawa mama mi. | Luckily, my grandparents **accept** me as a guy."
-0,jan Tekinowi,accidentally,,,"tan pakala, tan ala wile",by mistake,"**pakala la**, telo mi li kama lon len mi. | I **accidentally** spilled my milk."
+0,jan Tekinowi,accidentally,adv,,"tan pakala, tan ala wile",by mistake,"**pakala la**, telo mi li kama lon len mi. | I **accidentally** spilled my milk."
 0,,according,,,,,
 0,,according to,,,(toki) {ijo} la,based on what is said by,"**toki** pi jan sona **la** mi ale li moli lon suno kama. | **According to** scientists, we'll all die tomorrow.
 jan Sewa li **toki** e ni: ma ale li supa. | **According to** Sarah, the world is flat."
@@ -926,10 +928,13 @@ tenpo kama **weka** la ken la sijelo jan li pakala ala e pilin ona. | In the **f
 0,ijo vivi,farm,,,"ma {pan, soweli, waso, ...}",place where crops or livestock are raised,"lon monsi pi tomo mi la mi **mama** e kili moku lon insa **ma**. | In our backyard, we have a carrot **farm**."
 28,mute ante,fast,,1,(kepeken) tenpo lili,using little time,mi moku **kepeken tenpo lili**. | I am a **fast** eater.
 28,mute ante,fast,,2,wawa,"same as 1, but emphasizing power needed to perform the task quickly",sina pali **wawa** a!! | You worked **fast**!!
-4,,fat,,,,,
-0,,fate,,,,,
-0,ijo vivi,father,,,mama,a parent,**mama** mi li weka tawa esun. | My **father**'s out to shop.
-0,jan Saki,father,,,mama mije,a specifically male parent,"tenpo pini la, jan li pilin e ni: **mama mije** o pali o kama e mani tawa kulupu. | Back in the day, people used to think that the **father** had to work and make money for the family."
+4,lipamanka,fat,n,1,"ko, telo; tan soweli, tan kasi; li ken kama seli mute",an organic substance made of lipids with high caloric density,"moku ni li pona, taso **telo li ken kama seli mute** la ona li lon ala la mi kama wile ala moku e ona mute. | This food is good, but because of the low fat content, I don't want to eat a lot of it. "
+4,lipamanka,fat,n,1a,ko,solid at room tempurature,o pana e **ko lili** tawa poki seli. | Put a little **fat** in the pan. 
+4,lipamanka,fat,n,1b,telo,liquid at room tempurature,"o pana e **telo jelo** lili tawa sewi pi kili loje, tawa sewi pi ko walo soweli. | Drizzle some **fat** on the tomatoes and cheese. "
+4,lipamanka,fat,adj,,"suli, ko","large, with lots of fatty tissue","jan ni li **suli** mute, sama mi a. | This person is very **fat,** just like me. "
+0,lipamanka,fate,n,,tenpo kama,a predetermined future,sina wile ala wile sona e **tenpo kama** sina? lipu li pana e sona ni. | Do you want to know your **fate?** The cards will tell you.
+0,ijo vivi,father,n,,mama,a parent,**mama** mi li weka tawa esun. | My **father**'s out to shop.
+0,jan Saki,father,n,,mama mije,a specifically male parent,"tenpo pini la, jan li pilin e ni: **mama mije** o pali o kama e mani tawa kulupu. | Back in the day, people used to think that the **father** had to work and make money for the family."
 0,,fault,,,,,
 4,jan Tene,favorite,adj,,(pona) nanpa wan,most-liked or preferred,"mi la jelo li kule pi **pona nanpa wan**. | My **favourite** colour is yellow.
 moku seme li **pona nanpa wan** tawa sina? | What’s your **favourite** food? "
@@ -1090,10 +1095,12 @@ jan mute la tomo li poka tawa ni: **jan sin ala li ken kama**. | The stadium was
 3,lipamanka,game,v,,musi (lon ilo),to play with enjoyable programs on computers ,"mi wile **musi** mute **lon ilo,** taso mama li ken ala e ni. | I want to **game** a lot, but my parents don't allow it. "
 3,lipamanka,game,v,,"utala, nasa",to mess with or exploit a system,mi **nasa** e nasin mani pi ma Tosi. | I'm **gaming** the German bank system. 
 2,lipamanka,gamer,n,,"jan musi, jan pi musi ilo",someone who plays enjoyable programs on computers,"mi toki ala tawa **jan pi musi ilo** tan ni: mi lili, la musi ilo li moli e mama mama mi. | I don't talk to **gamers** because gaming killed my grandma. "
-12,"mun Nanseki, pakala Mapuju",gay,adj,,"olin e {meli/mije}, olin e kule sama",attracted to one's own gender (cf '[straight]'),"ona li mije li **olin e mije**. | He's a guy and he's **gay**.
+12,"mun Nanseki, pakala Mapuju",gay,adj,1,"olin e {meli/mije}, olin e kule sama",attracted to one's own gender (cf '[straight]'),"ona li mije li **olin e mije**. | He's a guy and he's **gay**.
 jan mute li kama kulupu. ona ale li **olin e kule sama**. | Many people gathered. They're all **gay**."
-0,,gaze,,,,,
-0,,geek,,,,,
+12,lipamanka,gay,adj,2,"pilin pona, pona pilin",[happy],"mi **pilin pona** mute tan ni: sina kama jo e len noka weka mi! | I am very **gay,** for you have found my missing shoe! "
+0,lipamanka,gaze,v,,lukin,to look,"ona li **lukin** e lukin mi la ale li kama pona... | When she **gazes** into my eyes, everything's right..."
+0,lipamanka,gaze,n,,lukin,someone's line of attention,"sina pona e selo tawa sina, anu tawa **lukin** pi mije taso? | Do you engage in skincare for yourself, or just for the male **gaze?**"
+0,lipamanka,geek,n,,"jan sona, jan nasa","[nerd], someone interested in intellectual persuits, usually with a poor understanding of social standards",mi en **jan nasa** mute li utala lon supa musi. | Some **geeks** and I are playing a board game. 
 16,"mute ante, pakala Mapuju",gender,,,"(mije en meli la) poki, kule","social category of man, woman, nonbinary, etc.","**mije en meli la** mi **poki** ala. | I don't fit into the **gender binary**.
 **mije la meli la tonsi la** ale o kama e mani sama. | People deserve the same welfare regardless of **gender**."
 0,ijo vivi,general,adj,,"kulupu, mute, ale, ∅",involving many or all members of a group,nasin sin li pona e jan **mute**. | The new policy improved **general** quality of life.
@@ -1121,7 +1128,7 @@ sina wile ala wile ken e mi? | Would you like to **give** me permission?"
 0,ijo vivi,glide,v,1,tawa lon {supa},move along a surface without being stopped by friction,"ilo tawa li **tawa** pona e tomo lon sewi telo. | The propeller allowed the boat to **glide** smoothly across the water.
 ona li **tawa** musi lon supa lete. | They were **gliding** giddily on the ice surface."
 0,ijo vivi,glide,v,2,tawa (lon kon),move through the air,mi pana e lipu **tawa kon** li lukin e **tawa** ona. | We threw paper planes and watched them **glide**.
-0,ijo vivi,glow,v,,(pana e) suno,give off light,sitelen ni li lon pimeja la ona li **suno** a. | That charm can **glow** in the dark.
+0,ijo vivi,glow,v,,(pana e) suno (lon pimeja) ,"give off light, usually in the dark",sitelen ni li lon pimeja la ona li **suno** a. | That charm can **glow** in the dark.
 0,ijo vivi,glow,n,,suno,light source in the dark,mi lukin e **suno** kule lon ma pimeja pi monsi tomo. | I could see a neon **glow** from the woods behind the backyard.
 7,lipamanka,glue,n,,ko (wan),a wet material that can bind two objects together once dried ,**ko** ni li ken **wan** wawa e ale! | This **glue** can fix anything! 
 7,lipamanka,glue,v,,wan (kepeken ko),"to join or attach (usually, but not necessarily with such a material)","mi pakala e suno tomo, taso mi ken **wan** sin e anpa e sewi **kepeken ko**! | I broke my chandelier, but I can **glue** the bottom and the top together! "
@@ -2086,6 +2093,9 @@ jan sona li anpa e **utala** nanpa li kama pali e nasin pona. | The mathematicia
 0,soweli Lapate,prove,v,,toki e nasin,to explain why something is true,"ni li lon la, o **toki e nasin** tawa mi. | **Prove** it to me!"
 0,soweli Lapate,prove,v,,pana e sona pona (pi lon ona),to demonstrate the truth of a theorem or similar,toki ni pi sona nanpa li lon tan seme? ona li **pana e sona pona**. | He **proved** this mathematical theorem.
 0,ijo vivi,provide,,,pana,to give something needed,jan pona li **pana** e tomo e moku. | The benefactor **provides** board and lodging.
+0,lipamanka,prune,n,,"kili, kili pi weka telo",A dried plum,"mi majuna mute la mi o moku e **kili** ni mute: ona li pona tawa insa mi. | I'm really old, so I have to eat lots of **prunes** that support my digestive health. "
+0,lipamanka,prune,v,,weka,To remove a portion of a countable set,"jan Alison li **weka** e palisa tan kasi. | Alison **pruned** the tree.
+jan Alison li **weka** e lipu pi wile ala tan kulupu lipu lon ilo. | Alison **pruned** unwanted files from her database. "
 0,jan Lisente,public,adj,,"(pi, tawa) jan ale",accessible and free for all,"ni li ma kasi **pi jan ale**. | This is a **public** park.
 kulupu lawa li awen pona e nasin la, ni li pali pona **tawa jan ale**. | The government maintaining the roads is a **public** good."
 0,ijo vivi,pull,v,1,tawa (tawa mi),move towards oneself,"sina **tawa** e linja la ilo li open. | If you **pull** the cord, the machine starts."
