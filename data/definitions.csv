@@ -1281,7 +1281,8 @@ jan Epinisa Su li weka e **nasin** ike ona li kama pana e olin tawa kulupu ona. 
 3,jan Saki,hide,n,,selo,the raw skin of an animal,"jan li weka e **selo** tan moku, li sin e ona. | They separate the **hide** from the meat and clean it."
 3,ilo Tani,high,adj,1,"sewi, weka",especially elevated above the ground,waso ni li **sewi** weka a! | That bird is really **high** up!
 3,ilo Tani,high,adj,2,suli,tall,"selo pi ma ni li **suli** mute la jan li ken ala tawa sewi ona. | The wall around this place is very **high**, so people can't go over it."
-3,ilo Tani,high,adj,3,mute,"large, great in quantity",esun ni li wile e mani **mute** lon moku ona ale. | The prices are **high** in that store.
+3,ilo Tani,high,adj,3,"mute, suli","large, great in quantity","esun ni li wile e mani **mute** lon moku ona ale. | The prices are **high** in that store.
+nanpa tu tu li **suli** ala **suli**? | Is 4 a **high** number?"
 3,ilo Tani,high,adj,4,sewi,having greater prestige,"tomo ni la, toki pi lawa **sewi** o kama lon. | In this establishment, the words of the **high** officials are absolute."
 3,jan Saki,high,adj,5,nasa,under the influence of drugs,ona li nena e ko walo pi mute ike li kama **nasa** a. | He snorted too much white powder and got really **high**.
 3,jan Saki,high,adj,5a,"pilin wawa, pilin sewi","euphoric, as if having taken drugs",ona li toki pona e sijelo mi. mi alasa e **pilin sewi** sama tan tenpo ni. | They complimented my body. I've been chasing that **high** ever since.
@@ -1292,13 +1293,14 @@ sin la **ona** li toki tawa mi. | I heard back from **him** again."
 0,ijo vivi,his,,,ona,(possessive form of [he]),"tenpo pini mute la mu **ona** la mi kama wile utala. | Historically, **his** hiss has made me throw a hissy."
 6,ijo vivi,history,,,tenpo pini; tenpo ale,"events that happened in the past, collectively","**ijo ale pi tenpo pini** li kama sin lon sike. | **History** always repeats itself.
 mi lukin e sitelen. ona li toki e **tenpo ale ni**: jan li alasa kama lon pini pi musi Malijo kepeken tenpo pi lili nanpa wan. | I'm watching a video on the **history** of Mario speedruns."
-3,ijo vivi,hit,,,"pakala {luka}, utala",to hurt or damage by striking,mi utala la jan li kama **pakala luka** e mi! | We were arguing and he just **hit** me!
+3,ijo vivi,hit,,,"pakala {luka}, utala",to hurt or damage by striking,mi en jan li utala la jan li kama **pakala luka** e mi a! | We were arguing and he just **hit** me!
 3,ijo vivi,hit,,,kama lon ...,"to come into contact with, with a lot of force","supa li **kama** lon anpa la ona li kalama li pakala wawa. | When the plate **hit** the ground, it made a crashing noise and shattered."
-0,ijo vivi,hold,v,,jo,to have in one's hand,mi **jo** wawa ala e palisa kasi tan ni: ona li ken pakala. | I didn't **hold** on to the branch with force for fear that it might snap.
+0,ijo vivi,hobby,,,musi,activity that one enjoys,mi alasa e kiwen mani pi ma lawa ale tawa **musi**. | I collect coins from all countries as a **hobby**.
+0,ijo vivi,hold,v,,jo,to [have] in one's hand,mi **jo** e palisa sewi li sewi e mi. | I **held** the bar above and hoisted myself up.
 0,ijo vivi,hold,v,,"jo, ... li lon ...",to contain,poki luka wan **li lon** poki suli. | The package **holds** six bottles.
 0,ijo vivi,hold,v,,"jo, awen",to hold onto and keep,o **awen** e telo mi. | **Hold** my beer.
 0,ijo vivi,hold,v,,awen lon,to remain valid,toki mi pi tenpo pini li **awen lon**. | My claims from last year still **hold**.
-0,ijo vivi,hold,v,,pilin,to have an opinion,**pilin** ona la ma musi li ike tan kalama ona tan suno ona. | He **holds** that the fun fair only produces unpleasant noise and bright lights.
+0,ijo vivi,hold,v,,pilin,to have an opinion,**pilin** ona la ma musi li ike tan kalama ona tan suno ona. | He **holds** that the fun fair is exhausting due to its noise and bright lights.
 0,ijo vivi,hold,v,,kama,(of an event) to [happen],tenpo open li **kama** lon suno kama. | The opening ceremony will be **held** tomorrow.
 4,ilo Tani,hole,,,lupa,a hollow opening in a surface; a blind hole,mi **lupa** e ma la mi ken mama e kasi sin. | I dug a **hole** in the ground to grow a new plant.
 4,ilo Tani,hole,,,lupa,an opening that goes from one side to another of a surface; a through hole,"a, len noka mi la **lupa li** lon. | Huh, there's a hole in my sock."
@@ -1398,7 +1400,8 @@ open pi suno ni la, mi wile **supa e len mi kepeken kiwen seli**. | I need to **
 0,ijo vivi,issue,,,"pakala, ike",[problem],"ilo la **pakala** sin li seme a? | What's the **issue** with the printer this time?
 mi olin e meli. ni li **ike** tawa sina la o weka. | I'm a lesbian, and if you have an **issue** with that, GTFO."
 916,jan Saki,it,pn,1,ona,(3rd person inanimate singular pronoun),ni li ilo pi pana seli. **ona** li pana e seli. | This is a flamethrower. **It** throws flames.
-916,ijo vivi,it,pn,1a,ni,(when referring to a whole sentence or clause),mi uta suwi e meli. **ni** li pona tawa mi. | I kissed a girl and I liked **it**.
+916,ijo vivi,it,pn,1a,ni,(when referring to a whole sentence or clause),"mi uta suwi e meli. **ni** li pona tawa mi. | I kissed a girl and I liked **it**.
+**ni** li pona: sina lon poka mi. | **It**'s nice that you're here with me."
 916,jan Saki,it,pn,2,∅; lon,(dummy pronoun),"telo li kama tan sewi. | **It** is raining.
 tenpo pimeja **li lon**. | **It**'s nighttime."
 1,ijo vivi,itch,,,wile luka e selo,sensation of wanting to scratch skin,selo mi li kama loje. mi kama **wile luka mute e ona**. | My skin became red and **itchy**.
@@ -2121,7 +2124,8 @@ kalama li nasa tawa kute. | The sound had an uncanny **quality**."
 4,mun Kekan San,quick,,,"lon tenpo lili, kepeken tenpo lili","in little time, [fast]",sina kama sona e nasin nanpa **kepeken tenpo lili** a! | You learned calculus very **quickly**!
 4,ijo vivi,quick,,,∅,"(used in polite requests, to suggest that the request won't take up much time)",o alasa e pakala lon lipu mi. | Can you look over my letter **real quick**?
 3,kulupu Nesutewija,quickly,,,wawa,with power or speed,mi pali **wawa** e ijo mi. | I work **quickly** on my things.
-0,jan Saki,quiet,adj,1,kalama ala,without sound,"jan wawa li kama lon supa la, jan ale li kama **kalama ala**. | When the singer came on stage, everyone became **quiet**."
+0,jan Saki,quiet,adj,1,kalama ala,without sound,"jan wawa li kama lon supa la, jan ale li kama **kalama ala**. | When the singer came on stage, everyone became **quiet**.
+**kalama ala** li lon tomo lipu. | It was **quiet** in the library."
 0,,quiet,adj,2,"utala ala, pona","peaceful, calm",mi wile e ni: ma ale o **utala ala**. | I wish the world could be **quieter**.
 0,ijo vivi,quite,,,a,(an intensifier),tomo ni li suli **a**. | That building is **quite** big.
 0,mun Kekan San,quite,,,"lili, ∅",(used to downtone),sona ni li pakala **lili**. | That isn't **quite** right.
