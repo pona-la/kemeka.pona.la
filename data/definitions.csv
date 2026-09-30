@@ -2229,8 +2229,10 @@ ona li **alasa e sona** toki. | She does **research** into linguistics."
 0,ijo vivi,rub,,,"tawa (lon supa), weka e jaki","move something across a surface with high tension, especially in order to clean it",
 0,ijo vivi,rub,,,unpa,masturbate,
 0,ilo Tani,rule,v,,lawa,to have authority over,"tenpo suli la jan pi ma Loma li **lawa** e ma Inli. | For a long time, the people of Rome **ruled** England."
-0,ilo Tani,rule,n,,lawa,"a regulation, law",ma ni la **lawa** wan taso li lon: o awen pona tawa jan ante. | This place only has one **rule**: be good to others.
-0,ilo Tani,rule,n,,tenpo lawa,a period of rule,**tenpo lawa** pi jan Elisape nanpa tu li awen lon sike mute mute mute luka luka. | The rule of Queen Elizabeth the Second lasted seventy years.
+0,ilo Tani,rule,n,1,lawa,"a regulation, law",ma ni la **lawa** wan taso li lon: o awen pona tawa jan ante. | This place only has one **rule**: be good to others.
+0,ilo Tani,rule,n,1a,tenpo lawa,a period of rule,**tenpo lawa** pi jan Elisape nanpa tu li awen lon sike mute mute mute luka luka. | The rule of Queen Elizabeth the Second lasted seventy years.
+0,ijo vivi,rule,n,2,nasin,regulating principle,"sina lon ma sin la **nasin** pona li ni: o sama jan pi ma ni. | A good **rule** when travelling is to do as the locals do.
+mi sona e kon pi nimi ale e **nasin** nimi mute. | I know the meaning of all the words and most of the grammatical **rules**."
 6,kala Asi,run,v,1,tawa wawa,move with great force,mi wile pona e sijelo mi. mi kama **tawa** kepeken **wawa**. | I decided to get back into shape. I have gotten into **running**.
 6,kala Asi,run,v,2,weka,flee,ona li jo wawa e poki mi li **weka**. | He snatched my purse and **ran**.
 6,kala Asi,run,v,3,tawa,flow in the manner of a liquid,telo li tan ma nena li **tawa** ma anpa. | Rivers originate in the highlands and **run** to the lowlands.
