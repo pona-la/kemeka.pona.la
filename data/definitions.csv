@@ -2325,7 +2325,8 @@ ona li **lon** kulupu utala lon tenpo sike tu tu. | They **served** in the milit
 mi **pana** e lipu ale tawa supa pali. | I **set** all my documents on my workbench."
 0,mun Kekan San,set,v,,"ante, kama (e)",to change a setting,jan lawa li **ante** e wawa seli lon tomo. | The boss **set** the temperature in the office. 
 0,mun Kekan San,several,adj,,mute,multiple (of something),
-0,jan Lisente,sex,n,1,unpa,sexual intercourse,**unpa** li pona tawa jan mute. | Many people enjoy **having sex**.
+0,ijo vivi,sex,n,1,unpa,sexual intercourse,"**unpa** seme li pona tawa sina? | What kind of **sex** do you like?
+sina en ona li **unpa**. | You and him were having **sex**."
 0,ijo vivi,sex,n,2,nasin sijelo,biological category,waso la **nasin sijelo** li ken ante ale lon tenpo. | Chickens' **sex** can change completely over time.
 0,ijo vivi,shadow,,,(len suno la) pimeja,darkness created by another object blocking the light,"sitelen ni la ilo sitelen li **len** e **suno** li **pimeja** e sinpin mi. | In this picture, the camera is casting a **shadow** over my face."
 0,,shake,,,,,
@@ -2335,6 +2336,12 @@ mi **pana** e lipu ale tawa supa pali. | I **set** all my documents on my workbe
 3,jan Saki,shape,n,2,pona,good condition (esp. of the body),"sijelo sina li **pona ala** lon tenpo ni la, o pali ike ala. | Don't push yourself too hard if you're not in **shape**."
 3,jan Saki,shape,v,1,"pali, ante, sitelen",to form into a particular shape,ona li **pali** e poki tan ko. | She **shapes** the clay into pots.
 3,jan Saki,shape,v,2,ante,(esp. of a person or their character) to influence,
+0,ijo vivi,share,v,1,pana,to offer to someone else,"o **pana** e pan tawa mi kin! | Will you **share** the cake with me, too?
+mi **pana** e sitelen ni tawa jan pona. | I'm gonna **share** this meme with a friend."
+0,soweli Lapate,share,v,2,∅ + recipient of the action; compare [have],to allow or cause someone else to do the same action,"o **ken** e ni: **jan ale** li musi kepeken ijo musi! | **Share** the toy with everyone!
+**jan tu** li pilin e ike la ni li lili e ona. | A sorrow **shared** is a sorrow halved."
+0,soweli Lapate,share,v,3,sama,to have in common,"mi tu li wile e ijo **sama**. | We **share** the same goal.
+nasin pi mute lili la, pipi ni li **sama**. | These bugs **share** a few characteristics."
 0,,share,,,,,
 0,lipamanka,shark,,,kala suli,a large carnivorous fish ,"sama **kala suli** la mi alasa! | Like a **shark,** I hunt!"
 7,lipamanka,sharp,,,(jo e) nena (ike),"spiky, piercing","o sona: kasi ni li **jo e nena** mute ni: ona li ken open e selo sina! | Beware, this plant is very **sharp,** and can pierce your skin! "
@@ -2422,8 +2429,8 @@ mi anpa tan ilo tawa la **selo** mi li kama pakala. | I fell off my bike, so I g
 11,"ijo vivi, ilo Tani",slow,,2,musi ala,lacking activity,suno mute la ijo **musi ala** li lon. | Many days were **slow**.
 0,,slowly,,,,,
 4,lipamanka,small,adj,,lili,of low size level,soweli mi li moku e telo walo **lili** tan poki. | My pet aardvark drinks a **small** portion of milk from a saucer. 
-13,ilo Tani,smell,v,,pilin e kon,to sense the smell of,"mi **pilin e kon** pan la sijelo mi li kama wile a moku. | When I smelled the rice, I got really hungry."
-13,"mun Nanseki, jan Lakuse",smell,n,,kon,scent given off by something,**kon** jaki ni li seme | What is that gross **smell**?
+13,ilo Tani,smell,v,,pilin e kon,to sense the smell of,"mi **pilin e kon** pan la sijelo mi li kama wile a moku. | When I **smelled** the rice, I got really hungry."
+13,"mun Nanseki, jan Lakuse",smell,n,,kon; pilin nena,scent given off by something,**kon** jaki ni li seme a? | What is that gross **smell**?
 4,pakala Mapuju,smile,,,sinpin pi pilin pona,"a facial expression of happiness, in which the sides of the mouth are turned up","mi toki e nimi ona la ona li pana e **sinpin pi pilin pona**. | When I said her name, she lit up with a **smile**."
 2,ijo vivi,smoke,n,1,kon (seli),thick white or gray gas created when something burns,seli li pana e **kon** walo. | The fire gave off whitish plumes of **smoke**.
 2,ijo vivi,smoke,v,1,moku e kon nasa,to inhale smoke in order to intoxicate oneself,sina wile ala wile **moku e kon** pi kasi nasa? | Do you want to **smoke** weed?
