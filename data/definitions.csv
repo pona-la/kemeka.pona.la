@@ -527,7 +527,8 @@ mi **pana e sona** pi pali moku tawa kulupu. | I give cooking **classes**."
 4,pakala Mapuju,close,v,,pini,to block an opening,"ona li **pini** e lupa. | She **closed** the door.
 open pi sijelo ilo li **pini** lon tenpo ni. | Registration is currently **closed**."
 4,pakala Mapuju,close,adj,1,"poka, lon poka (pi)","nearby, in the vicinity (of)","mi **poka** tawa tomo sewi. | I'm **close** to the temple.
-ona li **lon poka** pi ma Ontula. | It's **close** to Honduras."
+ona li **lon poka** pi ma Ontula. | It's **close** to Honduras.
+sina **poka** a tawa wile sina! o awen alasa! | You're so **close** to your goal! Keep trying!"
 4,pakala Mapuju,close,adj,2,poka,"emotionally connected, intimate",mi en jan Lusi li **poka** mute. | I'm really **close** with Lucy.
 2,lipamanka,cloth,,,len,"a woven material used to make clothes, among other things",o pilin ike ala. o kepeken **len** ni tawa lukin telo sina. | Don't feel sad. Use this **cloth** for your tearing eyes.
 2,kala Asi,clothes,,,len,a cover for body parts,o jo e **len** ni: suli ona li pona tawa sijelo sina. | Make sure to pick appropriately sized **clothes**.
@@ -1000,7 +1001,9 @@ o **loje** e lipu tan kulupu pi linja toki. | **Flag** that email from the phone
 0,jan Saki,flame,n,,(sijelo) seli,"the visible body of a [fire], made of glowing, rising gases","kiwen pimeja ni li ken seli wawa. taso, seli ni li jo ala e **sijelo** | Charcoal burns quite well, but produces no **flame**."
 0,jan Saki,flesh,n,,sijelo,the (organic) body of an animal,"mi kama sona e lili wawa pi **sijelo** mi la, mi pilin jaki tan ona. | From the moment I understood the weakness of my **flesh**, it disgusted me."
 0,,float,,,,,
-5,ilo Tani,floor,n,,"supa, supa anpa",the bottom surface in a room,pakala! telo mi li tawa **supa** tan poki a. | Crap! My drink spilled onto the floor.
+5,ilo Tani,floor,n,1,"supa, supa anpa, anpa",the bottom surface in a room,pakala! telo mi li tawa **supa** tan poki a. | Crap! My drink spilled onto the **floor**.
+5,ijo vivi,floor,n,2,supa,storey,esun moku li lon **supa** nanpa tu wan. esun pi telo moku li lon **supa** nanpa tu tu. | The clothes store is on the third **floor**. The soup store is on the fourth **floor**.
+5,ijo vivi,floor,v,1,nasa wawa,to utterly surprise or shock,sona ni li **nasa wawa** e mi: lon la jan li ken nasin e lawa pi jan ante kepeken toki nasa. | I was **floored** when I learned that hypnosis is real.
 0,,flow,,,,,
 5,ijo vivi,flower,,,"kasi, kasi suwi, kasi kule",colorful plant often considered beautiful,mi kulupu e **kasi** pi kule mute li pana e ona tawa olin mi. | I collected **flowers** in many colors and brought them to my boyfriend.
 4,mun Kekan San,fly,n,1,pipi,insect,"mi esun e kili palisa la **pipi** kili mute li kama lon tomo mi... | When I bought bananas, a bunch of fruit **flies** came home with them..."
@@ -1595,6 +1598,8 @@ mi **olin** e mije mi. | I **love** my husband."
 2,ijo vivi,low,,3,"(tan ijo) suli; len, weka","of sound: with slow vibrations, like that of a large animal","mi kute e kalama nasa **tan weka**. | I heard a strange, **low** rumbling.
 mi kalama e ilo lon kulupu. kalama pi ilo mi li len li lili tawa kalama uta tawa kalama pi ilo ante. | I perform in a band. My instrument makes **low** tones that blend into the vocals and other instruments."
 2,ijo vivi,low,,4,"(pilin) ike, anpa","sad, depressed",mi sona ala e ni: **pilin anpa** mi li ken wawa ni. | I never thought I could feel this **low**.
+0,ijo vivi,lowkey,,,lili (la); a; ∅,"adding emotion: somewhat, [kind of]","**lili la** mi wile musi Manka. | I **lowkey** want to play Minecraft.
+nasin ona li wawa **a**. | She's **lowkey** good at this though."
 2,,lucky,,,,,
 0,ijo vivi,lungs,,,"insa kon, poki kon",internal organ that holds [breath],"**insa** mi **kon** li pilin pakala. | I feel a pain in my **lungs**.
 sina moku mute e kon jaki la **poki kon insa** li ken kama pakala. | Constant smoking can hurt your **lungs**."
