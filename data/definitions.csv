@@ -1060,6 +1060,7 @@ mi pali e pan suwi **tawa** sina. | I made cookies **for** you."
 mi len e mi lon **lon** tenpo suli. | I've been masking my true self **for** a long time."
 39,kala Asi,for,,,pona,in favour,"jan luka luka la **pona**. jan tu la pona ala. | Ten people voted **for**, two against."
 5,ilo Tani,for example,,,sama ni,providing an instance demonstrating a pattern or rule,"sina wile toki e ken la, nimi 'sama' li ken pona, **sama ni**: ""nimi 'sama' li ken pona, sama ni."" | If you want to discuss possibilities, the word 'sama' may be effective; **for example**, ""nimi 'sama' li ken pona, sama ni."""
+0,ale sa,for some reason,,,nasa,"for an uncertain or confusing reason; hence, unexpectedly, strangely",**nasa la** soweli mi li mu mute a. | My cat meows so much **for some reason**.
 0,soweli Lapate,forbid,v,,ken ala e,to disallow something,mi **ken ala e** ni: ona li moku e soweli mi. | I **forbid** her from eating my hamster.
 0,ijo vivi,force,n,,wawa,"power, energy","ona li lon tomo lili lon telo suli la ona li ken a pilin e **wawa** ona. | Being in a small boat on a great ocean, she really felt the **force** of the water.
 **wawa** li wawa ale, ala li ken pini e ona. sinpin li wawa ale li ken pini e ale. ona li kama wan la seme li kama? | Who would win, an unstoppable **force** or an immovable object?"
@@ -2724,6 +2725,7 @@ o **toki** e nasin tawa mi. | **Tell** me how it works."
 6,ijo vivi,test,v,,alasa,to try something to see if it works,"mi **alasa** kepeken ilo nasa sina. | I'll **test** your weird invention.
 mi **alasa** e pona pi misikeke mi sin. | I'm **testing** the efficacy of my new medicine."
 0,"ijo vivi, (via Wasona)",testosterone,,,"{misikeke, kiwen, ko, ...} mije; moku mije",substance used in masculinizing hormone therapy,mi mije e sijelo mi kepeken **ko**. | I'm making my body more masculine with **testosterone gel**.
+0,jan Niwe,-th,,,nanpa {ijo},"ordinal suffix, e.g. fourth, fifth, sixth",ni li ilo sina tawa **nanpa** luka pi tenpo sike ni. sina pakala e ona pi mute ni tan seme? | This is your fif**th** car of this year. Why have you crashed so many?
 2,ijo vivi,than,,,tawa,(used in comparisons),sijelo mi li suli **tawa** sijelo sina. | I'm taller **than** you.
 180,jan Saki,thank,v,,"pilin pona tan (ijo), (ijo) li pona",to appreciate; to have gratitude for,"jan lawa mi li **toki e ni**: ""sina pali e ilo ni la, **sina pona**."" | My boss **thanked** me for writing that new script."
 180,jan Saki,thank,v,,tan,"to blame, particularly for something bad","**tan** kulupu suli la, sina ken ala esun e ijo li jo e ona. | You can **thank** big corporations for not letting you own the things you buy."
@@ -2861,7 +2863,7 @@ nasin ni li wawa li ken awen lon sewi telo tan ni: jan li pali e noka ona kepeke
 0,ijo vivi,trick,,,nasin (nasa),"a method, especially one that is surprising or unexpected","**nasin** pona la o jo e ona sama ni: sewi li lon poka. | The **trick** is to hold it sideways.
 jan wawa ale li wile utala e **nasin nasa** ni! | Experts hate this simple **trick**!"
 0,soweli Lapate,trip,n,,tawa,a journey,"mi lukin e lipu tu wan lon **tawa** suli mi. | On my long **trip**, I read three books."
-,soweli Lapate,trip,v,,(kama) pakala,to fall or stumble,"I **tripped** on a little rock on the path. | nasin la, mi **kama pakala** tan kiwen lili."
+,soweli Lapate,trip,v,,(kama) pakala,to fall or stumble,"nasin la, mi **kama pakala** tan kiwen lili. | I **tripped** on a little rock on the path."
 0,,trouble,,,,,
 0,ijo vivi,trouble,,,"ike, pakala",[problem],ilo wawa li ken ko pona e moku li **pakala** ala tan ni. | A powerful grinder can crush food without any **trouble**.
 5,ilo Tani,true,,,lon,"factual, conforming with reality","ona li toki e ijo tu wan. ijo wan taso li **lon**. | She spoke three things, but only one was **true**."
@@ -3006,14 +3008,15 @@ o toki e **ni**: nanpa **seme** li open e poki mani? | Please tell me **what** n
 12,ijo vivi,where,,,(lon) ni,"at which, in which","ona li kama **lon** ma **ni**: jan li moli la kon ona li kama lon ona. | They stumbled upon the place **where** all good souls come to rest.
 kulupu toki **ni** li pona tawa mi: jan ale a li toki. | I like the kind of discussion rounds **where** everyone contributes something."
 12,kala Asi,where,,,"tawa seme, tawa (ijo) seme","to what destination, whither",tomo telo ni li **tawa ma seme**? | **Where** is this ship headed off to?
-3,ijo vivi,whether,,,ijo ala ijo,introducing a question,"mi sona ala e ni: ilo li **pakala ala pakala**. | I don't know **whether** the sink is broken.
+3,ijo vivi,whether,,,{ijo} ala {ijo},introducing a question,"mi sona ala e ni: ilo li **pakala ala pakala**. | I don't know **whether** the sink is broken.
 ona li **kama ala kama**? | Do you know **whether** she's coming?"
 3,ijo vivi,whether,,,lon {ijo} lon ala {ijo},under either condition,ona li kama **lon** wile sina **lon ala** wile sina **kin**. | She's coming **whether** you want it or not.
-0,ijo vivi,which,pn,,seme,what out of a set of options,sina la poki ni **seme** li suwi nanpa wan lon noka mi? | **Which** of these shoes do you think suit me best?
+0,ijo vivi,which,pn,1,seme,what out of a set of options,sina la poki ni **seme** li suwi nanpa wan lon noka mi? | **Which** of these shoes do you think suit me best?
+0,jan Niwe,which,pn,2,nanpa seme,"what number, what position",mama sewi Lejo nanpa luka luka tu tu li mama **nanpa seme**? — nanpa TAMMMLT. | **Which** pope is Pope Leo XIV? — The 267th.
 5,ilo Tani,while,conj,,la,during the same time that,"ona li lawa e ilo **la** mi lape. | **While** he was driving the car, I was sleeping."
 5,ilo Tani,while,n,,tenpo,an unspecified period of time,ona li awen toki lon **tenpo** suli. | They continued lecturing for a long **while**.
-0,soweli Lapate,whisper,v,,toki pi kalama lili,to speak in a very low voice,Whisper the answer to me! | o **toki pi kalama lili** e sona tawa mi!
-,soweli Lapate,whisper,v,,toki ... sama kalama kon,"to speak in a breathy, quiet way","She whispered ""I love you"" in my ear. | ona li **toki** e ni tawa kute mi **sama kalama kon**: mi olin e sina."
+0,soweli Lapate,whisper,v,,toki pi kalama lili,to speak in a very low voice,o **toki pi kalama lili** e sona tawa mi! | Whisper the answer to me!
+,soweli Lapate,whisper,v,,toki ... sama kalama kon,"to speak in a breathy, quiet way","ona li **toki** e ni tawa kute mi **sama kalama kon**: mi olin e sina. | She whispered ""I love you"" in my ear."
 2,mun Nanseki,white,,,walo,a light color,"len ale mi li **walo** la mi sama jan sewi pona. | All my clothes are **white**, so I'm kind of like an angel."
 3,ijo vivi,who,pn,,(jan) seme,what thing or person,**seme** li moku kepeken supa mi? | **Who** has been eating off my plate?
 3,,who,,,ni; ∅,(relative pronoun),
